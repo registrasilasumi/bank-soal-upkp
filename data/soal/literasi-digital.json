@@ -1,0 +1,420 @@
+[
+  {
+    "id": "literasi-digital-001",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Empat Pilar",
+    "tingkat": "mudah",
+    "pertanyaan": "Empat pilar literasi digital menurut rangkuman adalah ...",
+    "opsi": {
+      "A": "membaca, menulis, berhitung, dan berbicara",
+      "B": "akses, adopsi, adaptasi, dan inovasi",
+      "C": "informasi, komunikasi, kolaborasi, dan kreasi",
+      "D": "keterampilan digital, budaya digital, etika digital, dan keamanan digital",
+      "E": "perangkat keras, perangkat lunak, jaringan, dan data"
+    },
+    "jawaban": "D",
+    "pembahasan": "Rangkuman menyebut empat pilar: keterampilan digital, budaya digital, etika digital, dan keamanan digital.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2 Literasi Digital",
+    "di_luar_materi": false
+  },
+  {
+    "id": "literasi-digital-002",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Empat Pilar",
+    "tingkat": "sedang",
+    "pertanyaan": "Kemampuan mengoperasikan perangkat keras, perangkat lunak, dan sistem operasi termasuk pilar ...",
+    "opsi": {
+      "A": "keamanan digital",
+      "B": "budaya digital",
+      "C": "komunikasi digital",
+      "D": "etika digital",
+      "E": "keterampilan digital"
+    },
+    "jawaban": "E",
+    "pembahasan": "Keterampilan digital mencakup penguasaan hardware, software, dan sistem operasi.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "literasi-digital-003",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Empat Pilar",
+    "tingkat": "sedang",
+    "pertanyaan": "Menerapkan nilai Pancasila dan Bhinneka Tunggal Ika dalam interaksi di ruang digital termasuk pilar ...",
+    "opsi": {
+      "A": "budaya digital",
+      "B": "infrastruktur digital",
+      "C": "keamanan digital",
+      "D": "etika digital",
+      "E": "keterampilan digital"
+    },
+    "jawaban": "A",
+    "pembahasan": "Budaya digital mencakup nilai Pancasila dan Bhinneka Tunggal Ika di ruang digital serta transaksi digital.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "literasi-digital-004",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Empat Pilar",
+    "tingkat": "sedang",
+    "pertanyaan": "Tidak menyebarkan hoaks, menerapkan netiket, dan tidak merundung orang lain di media sosial termasuk pilar ...",
+    "opsi": {
+      "A": "keterampilan digital",
+      "B": "etika digital",
+      "C": "ekonomi digital",
+      "D": "keamanan digital",
+      "E": "budaya digital"
+    },
+    "jawaban": "B",
+    "pembahasan": "Etika digital mencakup netiket, tidak menyebar hoaks, dan tidak merundung.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "literasi-digital-005",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Empat Pilar",
+    "tingkat": "sedang",
+    "pertanyaan": "Menjaga kerahasiaan password dan kode OTP serta waspada terhadap kejahatan siber termasuk pilar ...",
+    "opsi": {
+      "A": "transformasi digital",
+      "B": "etika digital",
+      "C": "keamanan digital",
+      "D": "budaya digital",
+      "E": "keterampilan digital"
+    },
+    "jawaban": "C",
+    "pembahasan": "Keamanan digital mencakup pengelolaan password, OTP, dan kewaspadaan terhadap kejahatan siber.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "literasi-digital-006",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Empat Pilar",
+    "tingkat": "sedang",
+    "pertanyaan": "Transaksi digital termasuk ke dalam pilar literasi digital ...",
+    "opsi": {
+      "A": "keamanan digital",
+      "B": "keterampilan digital",
+      "C": "budaya digital",
+      "D": "etika digital",
+      "E": "komunikasi digital"
+    },
+    "jawaban": "C",
+    "pembahasan": "Rangkuman memasukkan transaksi digital dalam pilar budaya digital.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "literasi-digital-007",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Keamanan Digital",
+    "tingkat": "mudah",
+    "pertanyaan": "Seorang pegawai menerima pesan yang mengatasnamakan bank dan meminta kode OTP. Tindakan yang tepat adalah ...",
+    "opsi": {
+      "A": "memberikan OTP karena pesan resmi dari bank",
+      "B": "tidak memberikan kode OTP kepada siapa pun dan melaporkannya",
+      "C": "membalas pesan untuk meminta penjelasan",
+      "D": "membagikan pesan itu ke grup kantor sebagai lelucon",
+      "E": "mengganti nomor telepon tanpa melapor"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kode OTP bersifat rahasia dan tidak boleh diberikan kepada siapa pun; permintaan OTP adalah ciri penipuan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2 (keamanan digital: OTP)",
+    "di_luar_materi": false
+  },
+  {
+    "id": "literasi-digital-008",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Keamanan Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Kata sandi berikut yang paling kuat adalah ...",
+    "opsi": {
+      "A": "sukamiskin2025",
+      "B": "12345678",
+      "C": "password",
+      "D": "tanggallahirsaya",
+      "E": "Tg7#pL2!wQ9z"
+    },
+    "jawaban": "E",
+    "pembahasan": "Kata sandi kuat panjang dan memadukan huruf besar, huruf kecil, angka, dan simbol; hindari kata umum atau data pribadi.",
+    "sumber": "Pengetahuan umum keamanan digital",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-009",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Keamanan Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Upaya penipuan yang memancing korban memasukkan data pribadi atau kata sandi melalui tautan/situs palsu disebut ...",
+    "opsi": {
+      "A": "phishing",
+      "B": "firewall",
+      "C": "bandwidth",
+      "D": "cookies",
+      "E": "backup"
+    },
+    "jawaban": "A",
+    "pembahasan": "Phishing adalah penipuan untuk mencuri data melalui tautan atau situs palsu.",
+    "sumber": "Pengetahuan umum keamanan digital",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-010",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Keamanan Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Fitur keamanan yang mewajibkan pengguna memasukkan kata sandi dan kode tambahan (mis. dari aplikasi autentikator) disebut ...",
+    "opsi": {
+      "A": "enkripsi satu arah",
+      "B": "pemulihan sistem",
+      "C": "kompresi data",
+      "D": "autentikasi dua faktor (2FA)",
+      "E": "mode penyamaran (incognito)"
+    },
+    "jawaban": "D",
+    "pembahasan": "Autentikasi dua faktor menambah lapisan keamanan selain kata sandi.",
+    "sumber": "Pengetahuan umum keamanan digital",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-011",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Keamanan Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Risiko utama mengakses akun dinas melalui Wi-Fi publik tanpa pengamanan adalah ...",
+    "opsi": {
+      "A": "data dapat disadap oleh pihak lain di jaringan yang sama",
+      "B": "layar perangkat menjadi rusak",
+      "C": "akun otomatis terhapus",
+      "D": "perangkat otomatis diperbarui",
+      "E": "baterai perangkat cepat habis"
+    },
+    "jawaban": "A",
+    "pembahasan": "Wi-Fi publik tanpa pengamanan memungkinkan penyadapan data.",
+    "sumber": "Pengetahuan umum keamanan digital",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-012",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Keamanan Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Program jahat yang mengunci atau mengenkripsi data dan meminta tebusan disebut ...",
+    "opsi": {
+      "A": "antivirus",
+      "B": "spreadsheet",
+      "C": "freeware",
+      "D": "ransomware",
+      "E": "browser"
+    },
+    "jawaban": "D",
+    "pembahasan": "Ransomware mengenkripsi data korban dan meminta tebusan.",
+    "sumber": "Pengetahuan umum keamanan digital",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-013",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Keamanan Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Penanda alamat situs web yang menunjukkan koneksi terenkripsi adalah ...",
+    "opsi": {
+      "A": "alamat diakhiri .exe",
+      "B": "https:// (biasanya disertai ikon gembok)",
+      "C": "www tanpa awalan",
+      "D": "ftp://",
+      "E": "http://"
+    },
+    "jawaban": "B",
+    "pembahasan": "HTTPS menandakan koneksi terenkripsi antara peramban dan situs.",
+    "sumber": "Pengetahuan umum keamanan digital",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-014",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Keamanan Digital",
+    "tingkat": "sulit",
+    "pertanyaan": "Teknik penipuan yang memanipulasi psikologis korban, misalnya pelaku berpura-pura menjadi atasan dan meminta data rahasia lewat telepon, disebut ...",
+    "opsi": {
+      "A": "pemadatan data",
+      "B": "peretasan perangkat keras",
+      "C": "rekayasa sosial (social engineering)",
+      "D": "serangan DDoS",
+      "E": "pemrograman ganda"
+    },
+    "jawaban": "C",
+    "pembahasan": "Social engineering memanfaatkan manipulasi psikologis agar korban membocorkan informasi.",
+    "sumber": "Pengetahuan umum keamanan digital",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-015",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Keamanan Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Langkah paling tepat untuk mencegah kehilangan data penting akibat kerusakan perangkat adalah ...",
+    "opsi": {
+      "A": "mematikan antivirus",
+      "B": "menghapus pembaruan sistem",
+      "C": "membagikan kata sandi kepada rekan",
+      "D": "menyimpan semua data hanya di desktop",
+      "E": "membuat cadangan (backup) data secara berkala"
+    },
+    "jawaban": "E",
+    "pembahasan": "Backup berkala memungkinkan data dipulihkan saat perangkat rusak atau terserang malware.",
+    "sumber": "Pengetahuan umum keamanan digital",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-016",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Etika Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Sebelum membagikan informasi yang viral di grup kantor, sikap yang paling tepat adalah ...",
+    "opsi": {
+      "A": "membagikan dengan mencantumkan \"belum tentu benar\"",
+      "B": "memeriksa kebenaran informasi dari sumber resmi terlebih dahulu",
+      "C": "menambahkan komentar agar lebih menarik",
+      "D": "menghapus grup agar tidak ada informasi",
+      "E": "langsung membagikan agar rekan cepat tahu"
+    },
+    "jawaban": "B",
+    "pembahasan": "Etika digital menuntut tidak menyebarkan hoaks; informasi perlu dicek ke sumber resmi sebelum dibagikan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2 (etika digital: tidak menyebar hoaks)",
+    "di_luar_materi": false
+  },
+  {
+    "id": "literasi-digital-017",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Etika Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Seorang pegawai mengunggah foto dokumen warga binaan lengkap dengan nama dan nomor registrasi ke media sosial pribadinya. Tindakan ini melanggar ...",
+    "opsi": {
+      "A": "etika digital hanya bila foto diberi filter",
+      "B": "keterampilan digital karena foto kurang jelas",
+      "C": "budaya digital karena tidak memakai bahasa daerah",
+      "D": "etika dan keamanan digital karena menyebarkan data pribadi orang lain",
+      "E": "tidak ada pelanggaran karena akun pribadi"
+    },
+    "jawaban": "D",
+    "pembahasan": "Menyebarkan data pribadi orang lain melanggar etika dan keamanan digital serta kewajiban menjaga rahasia jabatan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2; UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 4 (menjaga rahasia jabatan)",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-018",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Etika Digital",
+    "tingkat": "mudah",
+    "pertanyaan": "Mengirim pesan berulang-ulang yang menghina dan mempermalukan seseorang di media sosial disebut ...",
+    "opsi": {
+      "A": "perundungan siber (cyberbullying)",
+      "B": "netiket",
+      "C": "kolaborasi daring",
+      "D": "literasi informasi",
+      "E": "verifikasi fakta"
+    },
+    "jawaban": "A",
+    "pembahasan": "Cyberbullying adalah perundungan melalui media digital dan bertentangan dengan etika digital.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2 (etika digital: tidak merundung)",
+    "di_luar_materi": false
+  },
+  {
+    "id": "literasi-digital-019",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Etika Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Jejak digital (digital footprint) adalah ...",
+    "opsi": {
+      "A": "kode akses aplikasi",
+      "B": "sidik jari pada layar sentuh",
+      "C": "alamat IP kantor",
+      "D": "tanda tangan elektronik resmi",
+      "E": "rekam data aktivitas seseorang di internet yang dapat tersimpan dan dilacak"
+    },
+    "jawaban": "E",
+    "pembahasan": "Jejak digital adalah rekaman aktivitas daring yang sulit dihapus, sehingga perlu bijak bermedia.",
+    "sumber": "Pengetahuan umum literasi digital",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-020",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Budaya Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Ciri hoaks yang perlu diwaspadai adalah ...",
+    "opsi": {
+      "A": "memiliki tautan ke situs resmi pemerintah",
+      "B": "mencantumkan data yang dapat dicek",
+      "C": "judul provokatif, sumber tidak jelas, dan ajakan untuk segera menyebarkan",
+      "D": "ditulis wartawan media terverifikasi",
+      "E": "diterbitkan oleh lembaga resmi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Hoaks umumnya memakai judul provokatif, sumber tidak jelas, dan mendesak untuk disebarkan.",
+    "sumber": "Pengetahuan umum literasi digital",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-021",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Keterampilan Digital",
+    "tingkat": "sedang",
+    "pertanyaan": "Memperbarui sistem operasi dan aplikasi secara berkala bermanfaat terutama untuk ...",
+    "opsi": {
+      "A": "menonaktifkan antivirus",
+      "B": "menutup celah keamanan yang ditemukan pada versi lama",
+      "C": "menghapus seluruh data pengguna",
+      "D": "mengganti kata sandi otomatis",
+      "E": "memperlambat kinerja perangkat"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pembaruan perangkat lunak biasanya memuat perbaikan keamanan.",
+    "sumber": "Pengetahuan umum keamanan digital",
+    "di_luar_materi": true
+  },
+  {
+    "id": "literasi-digital-022",
+    "kategori": "TKP",
+    "topik": "Literasi Digital",
+    "subtopik": "Keamanan Digital",
+    "tingkat": "sulit",
+    "pertanyaan": "Konten video atau suara palsu yang dibuat dengan kecerdasan buatan sehingga tampak seperti tokoh asli disebut ...",
+    "opsi": {
+      "A": "meme",
+      "B": "podcast",
+      "C": "livestream",
+      "D": "deepfake",
+      "E": "webinar"
+    },
+    "jawaban": "D",
+    "pembahasan": "Deepfake adalah media sintetis berbasis AI yang meniru wajah/suara seseorang; perlu diwaspadai sebagai sarana hoaks dan penipuan.",
+    "sumber": "Pengetahuan umum literasi digital",
+    "di_luar_materi": true
+  }
+]

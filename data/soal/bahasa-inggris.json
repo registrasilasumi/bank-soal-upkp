@@ -1,0 +1,800 @@
+[
+  {
+    "id": "bahasa-inggris-001",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Tenses",
+    "tingkat": "mudah",
+    "pertanyaan": "The warden ... the new inmates every Monday morning.",
+    "opsi": {
+      "A": "is briefing now",
+      "B": "has brief",
+      "C": "brief",
+      "D": "briefs",
+      "E": "briefed tomorrow"
+    },
+    "jawaban": "D",
+    "pembahasan": "Simple present untuk kebiasaan (every Monday); subjek tunggal \"The warden\" memerlukan verb + s.",
+    "sumber": "Tata bahasa Inggris baku (cakupan menurut Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.4)",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-002",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Tenses",
+    "tingkat": "mudah",
+    "pertanyaan": "Look! The officers ... the visitors' bags at the gate right now.",
+    "opsi": {
+      "A": "are checking",
+      "B": "checked",
+      "C": "will check",
+      "D": "have checked",
+      "E": "check"
+    },
+    "jawaban": "A",
+    "pembahasan": "\"Look!\" dan \"right now\" menandai present continuous: am/is/are + V-ing.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-003",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Tenses",
+    "tingkat": "sedang",
+    "pertanyaan": "Our team ... the monthly report since early this morning, and it is still not finished.",
+    "opsi": {
+      "A": "will write",
+      "B": "has been writing",
+      "C": "wrote",
+      "D": "writes",
+      "E": "had written"
+    },
+    "jawaban": "B",
+    "pembahasan": "Present perfect continuous (has/have been + V-ing) untuk aktivitas yang dimulai di masa lalu dan masih berlangsung (since ..., still not finished).",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-004",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Tenses",
+    "tingkat": "sedang",
+    "pertanyaan": "By the time the inspector arrived, the staff ... all the documents.",
+    "opsi": {
+      "A": "prepare",
+      "B": "will prepare",
+      "C": "have prepared",
+      "D": "are preparing",
+      "E": "had prepared"
+    },
+    "jawaban": "E",
+    "pembahasan": "Past perfect (had + V3) untuk tindakan yang selesai sebelum tindakan lampau lain (arrived).",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-005",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Tenses",
+    "tingkat": "sedang",
+    "pertanyaan": "I ... in the immigration office for five years before I moved to the correctional institution.",
+    "opsi": {
+      "A": "will have worked",
+      "B": "work",
+      "C": "had worked",
+      "D": "am working",
+      "E": "have worked"
+    },
+    "jawaban": "C",
+    "pembahasan": "Kejadian yang berlangsung sebelum kejadian lampau lain (moved) memakai past perfect.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-006",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Tenses",
+    "tingkat": "sedang",
+    "pertanyaan": "This time tomorrow, the participants ... the computer-based test.",
+    "opsi": {
+      "A": "had taken",
+      "B": "took",
+      "C": "have taken",
+      "D": "take",
+      "E": "will be taking"
+    },
+    "jawaban": "E",
+    "pembahasan": "\"This time tomorrow\" menandai future continuous: will be + V-ing.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-007",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Tenses",
+    "tingkat": "sulit",
+    "pertanyaan": "By the end of next year, the ministry ... ten new service units.",
+    "opsi": {
+      "A": "built",
+      "B": "is building",
+      "C": "builds",
+      "D": "will have built",
+      "E": "has built"
+    },
+    "jawaban": "D",
+    "pembahasan": "\"By the end of next year\" menandai future perfect: will have + V3.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-008",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Tenses",
+    "tingkat": "mudah",
+    "pertanyaan": "The head of the division ... to Jakarta last week for a coordination meeting.",
+    "opsi": {
+      "A": "goes",
+      "B": "went",
+      "C": "is going",
+      "D": "has gone",
+      "E": "will go"
+    },
+    "jawaban": "B",
+    "pembahasan": "\"Last week\" menandai simple past; bentuk lampau go adalah went.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-009",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Tenses",
+    "tingkat": "sedang",
+    "pertanyaan": "While the officer ... the visitor's identity card, the power suddenly went out.",
+    "opsi": {
+      "A": "was checking",
+      "B": "has checked",
+      "C": "is checking",
+      "D": "had been check",
+      "E": "checks"
+    },
+    "jawaban": "A",
+    "pembahasan": "Past continuous (was/were + V-ing) untuk tindakan yang sedang berlangsung ketika tindakan lain (went out) terjadi.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-010",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Tenses",
+    "tingkat": "sedang",
+    "pertanyaan": "She ... her master's degree yet, so she cannot apply for the rank adjustment.",
+    "opsi": {
+      "A": "not completes",
+      "B": "had not complete",
+      "C": "has not completed",
+      "D": "did not completed",
+      "E": "does not completed"
+    },
+    "jawaban": "C",
+    "pembahasan": "\"Yet\" lazim dengan present perfect: has/have + not + V3.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-011",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Adjective Clause",
+    "tingkat": "mudah",
+    "pertanyaan": "The officer ... helped the elderly visitor received an award.",
+    "opsi": {
+      "A": "whose",
+      "B": "whom",
+      "C": "which",
+      "D": "where",
+      "E": "who"
+    },
+    "jawaban": "E",
+    "pembahasan": "\"Who\" menggantikan subjek orang (the officer) dalam adjective clause.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-012",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Adjective Clause",
+    "tingkat": "sedang",
+    "pertanyaan": "The applicant ... passport was lost reported it to the police.",
+    "opsi": {
+      "A": "whose",
+      "B": "which",
+      "C": "who",
+      "D": "that",
+      "E": "whom"
+    },
+    "jawaban": "A",
+    "pembahasan": "\"Whose\" menyatakan kepemilikan (passport milik applicant).",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-013",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Adjective Clause",
+    "tingkat": "sedang",
+    "pertanyaan": "The supervisor ... we interviewed yesterday has worked here for twenty years.",
+    "opsi": {
+      "A": "where",
+      "B": "which",
+      "C": "whom",
+      "D": "whose",
+      "E": "what"
+    },
+    "jawaban": "C",
+    "pembahasan": "\"Whom\" menggantikan objek orang (we interviewed him).",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-014",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Adjective Clause",
+    "tingkat": "mudah",
+    "pertanyaan": "The application ... we use for online visits is easy to operate.",
+    "opsi": {
+      "A": "whose",
+      "B": "whom",
+      "C": "where",
+      "D": "which",
+      "E": "who"
+    },
+    "jawaban": "D",
+    "pembahasan": "\"Which\" menggantikan benda (the application).",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-015",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Adjective Clause",
+    "tingkat": "sedang",
+    "pertanyaan": "The building ... the training center is located was renovated last year.",
+    "opsi": {
+      "A": "whose",
+      "B": "where",
+      "C": "when",
+      "D": "who",
+      "E": "which"
+    },
+    "jawaban": "B",
+    "pembahasan": "\"Where\" dipakai untuk keterangan tempat (in which the training center is located).",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-016",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Adjective Clause",
+    "tingkat": "sulit",
+    "pertanyaan": "The report ... by the internal audit team was submitted to the minister.",
+    "opsi": {
+      "A": "prepared",
+      "B": "preparing",
+      "C": "was prepared",
+      "D": "who prepared",
+      "E": "which preparing"
+    },
+    "jawaban": "A",
+    "pembahasan": "Reduced adjective clause bentuk pasif: \"which was prepared\" diringkas menjadi \"prepared\".",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-017",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Adjective Clause",
+    "tingkat": "sulit",
+    "pertanyaan": "Employees ... in the morning shift must sign the attendance list before 7 a.m.",
+    "opsi": {
+      "A": "who works",
+      "B": "to worked",
+      "C": "working",
+      "D": "are working",
+      "E": "worked"
+    },
+    "jawaban": "C",
+    "pembahasan": "Reduced adjective clause bentuk aktif: \"who work\" diringkas menjadi \"working\".",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-018",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Synonym",
+    "tingkat": "mudah",
+    "pertanyaan": "The word \"enhance\" in \"The ministry aims to enhance public services\" is closest in meaning to ...",
+    "opsi": {
+      "A": "delay",
+      "B": "improve",
+      "C": "observe",
+      "D": "reduce",
+      "E": "replace"
+    },
+    "jawaban": "B",
+    "pembahasan": "Enhance berarti meningkatkan/memperbaiki, sinonim improve.",
+    "sumber": "Kosakata Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-019",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Synonym",
+    "tingkat": "mudah",
+    "pertanyaan": "The word \"require\" in \"The regulation requires all officers to report their assets\" is closest in meaning to ...",
+    "opsi": {
+      "A": "allow",
+      "B": "suggest",
+      "C": "remind",
+      "D": "oblige",
+      "E": "forbid"
+    },
+    "jawaban": "D",
+    "pembahasan": "Require bermakna mewajibkan, sinonim oblige.",
+    "sumber": "Kosakata Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-020",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Synonym",
+    "tingkat": "sedang",
+    "pertanyaan": "The word \"meticulous\" in \"She is meticulous in checking every document\" is closest in meaning to ...",
+    "opsi": {
+      "A": "nervous",
+      "B": "quick",
+      "C": "lazy",
+      "D": "careless",
+      "E": "careful"
+    },
+    "jawaban": "E",
+    "pembahasan": "Meticulous berarti sangat teliti, sinonim careful.",
+    "sumber": "Kosakata Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-021",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Synonym",
+    "tingkat": "sedang",
+    "pertanyaan": "The word \"commence\" in \"The examination will commence at 8 a.m.\" is closest in meaning to ...",
+    "opsi": {
+      "A": "postpone",
+      "B": "cancel",
+      "C": "begin",
+      "D": "continue",
+      "E": "finish"
+    },
+    "jawaban": "C",
+    "pembahasan": "Commence berarti mulai, sinonim begin.",
+    "sumber": "Kosakata Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-022",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Synonym",
+    "tingkat": "sedang",
+    "pertanyaan": "The word \"adequate\" in \"The prison has adequate medical facilities\" is closest in meaning to ...",
+    "opsi": {
+      "A": "sufficient",
+      "B": "excessive",
+      "C": "limited",
+      "D": "expensive",
+      "E": "modern"
+    },
+    "jawaban": "A",
+    "pembahasan": "Adequate berarti memadai, sinonim sufficient.",
+    "sumber": "Kosakata Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-023",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Synonym",
+    "tingkat": "sulit",
+    "pertanyaan": "The word \"mitigate\" in \"The ministry plans to mitigate the risk of overcrowding\" is closest in meaning to ...",
+    "opsi": {
+      "A": "predict",
+      "B": "lessen",
+      "C": "measure",
+      "D": "ignore",
+      "E": "increase"
+    },
+    "jawaban": "B",
+    "pembahasan": "Mitigate berarti mengurangi/meredakan, sinonim lessen.",
+    "sumber": "Kosakata Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-024",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Synonym",
+    "tingkat": "sedang",
+    "pertanyaan": "The word \"comply\" in \"All staff must comply with the code of ethics\" is closest in meaning to ...",
+    "opsi": {
+      "A": "oppose",
+      "B": "design",
+      "C": "question",
+      "D": "obey",
+      "E": "review"
+    },
+    "jawaban": "D",
+    "pembahasan": "Comply with berarti mematuhi, sinonim obey.",
+    "sumber": "Kosakata Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-025",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Synonym",
+    "tingkat": "sedang",
+    "pertanyaan": "The opposite (antonym) of \"temporary\" is ...",
+    "opsi": {
+      "A": "momentary",
+      "B": "short-term",
+      "C": "provisional",
+      "D": "brief",
+      "E": "permanent"
+    },
+    "jawaban": "E",
+    "pembahasan": "Temporary berarti sementara; antonimnya permanent. Pilihan lain bermakna mirip temporary.",
+    "sumber": "Kosakata Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-026",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Structure",
+    "tingkat": "mudah",
+    "pertanyaan": "Neither the director nor the staff members ... available yesterday.",
+    "opsi": {
+      "A": "is",
+      "B": "was being",
+      "C": "were",
+      "D": "be",
+      "E": "has"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pada neither ... nor, kata kerja mengikuti subjek terdekat (the staff members, jamak) → were.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-027",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Structure",
+    "tingkat": "sedang",
+    "pertanyaan": "The visitors were asked ... their mobile phones at the front desk.",
+    "opsi": {
+      "A": "to leaving",
+      "B": "left",
+      "C": "leave",
+      "D": "to leave",
+      "E": "leaving"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pola ask someone to + V1: \"were asked to leave\".",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-028",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Structure",
+    "tingkat": "sedang",
+    "pertanyaan": "The officers avoided ... any personal information to strangers.",
+    "opsi": {
+      "A": "to give",
+      "B": "giving",
+      "C": "to giving",
+      "D": "gave",
+      "E": "give"
+    },
+    "jawaban": "B",
+    "pembahasan": "Avoid diikuti gerund (V-ing).",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-029",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Structure",
+    "tingkat": "sedang",
+    "pertanyaan": "If the system were working properly, the queue ... so long.",
+    "opsi": {
+      "A": "will not be",
+      "B": "has not been",
+      "C": "is not",
+      "D": "was not",
+      "E": "would not be"
+    },
+    "jawaban": "E",
+    "pembahasan": "Conditional tipe 2 (keadaan tidak nyata saat ini): If + past (were), would + V1.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-030",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Structure",
+    "tingkat": "sulit",
+    "pertanyaan": "If the officer had checked the document carefully, the mistake ...",
+    "opsi": {
+      "A": "would have been avoided",
+      "B": "had avoided",
+      "C": "is avoided",
+      "D": "would be avoided",
+      "E": "will be avoided"
+    },
+    "jawaban": "A",
+    "pembahasan": "Conditional tipe 3: If + had V3, would have + V3 (pasif: would have been V3).",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-031",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Structure",
+    "tingkat": "sedang",
+    "pertanyaan": "The new regulation ... by the minister last month.",
+    "opsi": {
+      "A": "is signed",
+      "B": "has signing",
+      "C": "was signed",
+      "D": "signed",
+      "E": "was sign"
+    },
+    "jawaban": "C",
+    "pembahasan": "Kalimat pasif bentuk lampau: was/were + V3.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-032",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Structure",
+    "tingkat": "sedang",
+    "pertanyaan": "This year's service index is ... than last year's.",
+    "opsi": {
+      "A": "higher",
+      "B": "most higher",
+      "C": "highest",
+      "D": "more high",
+      "E": "the higher"
+    },
+    "jawaban": "A",
+    "pembahasan": "Comparative adjektiva satu suku kata: high → higher than.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-033",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Structure",
+    "tingkat": "sedang",
+    "pertanyaan": "... the heavy rain, the morning roll call was held as scheduled.",
+    "opsi": {
+      "A": "Although",
+      "B": "Despite",
+      "C": "Because of",
+      "D": "However",
+      "E": "Even"
+    },
+    "jawaban": "B",
+    "pembahasan": "Despite diikuti frasa benda (the heavy rain); although diikuti klausa.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-034",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Written Expression",
+    "tingkat": "sedang",
+    "pertanyaan": "Identify the incorrect part: \"Each of the officers have to submit a performance report every month.\"",
+    "opsi": {
+      "A": "Each",
+      "B": "submit",
+      "C": "officers",
+      "D": "have",
+      "E": "every month"
+    },
+    "jawaban": "D",
+    "pembahasan": "Each of + jamak tetap dianggap tunggal, sehingga kata kerjanya has, bukan have.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-035",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Written Expression",
+    "tingkat": "sedang",
+    "pertanyaan": "Identify the incorrect part: \"The informations about the visiting schedule is available on the website.\"",
+    "opsi": {
+      "A": "visiting",
+      "B": "available",
+      "C": "is",
+      "D": "about",
+      "E": "informations"
+    },
+    "jawaban": "E",
+    "pembahasan": "Information adalah uncountable noun sehingga tidak diberi -s.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-036",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Written Expression",
+    "tingkat": "sulit",
+    "pertanyaan": "Identify the incorrect part: \"The inmates who completed the training was given certificates by the head of the prison.\"",
+    "opsi": {
+      "A": "was",
+      "B": "completed",
+      "C": "by",
+      "D": "who",
+      "E": "certificates"
+    },
+    "jawaban": "A",
+    "pembahasan": "Subjek \"The inmates\" jamak sehingga kata kerja pasifnya were given.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-037",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Written Expression",
+    "tingkat": "sulit",
+    "pertanyaan": "Identify the incorrect part: \"She has worked in this office since five years.\"",
+    "opsi": {
+      "A": "has",
+      "B": "office",
+      "C": "worked",
+      "D": "this",
+      "E": "since"
+    },
+    "jawaban": "E",
+    "pembahasan": "Durasi waktu (five years) memakai for; since dipakai untuk titik waktu.",
+    "sumber": "Tata bahasa Inggris baku",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-038",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Reading",
+    "tingkat": "sedang",
+    "pertanyaan": "Read the text: \"Online visiting services allow families to meet inmates through video calls. The service reduces queues at the gate and helps families who live far away.\" What is the main idea of the text?",
+    "opsi": {
+      "A": "Queues at the gate cannot be reduced.",
+      "B": "Inmates prefer letters to video calls.",
+      "C": "Families must visit inmates in person.",
+      "D": "Online visiting services benefit both the institution and families.",
+      "E": "Video calls are too expensive for families."
+    },
+    "jawaban": "D",
+    "pembahasan": "Teks menjelaskan dua manfaat layanan kunjungan daring: mengurangi antrean dan membantu keluarga yang jauh.",
+    "sumber": "Teks bacaan orisinal",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-039",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Reading",
+    "tingkat": "sedang",
+    "pertanyaan": "Read the text: \"Before boarding, every passenger must pass through immigration control. Officers check the passport and may ask about the purpose of travel.\" According to the text, what may officers ask?",
+    "opsi": {
+      "A": "The passenger's favorite food",
+      "B": "The price of the ticket",
+      "C": "The purpose of the trip",
+      "D": "The passenger's salary",
+      "E": "The name of the airline"
+    },
+    "jawaban": "C",
+    "pembahasan": "Teks menyebut petugas dapat menanyakan purpose of travel (tujuan perjalanan).",
+    "sumber": "Teks bacaan orisinal",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-040",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Reading",
+    "tingkat": "sulit",
+    "pertanyaan": "Read the text: \"Overcrowding remains a serious challenge. When cells hold more people than their capacity, health risks increase and rehabilitation programs become less effective.\" The word \"capacity\" refers to ...",
+    "opsi": {
+      "A": "the number of rehabilitation programs",
+      "B": "the maximum number of people a cell is designed to hold",
+      "C": "the length of a prison sentence",
+      "D": "the cost of building a new cell",
+      "E": "the number of officers on duty"
+    },
+    "jawaban": "B",
+    "pembahasan": "Capacity dalam konteks ini adalah daya tampung maksimal sel.",
+    "sumber": "Teks bacaan orisinal",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-041",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Reading",
+    "tingkat": "sulit",
+    "pertanyaan": "Read the text: \"Overcrowding remains a serious challenge. When cells hold more people than their capacity, health risks increase and rehabilitation programs become less effective.\" It can be inferred from the text that reducing overcrowding would ...",
+    "opsi": {
+      "A": "stop all rehabilitation programs",
+      "B": "reduce the capacity of cells",
+      "C": "increase health risks",
+      "D": "make rehabilitation programs more effective",
+      "E": "eliminate the need for officers"
+    },
+    "jawaban": "D",
+    "pembahasan": "Jika overcrowding menurunkan efektivitas program, maka menguranginya akan membuat program lebih efektif (inferensi).",
+    "sumber": "Teks bacaan orisinal",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-inggris-042",
+    "kategori": "TKP",
+    "topik": "Bahasa Inggris",
+    "subtopik": "Reading",
+    "tingkat": "sedang",
+    "pertanyaan": "Read the text: \"The training lasted three days. On the first day, participants learned about ethics; on the second, public service; and on the last day, they took a test.\" What did participants do on the third day?",
+    "opsi": {
+      "A": "They had a holiday.",
+      "B": "They studied public service.",
+      "C": "They took a test.",
+      "D": "They wrote a report.",
+      "E": "They learned about ethics."
+    },
+    "jawaban": "C",
+    "pembahasan": "Teks: \"on the last day, they took a test\"; pelatihan berlangsung tiga hari sehingga hari ketiga adalah hari terakhir.",
+    "sumber": "Teks bacaan orisinal",
+    "di_luar_materi": true
+  }
+]
