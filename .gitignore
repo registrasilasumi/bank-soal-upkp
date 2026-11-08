@@ -1,0 +1,29 @@
+# Berkas biner / gambar (jangan diunggah)
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.docx
+*.doc
+
+# Salinan dokumen asli (rangkuman .docx) hanya disimpan lokal
+_asli/
+
+# JANGAN PERNAH menambahkan dokumen pribadi: ijazah, transkrip, SK, SKP,
+# makalah, surat tugas, atau apa pun yang memuat NIP / data pribadi.
+*ijazah*
+*Ijazah*
+*transkrip*
+*Transkrip*
+*SK_*
+*SKP*
+*makalah*
+*Makalah*
+*NIP*
+
+# Sistem / editor
+.DS_Store
+node_modules/
+*.log
+.vscode/
+.idea/
