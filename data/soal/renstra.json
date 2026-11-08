@@ -1297,7 +1297,7 @@
     "topik": "Renstra",
     "subtopik": "Kondisi Umum",
     "tingkat": "sedang",
-    "pertanyaan": "Menurut data Renstra yang dirangkum, jumlah UPT Pemasyarakatan yang meraih predikat WBK dan WBBM adalah ...",
+    "pertanyaan": "Menurut Renstra 2025–2029, jumlah UPT Pemasyarakatan yang meraih predikat WBK dan WBBM adalah ...",
     "opsi": {
       "A": "627 WBK dan 33 WBBM",
       "B": "163 WBK dan 8 WBBM",
@@ -1306,7 +1306,7 @@
       "E": "133 WBK dan 13 WBBM"
     },
     "jawaban": "B",
-    "pembahasan": "Rangkuman data Renstra: 163 UPT meraih WBK dan 8 meraih WBBM.",
+    "pembahasan": "Data Renstra (dirangkum dalam rangkuman 40 hlm §8.11): dari 627 UPT, 163 meraih WBK dan 8 meraih WBBM.",
     "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.11",
     "di_luar_materi": false
   },
@@ -1373,7 +1373,7 @@
     "topik": "Renstra",
     "subtopik": "Isu Strategis",
     "tingkat": "sedang",
-    "pertanyaan": "Faktor eksternal yang disebut Renstra menuntut transformasi besar di bidang pemasyarakatan adalah ...",
+    "pertanyaan": "Perubahan regulasi yang disebut Renstra menuntut transformasi besar di bidang pemasyarakatan adalah ...",
     "opsi": {
       "A": "berakhirnya RPJPN 2005–2025 tanpa pengganti",
       "B": "pembentukan kementerian koordinator baru yang membawahi pemasyarakatan tahun 2026",
@@ -1382,7 +1382,7 @@
       "E": "penghapusan Lapas oleh pemerintah daerah"
     },
     "jawaban": "C",
-    "pembahasan": "Renstra mencatat penyesuaian untuk KUHP baru (UU 1/2023) yang berlaku efektif 2026 sebagai pengaruh luar yang besar.",
+    "pembahasan": "Renstra mencatat perlunya penyesuaian besar terhadap KUHP baru (UU 1/2023) yang berlaku efektif 2026.",
     "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §11",
     "di_luar_materi": false
   },
