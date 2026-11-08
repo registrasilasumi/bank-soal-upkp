@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Bank soal latihan UPKP / Penyesuaian Ijazah Kementerian Imigrasi dan Pemasyarakatan: latihan per topik, simulasi CAT 100 soal, review kesalahan, dan statistik progres.">
+  <meta name="theme-color" content="#0f3d5e">
+  <title>Latihan UPKP Imipas</title>
+  <link rel="stylesheet" href="style.css">
+  <script>
+    // Terapkan tema sebelum halaman digambar agar tidak berkedip.
+    try { var t = JSON.parse(localStorage.getItem("upkp.pengaturan.v1") || "{}").tema; if (t === "light" || t === "dark") document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#beranda" aria-label="Beranda">
+      <span class="brand-mark" aria-hidden="true">UP</span>
+      <span class="brand-text">Latihan UPKP</span>
+    </a>
+    <button id="btn-tema" class="icon-btn" type="button" aria-label="Ganti tema" title="Ganti tema">
+      <span id="ikon-tema" aria-hidden="true">◐</span>
+    </button>
+  </header>
+
+  <nav class="tabs" aria-label="Menu utama">
+    <a href="#latihan" data-tab="latihan">Latihan</a>
+    <a href="#simulasi" data-tab="simulasi">Simulasi</a>
+    <a href="#review" data-tab="review">Review</a>
+    <a href="#statistik" data-tab="statistik">Statistik</a>
+  </nav>
+
+  <main id="app" tabindex="-1">
+    <p class="muted center">Memuat bank soal…</p>
+  </main>
+
+  <footer class="footer">
+    <p>Isi bersumber dari rangkuman pribadi dan peraturan resmi. Cek ke JDIH / peraturan.bpk.go.id sebelum dijadikan rujukan resmi.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

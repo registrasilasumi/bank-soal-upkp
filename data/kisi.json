@@ -1,0 +1,30 @@
+{
+  "keterangan": "Kisi-kisi UPKP jenjang D3 s.d. S2/S3 (Lampiran III SE Kepala BKN 10/2024). 'jatah' = jumlah soal di simulasi; 'target_minimal' = jumlah soal minimal di bank (dicek scripts/validate).",
+  "ujian": {
+    "jumlah_soal": 100,
+    "durasi_menit": 90,
+    "nilai_benar": 5,
+    "nilai_salah": 0
+  },
+  "urutan_kategori": ["TWK", "TKT", "TSI", "TKP"],
+  "nama_kategori": {
+    "TWK": "Tes Wawasan Kebangsaan",
+    "TKT": "Tes Kompetensi Teknis",
+    "TSI": "Tes Substansi Instansi",
+    "TKP": "Tes Kompetensi Penunjang"
+  },
+  "topik": [
+    {"topik": "Pancasila", "kategori": "TWK", "file": "pancasila.json", "jatah": 10, "target_minimal": 40},
+    {"topik": "UUD 1945", "kategori": "TWK", "file": "uud.json", "jatah": 10, "target_minimal": 40},
+    {"topik": "Sejarah Indonesia", "kategori": "TWK", "file": "sejarah.json", "jatah": 5, "target_minimal": 25},
+    {"topik": "Bahasa Indonesia", "kategori": "TWK", "file": "bahasa-indonesia.json", "jatah": 5, "target_minimal": 25},
+    {"topik": "Peraturan Kepegawaian", "kategori": "TKT", "file": "kepegawaian.json", "jatah": 10, "target_minimal": 40},
+    {"topik": "Pelayanan Publik", "kategori": "TKT", "file": "pelayanan-publik.json", "jatah": 5, "target_minimal": 25},
+    {"topik": "Good Governance", "kategori": "TKT", "file": "good-governance.json", "jatah": 5, "target_minimal": 25},
+    {"topik": "Kebijakan Publik", "kategori": "TKT", "file": "kebijakan-publik.json", "jatah": 5, "target_minimal": 25},
+    {"topik": "Renstra", "kategori": "TSI", "file": "renstra.json", "jatah": 15, "target_minimal": 60},
+    {"topik": "SOTK", "kategori": "TSI", "file": "sotk.json", "jatah": 15, "target_minimal": 80},
+    {"topik": "Bahasa Inggris", "kategori": "TKP", "file": "bahasa-inggris.json", "jatah": 10, "target_minimal": 40},
+    {"topik": "Literasi Digital", "kategori": "TKP", "file": "literasi-digital.json", "jatah": 5, "target_minimal": 20}
+  ]
+}
