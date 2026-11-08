@@ -1,0 +1,2358 @@
+[
+  {
+    "id": "sotk-001",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Dasar Hukum",
+    "tingkat": "mudah",
+    "pertanyaan": "Peraturan Presiden yang menjadi dasar pembentukan Kementerian Imigrasi dan Pemasyarakatan adalah ...",
+    "opsi": {
+      "A": "Perpres Nomor 80 Tahun 2025",
+      "B": "Perpres Nomor 157 Tahun 2024",
+      "C": "Perpres Nomor 81 Tahun 2010",
+      "D": "Perpres Nomor 140 Tahun 2024",
+      "E": "Perpres Nomor 142 Tahun 2024"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kemenimipas dibentuk dengan Perpres 157/2024. Perpres 140/2024 mengatur organisasi kementerian negara secara umum, Perpres 142/2024 tentang Kemenko Kumham Imipas, dan Perpres 80/2025 tentang penyusunan Renstra/Renja K/L.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.1; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §3.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-002",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Dasar Hukum",
+    "tingkat": "mudah",
+    "pertanyaan": "Organisasi dan tata kerja Kementerian Imigrasi dan Pemasyarakatan diatur dalam ...",
+    "opsi": {
+      "A": "Permen Imipas Nomor 15 Tahun 2025",
+      "B": "Permen Imipas Nomor 4 Tahun 2024",
+      "C": "Permen Imipas Nomor 2 Tahun 2024",
+      "D": "Permen Imipas Nomor 1 Tahun 2024",
+      "E": "Permen Imipas Nomor 11 Tahun 2025"
+    },
+    "jawaban": "D",
+    "pembahasan": "Ortala Kementerian diatur Permen Imipas 1/2024. Permen 2/2024 dan 4/2024 mengatur Kanwil Imigrasi dan Kanwil Pemasyarakatan, Permen 11/2025 tentang Renstra, Permen 15/2025 tentang Politeknik.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.1; Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) judul",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-003",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Dasar Hukum",
+    "tingkat": "sedang",
+    "pertanyaan": "Permen Imipas 1/2024 ditetapkan untuk melaksanakan ketentuan Perpres 157/2024, yaitu ...",
+    "opsi": {
+      "A": "Pasal 54 ayat (1) huruf b",
+      "B": "Pasal 8",
+      "C": "Pasal 5 ayat (2)",
+      "D": "Pasal 17 ayat (3)",
+      "E": "Pasal 7 huruf a"
+    },
+    "jawaban": "A",
+    "pembahasan": "Permen Imipas 1/2024 melaksanakan Pasal 54 ayat (1) huruf b Perpres 157/2024. Pasal 17 ayat (3) adalah pasal UUD 1945 yang dicantumkan sebagai dasar mengingat.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §3.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-004",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Dasar Hukum",
+    "tingkat": "sedang",
+    "pertanyaan": "Organisasi dan tata kerja Kantor Wilayah Direktorat Jenderal Pemasyarakatan diatur dalam ...",
+    "opsi": {
+      "A": "Permen Imipas Nomor 2 Tahun 2024",
+      "B": "Permen Imipas Nomor 1 Tahun 2024",
+      "C": "Permen Imipas Nomor 3 Tahun 2024",
+      "D": "Permen Imipas Nomor 11 Tahun 2025",
+      "E": "Permen Imipas Nomor 4 Tahun 2024"
+    },
+    "jawaban": "E",
+    "pembahasan": "Ortala Kanwil Ditjen Pemasyarakatan diatur Permen Imipas 4/2024 (pola klasifikasinya Permen 5/2024); Kanwil Imigrasi diatur Permen 2/2024.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-005",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Dasar Hukum",
+    "tingkat": "sedang",
+    "pertanyaan": "Organisasi dan tata kerja Kantor Wilayah Direktorat Jenderal Imigrasi diatur dalam ...",
+    "opsi": {
+      "A": "Permen Imipas Nomor 5 Tahun 2024",
+      "B": "Permen Imipas Nomor 15 Tahun 2025",
+      "C": "Permen Imipas Nomor 2 Tahun 2024",
+      "D": "Permen Imipas Nomor 1 Tahun 2024",
+      "E": "Permen Imipas Nomor 4 Tahun 2024"
+    },
+    "jawaban": "C",
+    "pembahasan": "Ortala Kanwil Ditjen Imigrasi diatur Permen Imipas 2/2024 (pola klasifikasinya Permen 3/2024). Permen 4/2024 dan 5/2024 untuk Kanwil Pemasyarakatan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-006",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Dasar Hukum",
+    "tingkat": "sulit",
+    "pertanyaan": "Permen Imipas 1/2024 ditetapkan pada 19 November 2024 dan mulai berlaku pada ...",
+    "opsi": {
+      "A": "tanggal pelantikan Menteri, yaitu 21 Oktober 2024",
+      "B": "tanggal diundangkan, yaitu 20 November 2024",
+      "C": "tanggal ditetapkan, yaitu 19 November 2024",
+      "D": "30 hari setelah diundangkan",
+      "E": "1 Januari 2025"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 406 menyatakan Permen berlaku pada tanggal diundangkan. Permen ditetapkan 19 November 2024 dan diundangkan 20 November 2024 (BN 2024 Nomor 867).",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 406; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-007",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Dasar Hukum",
+    "tingkat": "sedang",
+    "pertanyaan": "Pasal UUD 1945 yang dicantumkan dalam konsiderans \"Mengingat\" Permen Imipas 1/2024 adalah ...",
+    "opsi": {
+      "A": "Pasal 5 ayat (2)",
+      "B": "Pasal 18 ayat (1)",
+      "C": "Pasal 24 ayat (1)",
+      "D": "Pasal 17 ayat (3)",
+      "E": "Pasal 4 ayat (1)"
+    },
+    "jawaban": "D",
+    "pembahasan": "Konsiderans mengingat Permen Imipas 1/2024 mencantumkan Pasal 17 ayat (3) UUD 1945, bersama UU Kementerian Negara, Perpres 140/2024, dan Perpres 157/2024.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §3.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-008",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kedudukan, Tugas, dan Fungsi",
+    "tingkat": "mudah",
+    "pertanyaan": "Kementerian Imigrasi dan Pemasyarakatan berada di bawah dan bertanggung jawab kepada ...",
+    "opsi": {
+      "A": "Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan",
+      "B": "Menteri Sekretaris Negara",
+      "C": "Dewan Perwakilan Rakyat",
+      "D": "Wakil Presiden",
+      "E": "Presiden"
+    },
+    "jawaban": "E",
+    "pembahasan": "Kementerian berada di bawah dan bertanggung jawab kepada Presiden serta dipimpin Menteri (Pasal 2). Kemenko hanya mengoordinasikan, bukan atasan langsung.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 2; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §3.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-009",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kedudukan, Tugas, dan Fungsi",
+    "tingkat": "mudah",
+    "pertanyaan": "Wakil Menteri Imigrasi dan Pemasyarakatan diangkat dan diberhentikan oleh Presiden, tetapi bertanggung jawab kepada ...",
+    "opsi": {
+      "A": "Menteri",
+      "B": "Menteri PANRB",
+      "C": "Presiden",
+      "D": "Menteri Koordinator",
+      "E": "Sekretaris Jenderal"
+    },
+    "jawaban": "A",
+    "pembahasan": "Wamen diangkat dan diberhentikan oleh Presiden, tetapi bertanggung jawab kepada Menteri (Pasal 3).",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 3; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §3.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-010",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kedudukan, Tugas, dan Fungsi",
+    "tingkat": "sedang",
+    "pertanyaan": "Suburusan pemerintahan di bidang imigrasi dan pemasyarakatan yang diselenggarakan Kemenimipas termasuk dalam lingkup urusan pemerintahan di bidang ...",
+    "opsi": {
+      "A": "pertahanan",
+      "B": "hak asasi manusia",
+      "C": "hukum",
+      "D": "politik dan keamanan",
+      "E": "dalam negeri"
+    },
+    "jawaban": "C",
+    "pembahasan": "Suburusan imigrasi dan pemasyarakatan termasuk lingkup urusan pemerintahan di bidang hukum (Pasal 1 dan Pasal 5).",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 1, 5; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §3.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-011",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kedudukan, Tugas, dan Fungsi",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini yang BUKAN termasuk fungsi Kementerian Imigrasi dan Pemasyarakatan menurut Pasal 6 Permen Imipas 1/2024 adalah ...",
+    "opsi": {
+      "A": "pengelolaan barang milik/kekayaan negara yang menjadi tanggung jawab Kementerian",
+      "B": "pemeriksaan pengelolaan dan tanggung jawab keuangan negara secara eksternal",
+      "C": "pelaksanaan pengembangan sumber daya manusia di bidang imigrasi dan pemasyarakatan",
+      "D": "pelaksanaan tugas pokok sampai ke daerah",
+      "E": "pelaksanaan kegiatan teknis yang berskala nasional"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pemeriksaan keuangan negara secara eksternal adalah ranah BPK. Empat opsi lain termasuk dalam 10 fungsi Kementerian pada Pasal 6.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 6; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §3.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-012",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kedudukan, Tugas, dan Fungsi",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut Pasal 6 Permen Imipas 1/2024, jumlah fungsi yang diselenggarakan Kementerian Imigrasi dan Pemasyarakatan adalah ...",
+    "opsi": {
+      "A": "7 fungsi",
+      "B": "8 fungsi",
+      "C": "5 fungsi",
+      "D": "10 fungsi",
+      "E": "12 fungsi"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 6 memuat fungsi huruf a sampai j, yaitu 10 fungsi, termasuk fungsi lain yang diberikan Presiden.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 6; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §3.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-013",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kedudukan, Tugas, dan Fungsi",
+    "tingkat": "sedang",
+    "pertanyaan": "Tugas Wakil Menteri dalam membantu Menteri meliputi perumusan dan/atau pelaksanaan kebijakan serta ...",
+    "opsi": {
+      "A": "pengelolaan anggaran seluruh Kementerian",
+      "B": "penetapan pejabat pimpinan tinggi madya",
+      "C": "penandatanganan peraturan menteri",
+      "D": "pengawasan intern atas seluruh unit Eselon I",
+      "E": "koordinasi pencapaian kebijakan strategis dalam dan/atau lintas unit Eselon I"
+    },
+    "jawaban": "E",
+    "pembahasan": "Wamen membantu Menteri dalam merumuskan dan/atau melaksanakan kebijakan serta mengoordinasikan pencapaian kebijakan strategis dalam dan/atau lintas unit Eselon I. Pengawasan intern adalah tugas Itjen.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 3; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §3.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-014",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kedudukan, Tugas, dan Fungsi",
+    "tingkat": "sedang",
+    "pertanyaan": "Dalam Permen Imipas 1/2024, Menteri dan Wakil Menteri dinyatakan sebagai ...",
+    "opsi": {
+      "A": "unsur pelaksana tugas teknis",
+      "B": "unsur pengawas Kementerian",
+      "C": "satu kesatuan unsur pemimpin Kementerian",
+      "D": "unsur pembantu pimpinan",
+      "E": "dua unsur pemimpin yang berdiri sendiri"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 4 menyatakan Menteri dan Wakil Menteri merupakan satu kesatuan unsur pemimpin Kementerian.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 4; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §3.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-015",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Susunan Organisasi",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut Pasal 7 Permen Imipas 1/2024, Kementerian Imigrasi dan Pemasyarakatan terdiri atas ... unsur organisasi.",
+    "opsi": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "8",
+      "E": "9"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 7 merinci unsur huruf a sampai j: 5 unit Eselon I, 3 Staf Ahli, dan 2 Pusat, sehingga totalnya 10.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 7; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-016",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Susunan Organisasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Komposisi sepuluh unsur organisasi Kemenimipas adalah ...",
+    "opsi": {
+      "A": "5 unit Eselon I, 4 Staf Ahli, dan 1 Pusat",
+      "B": "5 unit Eselon I, 2 Staf Ahli, dan 3 Pusat",
+      "C": "5 unit Eselon I, 3 Staf Ahli, dan 2 Pusat",
+      "D": "4 unit Eselon I, 3 Staf Ahli, dan 3 Pusat",
+      "E": "6 unit Eselon I, 3 Staf Ahli, dan 1 Pusat"
+    },
+    "jawaban": "C",
+    "pembahasan": "Sepuluh unsur terdiri atas Setjen, Itjen, Ditjen Imigrasi, Ditjen PAS, BPSDM (5 Eselon I), tiga Staf Ahli, serta Pusat Strategi Kebijakan dan Pusat Data, Informasi, dan Komunikasi Publik.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 7; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-017",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Susunan Organisasi",
+    "tingkat": "mudah",
+    "pertanyaan": "Berikut ini yang BUKAN unit Eselon I di Kementerian Imigrasi dan Pemasyarakatan adalah ...",
+    "opsi": {
+      "A": "Direktorat Jenderal Pemasyarakatan",
+      "B": "Inspektorat Jenderal",
+      "C": "Badan Pengembangan SDM Imigrasi dan Pemasyarakatan",
+      "D": "Sekretariat Jenderal",
+      "E": "Pusat Strategi Kebijakan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pusat Strategi Kebijakan adalah unsur pendukung yang dipimpin Kepala Pusat (eselon II.a), bukan unit Eselon I.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 7, 382, 400; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-018",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Susunan Organisasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Dua unit teknis Kemenimipas menurut Renstra adalah Ditjen Imigrasi dan Ditjen Pemasyarakatan. Tiga unit Eselon I lain yang mendukungnya adalah ...",
+    "opsi": {
+      "A": "Itjen, BPSDM, dan Staf Ahli",
+      "B": "Setjen, Itjen, dan BPSDM",
+      "C": "Setjen, Itjen, dan Pusat Strategi Kebijakan",
+      "D": "Itjen, Staf Ahli, dan Pusat Strategi Kebijakan",
+      "E": "Setjen, BPSDM, dan Pusat Data, Informasi, dan Komunikasi Publik"
+    },
+    "jawaban": "B",
+    "pembahasan": "Renstra menyebut dua unit teknis didukung tiga unit Eselon I lain: Setjen, Itjen, dan BPSDM. Staf Ahli dan Pusat bukan unit Eselon I.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §4; Renstra Kemenimipas 2025–2029 / Permen Imipas 11/2025 (sumber/Permen_Imipas_11_2025_Renstra_2025-2029.md) Bab I",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-019",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Susunan Organisasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Empat direktorat baru yang dibentuk melalui Permen Imipas 1/2024 adalah ...",
+    "opsi": {
+      "A": "Dit. TPI dan Dit. Teknologi Informasi Keimigrasian (Imigrasi), serta Dit. Kepatuhan Internal dan Dit. Pengamanan dan Intelijen (PAS)",
+      "B": "Dit. Kepatuhan Internal dan Dit. Intelijen Keimigrasian (Imigrasi), serta Dit. Sistem dan Strategi dan Dit. Pembimbingan Kemasyarakatan (PAS)",
+      "C": "Dit. TPI dan Dit. Kerja Sama Keimigrasian (Imigrasi), serta Dit. Kepatuhan Internal dan Dit. Perawatan Kesehatan dan Rehabilitasi (PAS)",
+      "D": "Dit. TPI dan Dit. Kepatuhan Internal (Imigrasi), serta Dit. Kepatuhan Internal dan Dit. Sistem dan Strategi Penyelenggaraan Pemasyarakatan (PAS)",
+      "E": "Dit. Visa dan Dokumen Perjalanan dan Dit. TPI (Imigrasi), serta Dit. Sistem dan Strategi dan Dit. Pelayanan Tahanan dan Anak (PAS)"
+    },
+    "jawaban": "D",
+    "pembahasan": "Empat direktorat baru: Dit. TPI dan Dit. Kepatuhan Internal di Ditjen Imigrasi, serta Dit. Kepatuhan Internal dan Dit. Sistem dan Strategi Penyelenggaraan Pemasyarakatan di Ditjen PAS.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §4, Tabel 10",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-020",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Batas Jumlah Unit",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut ketentuan susunan organisasi (Perpres 157/2024), Sekretariat Jenderal terdiri atas paling banyak ...",
+    "opsi": {
+      "A": "5 biro",
+      "B": "4 biro",
+      "C": "6 biro",
+      "D": "8 biro",
+      "E": "7 biro"
+    },
+    "jawaban": "A",
+    "pembahasan": "Rangkuman Pasal 7 Perpres 157/2024 menyebut Setjen paling banyak 5 biro; Permen 1/2024 membentuk tepat 5 biro.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.3; Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 12",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-021",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Batas Jumlah Unit",
+    "tingkat": "sedang",
+    "pertanyaan": "Setiap Direktorat Jenderal di Kemenimipas terdiri atas sekretariat dan paling banyak ...",
+    "opsi": {
+      "A": "8 direktorat",
+      "B": "5 direktorat",
+      "C": "7 direktorat",
+      "D": "9 direktorat",
+      "E": "6 direktorat"
+    },
+    "jawaban": "A",
+    "pembahasan": "Masing-masing Ditjen terdiri atas sekretariat dan paling banyak 8 direktorat; Ditjen Imigrasi dan Ditjen PAS sama-sama memiliki 8 direktorat.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.3, §C.7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-022",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Batas Jumlah Unit",
+    "tingkat": "sedang",
+    "pertanyaan": "Inspektorat Jenderal Kemenimipas terdiri atas sekretariat dan paling banyak ...",
+    "opsi": {
+      "A": "2 inspektorat",
+      "B": "5 inspektorat",
+      "C": "3 inspektorat",
+      "D": "6 inspektorat",
+      "E": "4 inspektorat"
+    },
+    "jawaban": "E",
+    "pembahasan": "Itjen terdiri atas sekretariat dan paling banyak 4 inspektorat, yaitu Inspektorat Wilayah I–IV.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.3, §C.7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-023",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Batas Jumlah Unit",
+    "tingkat": "sulit",
+    "pertanyaan": "Jumlah paling banyak Staf Khusus Menteri, sekaligus besaran hak keuangan tertingginya, menurut rangkuman ketentuan Perpres adalah ...",
+    "opsi": {
+      "A": "5 orang; setara eselon II.a",
+      "B": "3 orang; setara eselon I.a",
+      "C": "5 orang; setara eselon I.b",
+      "D": "7 orang; setara eselon I.b",
+      "E": "3 orang; setara eselon II.a"
+    },
+    "jawaban": "C",
+    "pembahasan": "Staf Khusus paling banyak 5 orang, diangkat Menteri dengan persetujuan Presiden, dengan hak keuangan setinggi-tingginya setara eselon I.b.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-024",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Batas Jumlah Unit",
+    "tingkat": "sulit",
+    "pertanyaan": "BPSDM Imigrasi dan Pemasyarakatan dapat memiliki paling banyak tiga pusat. Pusat yang saat ini ada berdasarkan Permen Imipas 1/2024 berjumlah ...",
+    "opsi": {
+      "A": "3 pusat: Pusat Pelatihan, Pusat Penilaian Kompetensi, dan Pusat Strategi Kebijakan",
+      "B": "2 pusat: Pusat Pengembangan dan Penilaian Kompetensi serta Pusat Pelatihan",
+      "C": "2 pusat: Pusat Pelatihan dan Pusat Data, Informasi, dan Komunikasi Publik",
+      "D": "1 pusat: Pusat Pengembangan dan Penilaian Kompetensi",
+      "E": "3 pusat: Pusat Pelatihan, Pusat Pengembangan Kompetensi, dan Politeknik"
+    },
+    "jawaban": "B",
+    "pembahasan": "Batasnya paling banyak 3 pusat, tetapi Permen 1/2024 membentuk 2 pusat: Pusat Pengembangan dan Penilaian Kompetensi serta Pusat Pelatihan (Pasal 348).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.3; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-025",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "mudah",
+    "pertanyaan": "Tugas Sekretariat Jenderal Kemenimipas adalah ...",
+    "opsi": {
+      "A": "menyelenggarakan pengembangan SDM bidang keimigrasian dan pemasyarakatan",
+      "B": "memberikan rekomendasi isu strategis kepada Menteri",
+      "C": "menyelenggarakan pengawasan intern di lingkungan Kementerian",
+      "D": "menyelenggarakan koordinasi pelaksanaan tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unit organisasi",
+      "E": "merumuskan dan melaksanakan kebijakan di bidang keimigrasian"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 10: Setjen menyelenggarakan koordinasi pelaksanaan tugas, pembinaan, dan dukungan administrasi kepada seluruh unit organisasi. Pengawasan intern adalah tugas Itjen.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 10; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §D.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-026",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "mudah",
+    "pertanyaan": "Biro di Sekretariat Jenderal yang menangani penataan organisasi dan ketatalaksanaan (Biro Ortala) adalah ...",
+    "opsi": {
+      "A": "Biro Hukum dan Kerja Sama",
+      "B": "Biro SDM Aparatur, Organisasi, dan Ketatalaksanaan",
+      "C": "Biro Barang Milik Negara",
+      "D": "Biro Umum",
+      "E": "Biro Perencanaan dan Keuangan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Biro SDM Aparatur, Organisasi, dan Ketatalaksanaan disebut Biro Ortala dan memiliki Bagian Organisasi dan Ketatalaksanaan.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) Tabel 5, §13",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-027",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Seorang PNS mengajukan penyesuaian ijazah (UPKP). Di Sekretariat Jenderal, fasilitasi penyesuaian ijazah dan ujian dinas ASN menjadi fungsi bagian pada biro ...",
+    "opsi": {
+      "A": "Biro Barang Milik Negara",
+      "B": "Biro Perencanaan dan Keuangan",
+      "C": "Biro Umum",
+      "D": "Biro Hukum dan Kerja Sama",
+      "E": "Biro SDM Aparatur, Organisasi, dan Ketatalaksanaan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Penyesuaian ijazah dan ujian dinas ASN difasilitasi oleh Bagian Layanan Administrasi dan Pembinaan SDM Aparatur yang berada di Biro SDM Aparatur, Organisasi, dan Ketatalaksanaan.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.2; Rangkuman Ortala ringkas (sumber/Rangkuman_Ortala_Kemenimipas.md) §5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-028",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Kepala Biro Barang Milik Negara, karena sifat tugasnya, sekaligus menjadi ...",
+    "opsi": {
+      "A": "Ketua Tim Penilai BMN Nasional",
+      "B": "Kepala Bagian Penatausahaan BMN",
+      "C": "Kuasa Pengguna Anggaran Sekretariat Jenderal",
+      "D": "Kepala Unit Kerja Pengadaan Barang/Jasa Kementerian",
+      "E": "Pejabat Pembuat Komitmen seluruh Kanwil"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 52: Kepala Biro BMN karena sifat tugasnya sekaligus menjadi Kepala Unit Kerja Pengadaan Barang/Jasa Kementerian.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.3; Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 52",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-029",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sulit",
+    "pertanyaan": "Kegiatan pengadaan barang/jasa pada Kanwil dan UPT, menurut Pasal 52 Permen Imipas 1/2024, dikoordinasikan oleh Biro Barang Milik Negara dengan ...",
+    "opsi": {
+      "A": "Sekretaris Ditjen Pemasyarakatan dan Sekretaris Ditjen Imigrasi",
+      "B": "Kepala Biro Perencanaan dan Keuangan",
+      "C": "Inspektur Jenderal dan Inspektur Wilayah",
+      "D": "Kepala BPSDM",
+      "E": "Kepala Kanwil masing-masing provinsi"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pengadaan pada Kanwil dan UPT berkoordinasi dengan Sekretaris Ditjen Pemasyarakatan dan Sekretaris Ditjen Imigrasi, karena kedua Ditjen itulah yang membawahi Kanwil dan UPT.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-030",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Penyusunan nota keuangan, RKA-K/L beserta revisinya, dan pengolahan kerangka pengeluaran jangka menengah di Setjen menjadi fungsi ...",
+    "opsi": {
+      "A": "Bagian Keuangan pada Biro Perencanaan dan Keuangan",
+      "B": "Bagian Organisasi dan Ketatalaksanaan",
+      "C": "Bagian Penyusunan Program dan Anggaran pada Biro Perencanaan dan Keuangan",
+      "D": "Bagian Pengelolaan dan Evaluasi Kinerja",
+      "E": "Bagian Perencanaan Kebutuhan BMN"
+    },
+    "jawaban": "C",
+    "pembahasan": "Bagian Penyusunan Program dan Anggaran mengurus renstra, renja, RKA-K/L, KPJM, nota keuangan, dan revisi dokumen perencanaan. Bagian Keuangan mengurus pelaksanaan anggaran.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.1; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §D.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-031",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Penyusunan, pelaksanaan, dan revisi DIPA serta koordinasi penatausahaan PNBP di Setjen menjadi fungsi ...",
+    "opsi": {
+      "A": "Bagian Keuangan, Biro Perencanaan dan Keuangan",
+      "B": "Bagian Pengadaan Barang/Jasa",
+      "C": "Bagian Penyusunan Program dan Anggaran",
+      "D": "Bagian Pengelolaan dan Evaluasi Kinerja",
+      "E": "Bagian Penatausahaan BMN"
+    },
+    "jawaban": "A",
+    "pembahasan": "Bagian Keuangan Biro Perencanaan dan Keuangan menyiapkan pelaksanaan APBN, penyusunan dan revisi DIPA, penatausahaan PNBP, serta akuntansi dan laporan keuangan.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-032",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Penyusunan roadmap reformasi birokrasi serta standardisasi sarana kerja dan pengukuran efisiensi dan efektivitas kerja menjadi fungsi ...",
+    "opsi": {
+      "A": "Bagian Perencanaan dan Pengadaan SDM Aparatur",
+      "B": "Bagian Hukum",
+      "C": "Bagian Pengelolaan dan Evaluasi Kinerja",
+      "D": "Bagian Tata Usaha Pimpinan dan Protokol",
+      "E": "Bagian Organisasi dan Ketatalaksanaan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Bagian Organisasi dan Ketatalaksanaan menangani standardisasi sarana kerja, pengukuran efisiensi dan efektivitas kerja, penataan kelembagaan, dan roadmap reformasi birokrasi.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.2; Rangkuman Ortala ringkas (sumber/Rangkuman_Ortala_Kemenimipas.md) §5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-033",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Rencana kebutuhan, formasi, seleksi calon pegawai, dan orientasi calon ASN di Setjen ditangani oleh ...",
+    "opsi": {
+      "A": "Bagian Organisasi dan Ketatalaksanaan",
+      "B": "Bagian Perencanaan dan Pengadaan SDM Aparatur",
+      "C": "Bagian Keuangan",
+      "D": "Bagian Rumah Tangga",
+      "E": "Bagian Kerja Sama"
+    },
+    "jawaban": "B",
+    "pembahasan": "Bagian Perencanaan dan Pengadaan SDM Aparatur menangani rencana kebutuhan, formasi, seleksi, penetapan, pengangkatan, dan orientasi calon ASN.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-034",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Pemberian pendapat hukum serta pelindungan dan pendampingan hukum bagi petugas di Setjen menjadi fungsi ...",
+    "opsi": {
+      "A": "Subdirektorat Fasilitasi Advokasi dan Investigasi Internal",
+      "B": "Bagian Tata Usaha Pimpinan dan Protokol",
+      "C": "Bagian Organisasi dan Ketatalaksanaan",
+      "D": "Bagian Hukum, Biro Hukum dan Kerja Sama",
+      "E": "Bagian Kerja Sama, Biro Hukum dan Kerja Sama"
+    },
+    "jawaban": "D",
+    "pembahasan": "Bagian Hukum menangani penyusunan peraturan, pelindungan dan pendampingan hukum bagi petugas, pendapat hukum, dan penyelesaian sengketa. Bagian Kerja Sama mengurus kerja sama dan hubungan antarlembaga.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-035",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Kerja sama bilateral dan multilateral serta hubungan antarlembaga di tingkat Setjen ditangani oleh ...",
+    "opsi": {
+      "A": "Bagian Hukum, Biro Hukum dan Kerja Sama",
+      "B": "Bagian Perencanaan dan Kerja Sama BPSDM",
+      "C": "Bagian Kerja Sama, Biro Hukum dan Kerja Sama",
+      "D": "Bagian Tata Usaha Pimpinan dan Protokol",
+      "E": "Subdirektorat Kerja Sama Antarnegara"
+    },
+    "jawaban": "C",
+    "pembahasan": "Bagian Kerja Sama pada Biro Hukum dan Kerja Sama menangani kerja sama bilateral dan multilateral serta hubungan antarlembaga. Subdit Kerja Sama Antarnegara ada di Ditjen Imigrasi, bukan Setjen.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-036",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Pencatatan dan penilaian BMN serta penetapan status penggunaan BMN di Setjen menjadi fungsi ...",
+    "opsi": {
+      "A": "Bagian Keuangan",
+      "B": "Bagian Rumah Tangga",
+      "C": "Bagian Penatausahaan BMN",
+      "D": "Bagian Pengadaan Barang/Jasa",
+      "E": "Bagian Perencanaan Kebutuhan BMN"
+    },
+    "jawaban": "C",
+    "pembahasan": "Bagian Penatausahaan BMN menangani pencatatan, penilaian, dan penetapan status penggunaan BMN. Bagian Perencanaan Kebutuhan BMN menyusun rencana kebutuhan.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-037",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sulit",
+    "pertanyaan": "Subbagian Tata Usaha Menteri, Subbagian Tata Usaha Wakil Menteri, dan Subbagian Protokol berada pada ...",
+    "opsi": {
+      "A": "Bagian Rumah Tangga, Biro Umum",
+      "B": "Bagian Umum dan BMN, Sekretariat Ditjen",
+      "C": "Bagian Organisasi dan Ketatalaksanaan",
+      "D": "Bagian Kerja Sama, Biro Hukum dan Kerja Sama",
+      "E": "Bagian Tata Usaha Pimpinan dan Protokol, Biro Umum"
+    },
+    "jawaban": "E",
+    "pembahasan": "Bagian Tata Usaha Pimpinan dan Protokol pada Biro Umum membawahi Subbagian TU Menteri, TU Wamen, TU Sekjen/Staf Ahli/Staf Khusus, dan Protokol.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.5; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §D.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-038",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Sekretariat Jenderal",
+    "tingkat": "sulit",
+    "pertanyaan": "Subbagian Pengamanan, yang bertugas antara lain mengamankan fisik bangunan, dokumen, dan keterangan rahasia di Setjen, berada pada ...",
+    "opsi": {
+      "A": "Bagian Tata Usaha Pimpinan dan Protokol",
+      "B": "Biro Hukum dan Kerja Sama",
+      "C": "Bagian Penatausahaan BMN",
+      "D": "Bagian Rumah Tangga, Biro Umum",
+      "E": "Direktorat Pengamanan dan Intelijen"
+    },
+    "jawaban": "D",
+    "pembahasan": "Subbagian Pengamanan bersama Subbagian Urusan Dalam berada pada Bagian Rumah Tangga Biro Umum.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-039",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pola Subbagian Tata Usaha",
+    "tingkat": "sulit",
+    "pertanyaan": "Subbagian Tata Usaha pada Biro Umum secara administratif berada di bawah ...",
+    "opsi": {
+      "A": "Kepala Biro Umum langsung",
+      "B": "Bagian Rumah Tangga",
+      "C": "Bagian Tata Usaha Pimpinan dan Protokol",
+      "D": "Subbagian Protokol",
+      "E": "Bagian Organisasi dan Ketatalaksanaan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pada Biro Umum, Subbag TU secara administratif berada di bawah Bagian Rumah Tangga, bukan Bagian TU Pimpinan dan Protokol.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) Tabel 5, Tabel 9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-040",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pola Subbagian Tata Usaha",
+    "tingkat": "sulit",
+    "pertanyaan": "Subbagian Tata Usaha pada Biro Perencanaan dan Keuangan secara administratif berada di bawah ...",
+    "opsi": {
+      "A": "Bagian Penyusunan Program dan Anggaran",
+      "B": "Kepala Biro langsung",
+      "C": "Bagian Umum dan BMN",
+      "D": "Bagian Pengelolaan dan Evaluasi Kinerja",
+      "E": "Bagian Keuangan"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pada Biro Perencanaan dan Keuangan, Subbag TU secara administratif di bawah Bagian Penyusunan Program dan Anggaran dan secara operasional bertanggung jawab kepada Kepala Biro.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.1, Tabel 9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-041",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pola Subbagian Tata Usaha",
+    "tingkat": "sulit",
+    "pertanyaan": "Subbagian Tata Usaha pada Biro Barang Milik Negara secara administratif berada di bawah ...",
+    "opsi": {
+      "A": "Bagian Perencanaan Kebutuhan BMN",
+      "B": "Bagian Penatausahaan BMN",
+      "C": "Biro Umum",
+      "D": "Bagian Pengadaan Barang/Jasa",
+      "E": "Bagian Keuangan"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pada Biro BMN, Subbag TU secara administratif di bawah Bagian Perencanaan Kebutuhan BMN.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.3, Tabel 9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-042",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pola Subbagian Tata Usaha",
+    "tingkat": "sedang",
+    "pertanyaan": "Subbagian Tata Usaha pada direktorat-direktorat di lingkungan Ditjen Imigrasi secara administratif berada di bawah ...",
+    "opsi": {
+      "A": "Bagian Perencanaan pada Sekretariat Ditjen Imigrasi",
+      "B": "Biro Umum Sekretariat Jenderal",
+      "C": "Bagian Umum dan BMN pada Sekretariat Ditjen Imigrasi",
+      "D": "subdirektorat pertama pada direktorat masing-masing",
+      "E": "Direktur masing-masing secara administratif dan operasional"
+    },
+    "jawaban": "C",
+    "pembahasan": "Di Ditjen Imigrasi, Subbag TU semua direktorat secara administratif di bawah Bagian Umum dan BMN Sekretariat Ditjen, dan secara operasional bertanggung jawab kepada direktur.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7, Tabel 9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-043",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pola Subbagian Tata Usaha",
+    "tingkat": "sulit",
+    "pertanyaan": "Subbagian Tata Usaha Direktorat Pembinaan Narapidana dan Anak Binaan secara administratif berada di bawah ...",
+    "opsi": {
+      "A": "Bagian Umum dan BMN Sekretariat Ditjen Pemasyarakatan",
+      "B": "Subdirektorat Administrasi Pembinaan Narapidana dan Anak Binaan",
+      "C": "Subdirektorat Integrasi",
+      "D": "Direktur Pembinaan Narapidana dan Anak Binaan",
+      "E": "Subdirektorat Pembinaan Kepribadian dan Kemandirian"
+    },
+    "jawaban": "B",
+    "pembahasan": "Di Ditjen PAS, Subbag TU berada secara administratif di bawah subdirektorat pertama; untuk Dit. Pembinaan Narapidana dan Anak Binaan yaitu Subdit Administrasi Pembinaan Narapidana dan Anak Binaan (Pasal 285).",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.5, Tabel 9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-044",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pola Subbagian Tata Usaha",
+    "tingkat": "sedang",
+    "pertanyaan": "Secara operasional, Subbagian Tata Usaha di sebuah direktorat bertanggung jawab kepada ...",
+    "opsi": {
+      "A": "sekretaris direktorat jenderal",
+      "B": "kepala subdirektorat tempat ia berada secara administratif",
+      "C": "kepala bagian umum",
+      "D": "inspektur wilayah",
+      "E": "direktur pada direktorat tersebut"
+    },
+    "jawaban": "E",
+    "pembahasan": "Di semua unit, Subbag TU secara operasional bertanggung jawab kepada pimpinan unitnya (kepala biro, inspektur wilayah, atau direktur), meskipun secara administratif di bawah bagian/subdit tertentu.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) Tabel 9 catatan",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-045",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pola Subbagian Tata Usaha",
+    "tingkat": "sulit",
+    "pertanyaan": "Subbagian Tata Usaha Direktorat Pengamanan dan Intelijen (Ditjen PAS) secara administratif berada di bawah ...",
+    "opsi": {
+      "A": "Subdirektorat Pencegahan Gangguan Keamanan dan Pemeliharaan Keamanan",
+      "B": "Direktorat Kepatuhan Internal",
+      "C": "Subdirektorat Penindakan dan Pemulihan",
+      "D": "Subdirektorat Intelijen Pemasyarakatan",
+      "E": "Bagian Umum dan BMN Sekretariat Ditjen PAS"
+    },
+    "jawaban": "D",
+    "pembahasan": "Subbag TU Dit. Pengamanan dan Intelijen secara administratif di bawah Subdit Intelijen Pemasyarakatan (Pasal 324).",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.8, Tabel 9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-046",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "mudah",
+    "pertanyaan": "Tugas Inspektorat Jenderal Kemenimipas adalah ...",
+    "opsi": {
+      "A": "melaksanakan pembinaan disiplin warga binaan",
+      "B": "menyelenggarakan pengadaan barang/jasa",
+      "C": "menyelenggarakan pengawasan intern di lingkungan Kementerian",
+      "D": "menyelenggarakan penyidikan tindak pidana keimigrasian",
+      "E": "melaksanakan pemeriksaan keuangan negara secara eksternal"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 76: Itjen menyelenggarakan pengawasan intern di lingkungan Kementerian. Pemeriksaan eksternal dilakukan BPK; penyidikan keimigrasian ada di Ditjen Imigrasi.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 76; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-047",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Bagian pada Sekretariat Inspektorat Jenderal yang menyusun laporan berkala hasil pengawasan Itjen, BPK, BPKP, dan Ombudsman RI adalah ...",
+    "opsi": {
+      "A": "Bagian Keuangan Sekretariat Itjen",
+      "B": "Bagian Perencanaan dan Tindak Lanjut Hasil Pengawasan",
+      "C": "Bagian Sumber Daya Manusia",
+      "D": "Bagian Data dan Sistem Informasi",
+      "E": "Bagian Organisasi dan Ketatalaksanaan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Bagian Perencanaan dan Tindak Lanjut Hasil Pengawasan menyusun laporan berkala hasil pengawasan (Itjen, BPK, BPKP, Ombudsman RI) serta program kerja pengawasan.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §6.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-048",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "mudah",
+    "pertanyaan": "Inspektorat Wilayah yang mengawasi Direktorat Jenderal Pemasyarakatan adalah ...",
+    "opsi": {
+      "A": "Inspektorat Wilayah IV",
+      "B": "Inspektorat Wilayah I",
+      "C": "Inspektorat Wilayah III",
+      "D": "Inspektorat Wilayah V",
+      "E": "Inspektorat Wilayah II"
+    },
+    "jawaban": "A",
+    "pembahasan": "Itwil IV mengawasi Ditjen Pemasyarakatan; Itwil III mengawasi Ditjen Imigrasi.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 107; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) Tabel 6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-049",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "mudah",
+    "pertanyaan": "Inspektorat Wilayah yang mengawasi Direktorat Jenderal Imigrasi adalah ...",
+    "opsi": {
+      "A": "Inspektorat Wilayah IV",
+      "B": "Inspektorat Wilayah II",
+      "C": "Inspektorat Wilayah I",
+      "D": "Inspektorat Wilayah V",
+      "E": "Inspektorat Wilayah III"
+    },
+    "jawaban": "E",
+    "pembahasan": "Itwil III mengawasi Ditjen Imigrasi dan juga mengoordinasikan pengawasan fungsi keimigrasian di perwakilan RI.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 100, 105; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) Tabel 6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-050",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Lapas Kelas I Sukamiskin berada di Provinsi Jawa Barat. Inspektorat Wilayah yang wilayah kerjanya mencakup kantor wilayah dan UPT di Jawa Barat adalah ...",
+    "opsi": {
+      "A": "Inspektorat Wilayah II",
+      "B": "Inspektorat Wilayah I",
+      "C": "Sekretariat Inspektorat Jenderal",
+      "D": "Inspektorat Wilayah IV",
+      "E": "Inspektorat Wilayah III"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 107: Itwil IV mengawasi Ditjen PAS serta kanwil dan UPT di Lampung, Jawa Barat, Kalimantan Barat, Sulawesi Selatan, NTB, Maluku, Gorontalo, dan Jambi.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 107; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) Tabel 6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-051",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Inspektorat Wilayah II mengawasi unit pusat ...",
+    "opsi": {
+      "A": "Inspektorat Jenderal, BPSDM, dan Pusat Strategi Kebijakan",
+      "B": "Direktorat Jenderal Imigrasi",
+      "C": "Sekretariat Jenderal dan Pusat Data, Informasi, dan Komunikasi Publik",
+      "D": "BPSDM dan Pusat Data, Informasi, dan Komunikasi Publik",
+      "E": "Direktorat Jenderal Pemasyarakatan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Itwil II mengawasi Setjen dan Pusat Data, Informasi, dan Komunikasi Publik; Itwil I mengawasi Itjen, BPSDM, dan Pusat Strategi Kebijakan.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) Tabel 6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-052",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "sulit",
+    "pertanyaan": "Inspektorat Wilayah I mengawasi Inspektorat Jenderal, BPSDM, dan Pusat Strategi Kebijakan, serta kanwil dan UPT di provinsi berikut, KECUALI ...",
+    "opsi": {
+      "A": "Bangka Belitung",
+      "B": "DKI Jakarta",
+      "C": "Bali",
+      "D": "Sumatera Utara",
+      "E": "Banten"
+    },
+    "jawaban": "B",
+    "pembahasan": "DKI Jakarta termasuk wilayah Itwil II. Sumatera Utara, Banten, Bali, dan Bangka Belitung termasuk Itwil I.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 92; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) Tabel 6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-053",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "sulit",
+    "pertanyaan": "Provinsi berikut termasuk wilayah kerja Inspektorat Wilayah III (bersama Ditjen Imigrasi), KECUALI ...",
+    "opsi": {
+      "A": "Lampung",
+      "B": "Riau",
+      "C": "Jawa Timur",
+      "D": "Kepulauan Riau",
+      "E": "Aceh"
+    },
+    "jawaban": "A",
+    "pembahasan": "Lampung termasuk wilayah Itwil IV. Riau, Aceh, Jawa Timur, dan Kepulauan Riau termasuk Itwil III.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 100, 107; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) Tabel 6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-054",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Pengawasan atas fungsi keimigrasian di perwakilan Republik Indonesia di luar negeri dilakukan tim ad hoc atas persetujuan Inspektur Jenderal yang dikoordinasikan oleh ...",
+    "opsi": {
+      "A": "Inspektur Wilayah IV",
+      "B": "Direktur Kerja Sama Keimigrasian dan Bina Perwakilan",
+      "C": "Inspektur Wilayah I",
+      "D": "Inspektur Wilayah II",
+      "E": "Inspektur Wilayah III"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 105 ayat (3)–(4): pengawasan fungsi keimigrasian di perwakilan RI dilakukan tim ad hoc atas persetujuan Irjen dan dikoordinasikan Inspektur Wilayah III.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 105",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-055",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Audit investigatif di lingkungan Ditjen Imigrasi beserta kanwil dan UPT-nya dilakukan oleh tim ad hoc atas perintah dan persetujuan Inspektur Jenderal, dengan melibatkan ...",
+    "opsi": {
+      "A": "Direktorat Intelijen Keimigrasian",
+      "B": "Kepala Kantor Wilayah setempat sebagai ketua tim",
+      "C": "Badan Pemeriksa Keuangan",
+      "D": "Direktorat Kepatuhan Internal pada unit Eselon I terkait",
+      "E": "Biro Hukum dan Kerja Sama"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 105 ayat (2): audit investigatif pada Ditjen Imigrasi, Kanwil, dan UPT Imigrasi melibatkan Direktorat Kepatuhan Internal pada unit Eselon I terkait.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 105; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §6.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-056",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "sulit",
+    "pertanyaan": "Berikut ini yang BUKAN termasuk fungsi Inspektorat Wilayah menurut Permen Imipas 1/2024 adalah ...",
+    "opsi": {
+      "A": "evaluasi SPIP, pelayanan publik, dan WBK/WBBM",
+      "B": "pemeriksaan disiplin pegawai",
+      "C": "reviu rencana kerja anggaran, laporan keuangan, dan LAKIP",
+      "D": "penanganan pengaduan masyarakat, informasi media, dan isu aktual",
+      "E": "penjatuhan hukuman disiplin berat kepada pegawai"
+    },
+    "jawaban": "E",
+    "pembahasan": "Itwil hanya melakukan pemeriksaan disiplin pegawai; penjatuhan hukuman disiplin adalah kewenangan pejabat yang berwenang menghukum, bukan fungsi Itwil.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 93; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §6.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-057",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Inspektorat Jenderal",
+    "tingkat": "sedang",
+    "pertanyaan": "Susunan organisasi setiap Inspektorat Wilayah di Itjen Kemenimipas terdiri atas ...",
+    "opsi": {
+      "A": "dua subdirektorat dan Subbagian Tata Usaha",
+      "B": "tiga bagian dan kelompok jabatan fungsional",
+      "C": "Subbagian Tata Usaha serta kelompok jabatan fungsional",
+      "D": "satu bidang dan dua subbagian",
+      "E": "Bagian Umum dan Bagian Keuangan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Inspektorat Wilayah hanya memiliki Subbagian Tata Usaha dan kelompok jabatan fungsional.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §6; Rangkuman Ortala ringkas (sumber/Rangkuman_Ortala_Kemenimipas.md) §6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-058",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "mudah",
+    "pertanyaan": "Tugas Direktorat Jenderal Imigrasi adalah ...",
+    "opsi": {
+      "A": "menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang keimigrasian",
+      "B": "menyelenggarakan pengawasan intern di bidang keimigrasian",
+      "C": "mengoordinasikan kerja sama luar negeri seluruh kementerian",
+      "D": "mengembangkan SDM keimigrasian",
+      "E": "menyelenggarakan pelayanan tahanan dan anak"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 115: Ditjen Imigrasi menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang keimigrasian.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 115; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-059",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "mudah",
+    "pertanyaan": "Ditjen Imigrasi terdiri atas Sekretariat Ditjen dan ... direktorat.",
+    "opsi": {
+      "A": "6",
+      "B": "8",
+      "C": "7",
+      "D": "5",
+      "E": "9"
+    },
+    "jawaban": "B",
+    "pembahasan": "Ditjen Imigrasi terdiri atas Sekretariat Ditjen dan delapan direktorat (Pasal 117).",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 117; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-060",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Satu-satunya direktorat di Ditjen Imigrasi yang tidak memiliki subdirektorat adalah ...",
+    "opsi": {
+      "A": "Direktorat Tempat Pemeriksaan Imigrasi",
+      "B": "Direktorat Intelijen Keimigrasian",
+      "C": "Direktorat Izin Tinggal dan Status Keimigrasian",
+      "D": "Direktorat Teknologi Informasi Keimigrasian",
+      "E": "Direktorat Kepatuhan Internal"
+    },
+    "jawaban": "D",
+    "pembahasan": "Direktorat Teknologi Informasi Keimigrasian hanya memiliki Subbagian TU dan kelompok jabatan fungsional, tanpa subdirektorat (Pasal 230).",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.9, §13",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-061",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Sekretariat Ditjen Imigrasi terdiri atas Bagian Sumber Daya Manusia, Bagian Keuangan, Bagian Umum dan BMN, serta ...",
+    "opsi": {
+      "A": "Bagian Data dan Sistem Informasi",
+      "B": "Bagian Perencanaan",
+      "C": "Bagian Perencanaan Anggaran",
+      "D": "Bagian Hukum dan Kerja Sama",
+      "E": "Bagian Perencanaan dan Kerja Sama"
+    },
+    "jawaban": "B",
+    "pembahasan": "Sekretariat Ditjen Imigrasi memiliki Bagian Perencanaan; Ditjen PAS memakai nama Bagian Perencanaan Anggaran.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.1, Tabel 10",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-062",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Persetujuan visa kunjungan dan prakliring kartu perjalanan pebisnis APEC menjadi fungsi Subdirektorat Layanan Visa pada ...",
+    "opsi": {
+      "A": "Direktorat Visa dan Dokumen Perjalanan",
+      "B": "Direktorat Tempat Pemeriksaan Imigrasi",
+      "C": "Direktorat Kerja Sama Keimigrasian dan Bina Perwakilan",
+      "D": "Direktorat Izin Tinggal dan Status Keimigrasian",
+      "E": "Direktorat Intelijen Keimigrasian"
+    },
+    "jawaban": "A",
+    "pembahasan": "Subdit Layanan Visa pada Dit. Visa dan Dokumen Perjalanan menangani persetujuan visa kunjungan dan prakliring kartu perjalanan pebisnis APEC.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-063",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Kebijakan pencetakan dan distribusi visa serta dokumen perjalanan ditangani oleh ...",
+    "opsi": {
+      "A": "Subdirektorat Layanan Dokumen Perjalanan",
+      "B": "Subdirektorat Produk Intelijen Keimigrasian",
+      "C": "Subdirektorat Analisis Kebutuhan dan Distribusi Visa dan Dokumen Perjalanan",
+      "D": "Subdirektorat Standardisasi Visa dan Dokumen Perjalanan",
+      "E": "Bagian Umum dan BMN Sekretariat Ditjen Imigrasi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Subdit Analisis Kebutuhan dan Distribusi Visa dan Dokumen Perjalanan menangani perencanaan, pemantauan kebutuhan, serta kebijakan pencetakan dan distribusi.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-064",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Penentuan status keimigrasian, termasuk kebijakan bagi diaspora Indonesia, menjadi fungsi subdirektorat pada ...",
+    "opsi": {
+      "A": "Direktorat Kerja Sama Keimigrasian dan Bina Perwakilan",
+      "B": "Direktorat Intelijen Keimigrasian",
+      "C": "Direktorat Pengawasan dan Penindakan Keimigrasian",
+      "D": "Direktorat Visa dan Dokumen Perjalanan",
+      "E": "Direktorat Izin Tinggal dan Status Keimigrasian"
+    },
+    "jawaban": "E",
+    "pembahasan": "Subdit Penentuan Status Keimigrasian pada Dit. Izin Tinggal dan Status Keimigrasian menangani penentuan status keimigrasian dan kebijakan bagi diaspora Indonesia.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-065",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sulit",
+    "pertanyaan": "Subdirektorat yang menangani alih status izin tinggal terbatas dan tetap serta izin tinggal peralihan adalah ...",
+    "opsi": {
+      "A": "Subdirektorat Izin Tinggal",
+      "B": "Subdirektorat Tindakan Administratif Keimigrasian",
+      "C": "Subdirektorat Penentuan Status Keimigrasian",
+      "D": "Subdirektorat Alih Status Keimigrasian",
+      "E": "Subdirektorat Layanan Visa"
+    },
+    "jawaban": "D",
+    "pembahasan": "Subdit Alih Status Keimigrasian menangani alih status izin tinggal terbatas dan tetap serta izin tinggal peralihan; Subdit Izin Tinggal menangani pemberian dan perpanjangan izin tinggal.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-066",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Laboratorium forensik keimigrasian dan perkiraan intelijen termasuk fungsi ...",
+    "opsi": {
+      "A": "Direktorat Teknologi Informasi Keimigrasian",
+      "B": "Subdirektorat Penyelidikan dan Operasi Intelijen Keimigrasian",
+      "C": "Subdirektorat Produk Intelijen Keimigrasian",
+      "D": "Subdirektorat Pengamanan Keimigrasian",
+      "E": "Subdirektorat Penyidikan Keimigrasian"
+    },
+    "jawaban": "C",
+    "pembahasan": "Subdit Produk Intelijen Keimigrasian menangani produksi intelijen, perkiraan intelijen, laboratorium forensik keimigrasian, dan pengelolaan informasi intelijen.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-067",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Penyidikan tindak pidana keimigrasian dan pembinaan PPNS keimigrasian ditangani oleh subdirektorat pada ...",
+    "opsi": {
+      "A": "Direktorat Intelijen Keimigrasian",
+      "B": "Direktorat Kepatuhan Internal",
+      "C": "Direktorat Tempat Pemeriksaan Imigrasi",
+      "D": "Direktorat Izin Tinggal dan Status Keimigrasian",
+      "E": "Direktorat Pengawasan dan Penindakan Keimigrasian"
+    },
+    "jawaban": "E",
+    "pembahasan": "Subdit Penyidikan Keimigrasian berada pada Dit. Pengawasan dan Penindakan Keimigrasian.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-068",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Koordinasi penanganan pencari suaka, pengungsi, dan imigran ilegal menjadi fungsi ...",
+    "opsi": {
+      "A": "Subdirektorat Kerja Sama Antarnegara",
+      "B": "Subdirektorat Penentuan Status Keimigrasian",
+      "C": "Subdirektorat Bina Perwakilan",
+      "D": "Subdirektorat Penanganan Deteni dan Koordinasi Penanganan Pengungsi",
+      "E": "Subdirektorat Pengawasan Keimigrasian"
+    },
+    "jawaban": "D",
+    "pembahasan": "Subdit Penanganan Deteni dan Koordinasi Penanganan Pengungsi (Dit. Pengawasan dan Penindakan) mengoordinasikan penanganan pencari suaka, pengungsi, dan imigran ilegal.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-069",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "mudah",
+    "pertanyaan": "Subdirektorat Bina Perwakilan berada di bawah ...",
+    "opsi": {
+      "A": "Direktorat Kerja Sama Keimigrasian dan Bina Perwakilan",
+      "B": "Direktorat Visa dan Dokumen Perjalanan",
+      "C": "Direktorat Intelijen Keimigrasian",
+      "D": "Direktorat Izin Tinggal dan Status Keimigrasian",
+      "E": "Direktorat Tempat Pemeriksaan Imigrasi"
+    },
+    "jawaban": "A",
+    "pembahasan": "Subdit Bina Perwakilan berada di Dit. Kerja Sama Keimigrasian dan Bina Perwakilan bersama Subdit Kerja Sama Dalam Negeri dan Organisasi Internasional serta Subdit Kerja Sama Antarnegara.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-070",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sulit",
+    "pertanyaan": "Pengendalian gratifikasi, pemantauan perilaku dan gaya hidup, serta kepatuhan LHKPN pegawai di Ditjen Imigrasi menjadi fungsi ...",
+    "opsi": {
+      "A": "Subdirektorat Fasilitasi Advokasi dan Investigasi Internal",
+      "B": "Subdirektorat Pencegahan dan Pengendalian, Direktorat Kepatuhan Internal",
+      "C": "Subdirektorat Pengamanan Keimigrasian",
+      "D": "Inspektorat Wilayah III",
+      "E": "Bagian Sumber Daya Manusia Sekretariat Ditjen Imigrasi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Subdit Pencegahan dan Pengendalian (Dit. Kepatuhan Internal) menangani pembinaan mental, pengendalian gratifikasi, pemantauan gaya hidup, LHKPN, dan zona integritas.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-071",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sulit",
+    "pertanyaan": "Pemeriksaan mendadak dan investigasi internal atas dugaan pelanggaran kode etik pegawai Ditjen Imigrasi dilakukan oleh ...",
+    "opsi": {
+      "A": "Subdirektorat Penyidikan Keimigrasian",
+      "B": "Subdirektorat Fasilitasi Advokasi dan Investigasi Internal",
+      "C": "Subdirektorat Pencegahan dan Pengendalian",
+      "D": "Bagian Umum dan BMN",
+      "E": "Subdirektorat Penyelidikan dan Operasi Intelijen Keimigrasian"
+    },
+    "jawaban": "B",
+    "pembahasan": "Subdit Fasilitasi Advokasi dan Investigasi Internal menangani investigasi internal, pemeriksaan mendadak, pendampingan pegawai, dan tindak lanjut hasil pemeriksaan Itjen.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-072",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Imigrasi",
+    "tingkat": "sulit",
+    "pertanyaan": "Menurut Renstra 2025–2029 (Tabel 1.1), jumlah Kantor Imigrasi dan Rumah Detensi Imigrasi adalah ...",
+    "opsi": {
+      "A": "133 Kantor Imigrasi dan 13 Rudenim",
+      "B": "96 Kantor Imigrasi dan 13 Rudenim",
+      "C": "113 Kantor Imigrasi dan 16 Rudenim",
+      "D": "133 Kantor Imigrasi dan 33 Rudenim",
+      "E": "125 Kantor Imigrasi dan 22 Rudenim"
+    },
+    "jawaban": "A",
+    "pembahasan": "Renstra Tabel 1.1 mencatat 33 Kanwil, 133 Kantor Imigrasi, 13 Rudenim, 96 TPI laut, 37 TPI udara, serta pos lintas batas.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7; Renstra Kemenimipas 2025–2029 / Permen Imipas 11/2025 (sumber/Permen_Imipas_11_2025_Renstra_2025-2029.md) Tabel 1.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-073",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "mudah",
+    "pertanyaan": "Ditjen Pemasyarakatan dipimpin oleh ... dan bertanggung jawab kepada Menteri.",
+    "opsi": {
+      "A": "Kepala Kantor Wilayah",
+      "B": "Inspektur Jenderal",
+      "C": "Sekretaris Jenderal",
+      "D": "Direktur Jenderal",
+      "E": "Kepala Badan"
+    },
+    "jawaban": "D",
+    "pembahasan": "Ditjen PAS berada di bawah dan bertanggung jawab kepada Menteri serta dipimpin Direktur Jenderal.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-074",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Sekretariat Ditjen Pemasyarakatan terdiri atas ... bagian.",
+    "opsi": {
+      "A": "6",
+      "B": "5",
+      "C": "3",
+      "D": "2",
+      "E": "4"
+    },
+    "jawaban": "E",
+    "pembahasan": "Sekretariat Ditjen PAS terdiri atas 4 bagian: Perencanaan Anggaran, SDM, Keuangan, serta Umum dan BMN.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.2; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-075",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Usulan standar biaya dan rencana anggaran pembangunan UPT Pemasyarakatan di Sekretariat Ditjen PAS menjadi fungsi ...",
+    "opsi": {
+      "A": "Bagian Keuangan",
+      "B": "Bagian Umum dan BMN",
+      "C": "Bagian Perencanaan Anggaran",
+      "D": "Subdirektorat Strategi Program Pemasyarakatan dan Kerangka Pendanaan",
+      "E": "Bagian Sumber Daya Manusia"
+    },
+    "jawaban": "C",
+    "pembahasan": "Bagian Perencanaan Anggaran Sekretariat Ditjen PAS menangani usulan standar biaya dan rencana anggaran pembangunan UPT Pemasyarakatan.",
+    "sumber": "Rangkuman Ortala ringkas (sumber/Rangkuman_Ortala_Kemenimipas.md) §8.2; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-076",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Kebijakan Ditjen Pemasyarakatan menurut Pasal 234 mencakup sembilan bidang. Berikut ini yang BUKAN salah satunya adalah ...",
+    "opsi": {
+      "A": "pembimbingan kemasyarakatan",
+      "B": "pengamatan",
+      "C": "perawatan",
+      "D": "penyidikan",
+      "E": "intelijen pemasyarakatan"
+    },
+    "jawaban": "D",
+    "pembahasan": "Sembilan bidang kebijakan Ditjen PAS: pelayanan, pembinaan, pembimbingan kemasyarakatan, perawatan, pengamanan, pengamatan, intelijen pemasyarakatan, teknologi informasi, dan kerja sama. Penyidikan tidak termasuk.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-077",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "mudah",
+    "pertanyaan": "Subdirektorat Integrasi, yang menangani pemberian asimilasi dan integrasi, berada di bawah ...",
+    "opsi": {
+      "A": "Direktorat Sistem dan Strategi Penyelenggaraan Pemasyarakatan",
+      "B": "Direktorat Teknologi Informasi dan Kerja Sama Pemasyarakatan",
+      "C": "Direktorat Pembinaan Narapidana dan Anak Binaan",
+      "D": "Direktorat Pembimbingan Kemasyarakatan",
+      "E": "Direktorat Pelayanan Tahanan dan Anak"
+    },
+    "jawaban": "C",
+    "pembahasan": "Subdit Integrasi berada di Dit. Pembinaan Narapidana dan Anak Binaan dan menangani asimilasi, integrasi, dan pendayagunaan Tim Pengamat Pemasyarakatan.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-078",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Administrasi remisi, komutasi atau perubahan pidana, dan grasi ditangani oleh ...",
+    "opsi": {
+      "A": "Subdirektorat Administrasi Pembinaan Narapidana dan Anak Binaan",
+      "B": "Subdirektorat Administrasi Pelayanan Tahanan dan Anak",
+      "C": "Subdirektorat Administrasi Pembimbingan Kemasyarakatan",
+      "D": "Subdirektorat Integrasi",
+      "E": "Subdirektorat Layanan Pelindungan Hukum"
+    },
+    "jawaban": "A",
+    "pembahasan": "Subdit Administrasi Pembinaan Narapidana dan Anak Binaan menangani registrasi, mutasi, administrasi remisi, komutasi, dan grasi.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-079",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Pencegahan penahanan melebihi masa tahanan serta fasilitasi bantuan hukum litigasi dan nonlitigasi menjadi fungsi ...",
+    "opsi": {
+      "A": "Bagian Hukum, Biro Hukum dan Kerja Sama",
+      "B": "Subdirektorat Layanan Pelindungan Hukum, Direktorat Pelayanan Tahanan dan Anak",
+      "C": "Subdirektorat Pengawasan Klien Pemasyarakatan",
+      "D": "Subdirektorat Administrasi Pembinaan Narapidana dan Anak Binaan",
+      "E": "Subdirektorat Fasilitasi Advokasi dan Investigasi Internal"
+    },
+    "jawaban": "B",
+    "pembahasan": "Subdit Layanan Pelindungan Hukum (Dit. Pelayanan Tahanan dan Anak) memfasilitasi bantuan hukum dan mencegah penahanan melebihi masa tahanan.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-080",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Administrasi pembantaran dan penangguhan penahanan ditangani oleh ...",
+    "opsi": {
+      "A": "Subdirektorat Penindakan dan Pemulihan",
+      "B": "Subdirektorat Layanan Kepribadian dan Kemandirian Tahanan dan Anak",
+      "C": "Subdirektorat Layanan Pelindungan Hukum",
+      "D": "Subdirektorat Administrasi Pembinaan Narapidana dan Anak Binaan",
+      "E": "Subdirektorat Administrasi Pelayanan Tahanan dan Anak"
+    },
+    "jawaban": "E",
+    "pembahasan": "Subdit Administrasi Pelayanan Tahanan dan Anak menangani registrasi, mutasi, administrasi pembantaran dan penangguhan penahanan, serta klasifikasi tahanan.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-081",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Penelitian kemasyarakatan pada tahap praadjudikasi, adjudikasi, dan pascaadjudikasi menjadi fungsi ...",
+    "opsi": {
+      "A": "Subdirektorat Administrasi Pembimbingan Kemasyarakatan",
+      "B": "Subdirektorat Pengawasan Klien Pemasyarakatan",
+      "C": "Subdirektorat Strategi Program Pemasyarakatan dan Kerangka Pendanaan",
+      "D": "Subdirektorat Integrasi",
+      "E": "Subdirektorat Administrasi Pelayanan Tahanan dan Anak"
+    },
+    "jawaban": "A",
+    "pembahasan": "Subdit Administrasi Pembimbingan Kemasyarakatan menangani registrasi, mutasi, penilaian, dan penelitian kemasyarakatan pada tiga tahap peradilan.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-082",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Investigasi pelanggaran dan penghentian program terhadap klien pemasyarakatan menjadi fungsi ...",
+    "opsi": {
+      "A": "Subdirektorat Pendampingan Klien dan Upaya Keadilan Restoratif Pemasyarakatan",
+      "B": "Subdirektorat Fasilitasi Advokasi dan Investigasi Internal",
+      "C": "Subdirektorat Intelijen Pemasyarakatan",
+      "D": "Subdirektorat Integrasi",
+      "E": "Subdirektorat Pengawasan Klien Pemasyarakatan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Subdit Pengawasan Klien Pemasyarakatan menangani pengawasan program, investigasi pelanggaran, dan penghentian program.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-083",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "mudah",
+    "pertanyaan": "Rehabilitasi ketergantungan narkotika bagi tahanan dan narapidana menjadi fungsi Subdirektorat Rehabilitasi pada ...",
+    "opsi": {
+      "A": "Direktorat Pelayanan Tahanan dan Anak",
+      "B": "Direktorat Perawatan Kesehatan dan Rehabilitasi",
+      "C": "Direktorat Pembinaan Narapidana dan Anak Binaan",
+      "D": "Direktorat Pengamanan dan Intelijen",
+      "E": "Direktorat Pembimbingan Kemasyarakatan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Subdit Rehabilitasi berada pada Dit. Perawatan Kesehatan dan Rehabilitasi dan juga menangani pencegahan penyakit menular.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-084",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Gizi dan penyelenggaraan makanan bagi warga binaan menjadi fungsi ...",
+    "opsi": {
+      "A": "Subdirektorat Rehabilitasi",
+      "B": "Subdirektorat Pembinaan Kepribadian dan Kemandirian",
+      "C": "Subdirektorat Perawatan Kesehatan Dasar dan Kebutuhan Khusus",
+      "D": "Subdirektorat Kebutuhan Dasar dan Kesehatan Lingkungan",
+      "E": "Bagian Umum dan BMN Sekretariat Ditjen PAS"
+    },
+    "jawaban": "D",
+    "pembahasan": "Subdit Kebutuhan Dasar dan Kesehatan Lingkungan menangani pemenuhan kebutuhan dasar, gizi dan penyelenggaraan makanan, serta kesehatan lingkungan.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-085",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Penyusunan rencana kontinjensi, pengelolaan kerawanan, dan penanggulangan bencana di Lapas/Rutan menjadi fungsi ...",
+    "opsi": {
+      "A": "Subdirektorat Intelijen Pemasyarakatan",
+      "B": "Subbagian Pengamanan Biro Umum",
+      "C": "Subdirektorat Pencegahan Gangguan Keamanan dan Pemeliharaan Keamanan",
+      "D": "Subdirektorat Strategi dan Transformasi Organisasi",
+      "E": "Subdirektorat Penindakan dan Pemulihan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Subdit Pencegahan Gangguan Keamanan dan Pemeliharaan Keamanan menangani pengelolaan kerawanan, strategi pengamanan, rencana kontinjensi, dan penanggulangan bencana.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-086",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "mudah",
+    "pertanyaan": "Pengelolaan crisis center serta tanggap darurat dan pemulihan menjadi fungsi ...",
+    "opsi": {
+      "A": "Subdirektorat Intelijen Pemasyarakatan",
+      "B": "Subdirektorat Pencegahan Gangguan Keamanan dan Pemeliharaan Keamanan",
+      "C": "Subdirektorat Penindakan dan Pemulihan",
+      "D": "Subdirektorat Teknologi Informasi",
+      "E": "Subdirektorat Rehabilitasi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Subdit Penindakan dan Pemulihan menangani penindakan, tanggap darurat, pemulihan, dan pengelolaan crisis center.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-087",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sulit",
+    "pertanyaan": "Perancangan dan pengelolaan instalasi khusus pemasyarakatan serta rencana pembangunan UPT Pemasyarakatan menjadi fungsi ...",
+    "opsi": {
+      "A": "Subdirektorat Strategi dan Transformasi Organisasi",
+      "B": "Subdirektorat Pencegahan Gangguan Keamanan dan Pemeliharaan Keamanan",
+      "C": "Bagian Perencanaan Anggaran",
+      "D": "Subdirektorat Strategi Program Pemasyarakatan dan Kerangka Pendanaan",
+      "E": "Bagian Umum dan BMN"
+    },
+    "jawaban": "A",
+    "pembahasan": "Subdit Strategi dan Transformasi Organisasi (Dit. Sistem dan Strategi) menangani desain kelembagaan, instalasi khusus pemasyarakatan, dan rencana pembangunan UPT.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.3; Rangkuman Ortala ringkas (sumber/Rangkuman_Ortala_Kemenimipas.md) Tabel 4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-088",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Strategi kerangka pendanaan Ditjen PAS dari APBN atau sumber lain yang sah ditangani oleh ...",
+    "opsi": {
+      "A": "Bagian Keuangan Sekretariat Ditjen PAS",
+      "B": "Subdirektorat Kerja Sama Pemasyarakatan",
+      "C": "Bagian Perencanaan Anggaran",
+      "D": "Subdirektorat Strategi dan Transformasi Organisasi",
+      "E": "Subdirektorat Strategi Program Pemasyarakatan dan Kerangka Pendanaan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Subdit Strategi Program Pemasyarakatan dan Kerangka Pendanaan menangani isu strategis, program prioritas, dan strategi pendanaan dari APBN atau sumber lain yang sah.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-089",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Direktorat Kepatuhan Internal pada Ditjen Imigrasi dan Ditjen Pemasyarakatan sama-sama memiliki dua subdirektorat, yaitu ...",
+    "opsi": {
+      "A": "Pengendalian Gratifikasi; Pemeriksaan Internal",
+      "B": "Pencegahan dan Pengendalian; Fasilitasi Advokasi dan Investigasi Internal",
+      "C": "Pembinaan Mental; Investigasi dan Penegakan Disiplin",
+      "D": "Pencegahan dan Penindakan; Advokasi dan Pengawasan",
+      "E": "Kepatuhan Pegawai; Advokasi Hukum"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kedua Direktorat Kepatuhan Internal memiliki Subdit Pencegahan dan Pengendalian serta Subdit Fasilitasi Advokasi dan Investigasi Internal.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §7.7, §8.9, §13",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-090",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sulit",
+    "pertanyaan": "Menurut Renstra 2025–2029 (Tabel 1.3), jumlah Lapas dan Rutan secara berurutan adalah ...",
+    "opsi": {
+      "A": "337 Lapas dan 94 Rutan",
+      "B": "627 Lapas dan 33 Rutan",
+      "C": "162 Lapas dan 337 Rutan",
+      "D": "337 Lapas dan 162 Rutan",
+      "E": "333 Lapas dan 162 Rutan"
+    },
+    "jawaban": "D",
+    "pembahasan": "Renstra Tabel 1.3: 33 Kanwil, 337 Lapas, 162 Rutan, 33 LPKA, 94 Bapas, dan 1 RS Pengayoman.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.11",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-091",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Direktorat Jenderal Pemasyarakatan",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut Renstra 2025–2029, jumlah Balai Pemasyarakatan (Bapas) dan LPKA secara berurutan adalah ...",
+    "opsi": {
+      "A": "94 Bapas dan 33 LPKA",
+      "B": "162 Bapas dan 33 LPKA",
+      "C": "94 Bapas dan 162 LPKA",
+      "D": "90 Bapas dan 30 LPKA",
+      "E": "33 Bapas dan 94 LPKA"
+    },
+    "jawaban": "A",
+    "pembahasan": "Renstra Tabel 1.3 mencatat 94 Bapas dan 33 LPKA.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.11",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-092",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "BPSDM",
+    "tingkat": "mudah",
+    "pertanyaan": "Tugas Badan Pengembangan SDM Imigrasi dan Pemasyarakatan adalah ...",
+    "opsi": {
+      "A": "menyusun peraturan perundang-undangan kepegawaian",
+      "B": "menyelenggarakan seleksi terbuka JPT",
+      "C": "menyelenggarakan pengawasan intern atas kinerja pegawai",
+      "D": "menyelenggarakan pengadaan dan penempatan CPNS seluruh kementerian",
+      "E": "melaksanakan pengembangan SDM di bidang keimigrasian dan pemasyarakatan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 346: BPSDM melaksanakan pengembangan SDM di bidang keimigrasian dan pemasyarakatan. Pengadaan CPNS dan seleksi JPT bukan tugas BPSDM.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 346; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-093",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "BPSDM",
+    "tingkat": "sedang",
+    "pertanyaan": "Penyusunan kurikulum, modul pendidikan, standar kompetensi pegawai, serta fasilitasi sertifikasi dan uji kompetensi menjadi tugas ...",
+    "opsi": {
+      "A": "Bagian Data dan Sistem Informasi",
+      "B": "Bagian Perencanaan dan Kerja Sama Sekretariat BPSDM",
+      "C": "Pusat Pelatihan BPSDM",
+      "D": "Pusat Pengembangan dan Penilaian Kompetensi BPSDM",
+      "E": "Biro SDM Aparatur, Organisasi, dan Ketatalaksanaan"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 366: Pusat Pengembangan dan Penilaian Kompetensi menyiapkan standardisasi pedoman, kurikulum, modul, standar kompetensi, fasilitasi sertifikasi, dan uji kompetensi.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 366–367; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §D.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-094",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "BPSDM",
+    "tingkat": "sedang",
+    "pertanyaan": "Pusat Pelatihan BPSDM bertugas melaksanakan pendidikan dan pelatihan ...",
+    "opsi": {
+      "A": "kedinasan tingkat diploma",
+      "B": "teknis, kepemimpinan, dan fungsional",
+      "C": "kepribadian bagi warga binaan",
+      "D": "prajabatan dan pascasarjana",
+      "E": "bela negara dan kesamaptaan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 370: Pusat Pelatihan melaksanakan pendidikan dan pelatihan teknis, kepemimpinan, dan fungsional.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 370",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-095",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "BPSDM",
+    "tingkat": "sulit",
+    "pertanyaan": "Sekretariat BPSDM terdiri atas Bagian Perencanaan dan Kerja Sama, Bagian Keuangan, Bagian Umum, dan ...",
+    "opsi": {
+      "A": "Bagian Penyusunan Program dan Anggaran",
+      "B": "Bagian Sumber Daya Manusia",
+      "C": "Bagian Data dan Sistem Informasi",
+      "D": "Bagian Perencanaan dan Tindak Lanjut",
+      "E": "Bagian Organisasi dan Ketatalaksanaan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Sekretariat BPSDM terdiri atas Bagian Perencanaan dan Kerja Sama, Bagian Data dan Sistem Informasi, Bagian Keuangan, dan Bagian Umum (Pasal 351).",
+    "sumber": "Rangkuman Ortala ringkas (sumber/Rangkuman_Ortala_Kemenimipas.md) §9; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §D.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-096",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Staf Ahli",
+    "tingkat": "sedang",
+    "pertanyaan": "Staf Ahli Menteri berada di bawah dan bertanggung jawab kepada Menteri. Dalam melaksanakan tugas, Staf Ahli secara administratif dikoordinasikan oleh ...",
+    "opsi": {
+      "A": "Wakil Menteri",
+      "B": "Sekretaris Jenderal",
+      "C": "Kepala Biro Umum",
+      "D": "Inspektur Jenderal",
+      "E": "Kepala Pusat Strategi Kebijakan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 374 ayat (3): Staf Ahli secara administratif dikoordinasikan oleh Sekretaris Jenderal.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 374",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-097",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Staf Ahli",
+    "tingkat": "sedang",
+    "pertanyaan": "Staf Ahli yang bertugas memberikan rekomendasi isu strategis kepada Menteri terkait hubungan luar negeri dan wilayah perbatasan adalah ...",
+    "opsi": {
+      "A": "Staf Ahli Bidang Kerja Sama Internasional",
+      "B": "Staf Ahli Bidang Pelayanan Publik dan Reformasi Hukum",
+      "C": "Staf Ahli Bidang Keamanan dan Perbatasan",
+      "D": "Staf Ahli Bidang Penguatan Reformasi Birokrasi",
+      "E": "Staf Ahli Bidang Hubungan Antar Lembaga"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 375 ayat (1): Staf Ahli Bidang Hubungan Antar Lembaga memberi rekomendasi terkait hubungan antarlembaga, hubungan luar negeri, dan wilayah perbatasan.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 375",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-098",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Staf Ahli",
+    "tingkat": "sulit",
+    "pertanyaan": "Rekomendasi strategis kepada Menteri terkait pelaksanaan reformasi birokrasi dan transformasi digital menjadi tugas ...",
+    "opsi": {
+      "A": "Staf Ahli Bidang Penguatan Reformasi Birokrasi",
+      "B": "Pusat Data, Informasi, dan Komunikasi Publik",
+      "C": "Staf Ahli Bidang Pelayanan Publik dan Reformasi Hukum",
+      "D": "Biro SDM Aparatur, Organisasi, dan Ketatalaksanaan",
+      "E": "Staf Ahli Bidang Hubungan Antar Lembaga"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 375 ayat (3): Staf Ahli Bidang Penguatan Reformasi Birokrasi memberi rekomendasi terkait reformasi birokrasi dan transformasi digital.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 375",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-099",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pusat",
+    "tingkat": "sedang",
+    "pertanyaan": "Pusat Data, Informasi, dan Komunikasi Publik dan Pusat Strategi Kebijakan berada di bawah dan bertanggung jawab kepada ...",
+    "opsi": {
+      "A": "Kepala BPSDM",
+      "B": "Sekretaris Jenderal secara langsung",
+      "C": "Menteri melalui Sekretaris Jenderal",
+      "D": "Inspektur Jenderal",
+      "E": "Wakil Menteri"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 376 dan 382: kedua Pusat berada di bawah dan bertanggung jawab kepada Menteri melalui Sekretaris Jenderal.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 376, 382",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-100",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pusat",
+    "tingkat": "sedang",
+    "pertanyaan": "Selain Subbagian Tata Usaha, unit struktural yang terdapat pada Pusat Data, Informasi, dan Komunikasi Publik adalah ...",
+    "opsi": {
+      "A": "Bidang Teknologi Informasi",
+      "B": "Subbidang Pengelolaan Media",
+      "C": "Bidang Data dan Statistik",
+      "D": "Bidang Komunikasi Publik",
+      "E": "Bagian Hubungan Masyarakat"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 378: Pusat Data, Informasi, dan Komunikasi Publik terdiri atas Bidang Komunikasi Publik, Subbagian Tata Usaha, dan kelompok jabatan fungsional.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 378",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-101",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pusat",
+    "tingkat": "sedang",
+    "pertanyaan": "Unsur pendukung Kementerian di bidang perumusan, penyusunan, dan pemberian rekomendasi strategi kebijakan imigrasi dan pemasyarakatan adalah ...",
+    "opsi": {
+      "A": "Staf Ahli Bidang Pelayanan Publik dan Reformasi Hukum",
+      "B": "Biro Hukum dan Kerja Sama",
+      "C": "Pusat Data, Informasi, dan Komunikasi Publik",
+      "D": "Pusat Strategi Kebijakan",
+      "E": "Direktorat Sistem dan Strategi Penyelenggaraan Pemasyarakatan"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 382: Pusat Strategi Kebijakan adalah unsur pendukung di bidang perumusan, penyusunan, dan pemberian rekomendasi strategi kebijakan.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 382",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-102",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pusat",
+    "tingkat": "sulit",
+    "pertanyaan": "Koordinasi pengelolaan basis data, sistem layanan data, dan sistem keamanan informasi tingkat Kementerian menjadi fungsi ...",
+    "opsi": {
+      "A": "Pusat Data, Informasi, dan Komunikasi Publik",
+      "B": "Direktorat Teknologi Informasi Keimigrasian",
+      "C": "Bagian Data dan Sistem Informasi BPSDM",
+      "D": "Subdirektorat Teknologi Informasi Ditjen PAS",
+      "E": "Pusat Strategi Kebijakan"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 377 huruf d: Pusat Data, Informasi, dan Komunikasi Publik mengoordinasikan pengelolaan basis data, sistem layanan data, dan sistem keamanan informasi.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 377",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-103",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kanwil dan UPT",
+    "tingkat": "sedang",
+    "pertanyaan": "Kanwil Ditjen Imigrasi dan Kanwil Ditjen Pemasyarakatan diklasifikasikan menjadi ...",
+    "opsi": {
+      "A": "Pratama dan Madya",
+      "B": "Tipe A, Tipe B, dan Tipe C",
+      "C": "Kelas IA, IB, dan II",
+      "D": "Kelas I dan Kelas II",
+      "E": "Tipe A dan Tipe B"
+    },
+    "jawaban": "E",
+    "pembahasan": "Kanwil Imigrasi dan Kanwil Pemasyarakatan diklasifikasikan Tipe A dan Tipe B melalui pola klasifikasi yang ditetapkan Menteri setelah persetujuan menteri bidang aparatur negara.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-104",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kanwil dan UPT",
+    "tingkat": "sulit",
+    "pertanyaan": "Kanwil Ditjen Pemasyarakatan Tipe A memiliki Bagian Tata Usaha dan Umum, Bidang Pelayanan dan Pembinaan, Bidang Pembimbingan Kemasyarakatan, dan ...",
+    "opsi": {
+      "A": "Bidang Intelijen dan Penindakan",
+      "B": "Bidang Perencanaan dan Evaluasi",
+      "C": "Bidang Perawatan, Pengamanan, dan Kepatuhan Internal",
+      "D": "Bidang Registrasi dan Klasifikasi",
+      "E": "Bidang Teknologi Informasi dan Kerja Sama"
+    },
+    "jawaban": "C",
+    "pembahasan": "Kanwil Ditjenpas Tipe A memiliki Bagian TU dan Umum, Bidang Pelayanan dan Pembinaan, Bidang Pembimbingan Kemasyarakatan, serta Bidang Perawatan, Pengamanan, dan Kepatuhan Internal.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-105",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kanwil dan UPT",
+    "tingkat": "sulit",
+    "pertanyaan": "Pada Kanwil Ditjen Pemasyarakatan Tipe B, urusan perawatan, pengamanan, dan kepatuhan internal ditangani oleh ...",
+    "opsi": {
+      "A": "Kepala Kanwil secara langsung",
+      "B": "Bidang Pelayanan dan Pembinaan",
+      "C": "Bidang Pembimbingan Kemasyarakatan",
+      "D": "Bagian Tata Usaha dan Umum",
+      "E": "Bidang Perawatan, Pengamanan, dan Kepatuhan Internal"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kanwil Ditjenpas Tipe B hanya memiliki tiga unit pertama; Bidang Pelayanan dan Pembinaan juga menangani perawatan, pengamanan, dan kepatuhan internal.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-106",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kanwil dan UPT",
+    "tingkat": "sedang",
+    "pertanyaan": "Urusan organisasi dan tata laksana di tingkat Kantor Wilayah dipegang oleh ...",
+    "opsi": {
+      "A": "Biro SDM Aparatur, Organisasi, dan Ketatalaksanaan",
+      "B": "Kepala UPT",
+      "C": "Bidang Pembimbingan Kemasyarakatan",
+      "D": "Bagian Tata Usaha dan Umum",
+      "E": "Bidang Pelayanan dan Pembinaan"
+    },
+    "jawaban": "D",
+    "pembahasan": "Bagian Tata Usaha dan Umum Kanwil memegang perencanaan dan anggaran, organisasi dan tata laksana, SDM, keuangan, BMN, TI, kerja sama, dan kerumahtanggaan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-107",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kanwil dan UPT",
+    "tingkat": "mudah",
+    "pertanyaan": "Berikut ini yang BUKAN termasuk UPT Pemasyarakatan adalah ...",
+    "opsi": {
+      "A": "Rumah Detensi Imigrasi",
+      "B": "Lembaga Pemasyarakatan",
+      "C": "Rumah Tahanan Negara",
+      "D": "Lembaga Pembinaan Khusus Anak",
+      "E": "Balai Pemasyarakatan"
+    },
+    "jawaban": "A",
+    "pembahasan": "Rudenim adalah UPT Imigrasi. UPT Pemasyarakatan meliputi Lapas, Rutan, Bapas, Rupbasan, LPKA, dan LPAS.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-108",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Kanwil dan UPT",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut Permen Imipas 1/2024, unit pelaksana teknis di lingkungan Kementerian ditetapkan oleh ...",
+    "opsi": {
+      "A": "Kepala Kantor Wilayah atas persetujuan Direktur Jenderal",
+      "B": "Menteri setelah mendapat persetujuan tertulis dari menteri yang menyelenggarakan urusan pemerintahan di bidang aparatur negara",
+      "C": "Direktur Jenderal setelah berkoordinasi dengan Sekretaris Jenderal",
+      "D": "Menteri Keuangan atas usul Menteri",
+      "E": "Presiden atas usul Menteri"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 391: UPT ditetapkan oleh Menteri setelah mendapat persetujuan tertulis dari menteri yang menyelenggarakan urusan pemerintahan di bidang aparatur negara.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 390–391",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-109",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Alur Koordinasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Dalam alur pertanggungjawaban, Kepala Kanwil Ditjen Pemasyarakatan mengoordinasikan pertanggungjawaban tugas UPT dan melapor kepada ...",
+    "opsi": {
+      "A": "Sekretaris Jenderal",
+      "B": "Inspektur Wilayah IV",
+      "C": "Direktur Jenderal Pemasyarakatan",
+      "D": "Gubernur setempat",
+      "E": "Kepala BPSDM"
+    },
+    "jawaban": "C",
+    "pembahasan": "Kepala Kanwil mengoordinasikan pertanggungjawaban tugas UPT kepada Dirjen Pemasyarakatan; Kakanwil melapor kepada Dirjen.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-110",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Alur Koordinasi",
+    "tingkat": "sulit",
+    "pertanyaan": "Menurut Pasal 396 Permen Imipas 1/2024, setiap unsur Kementerian dalam melaksanakan tugas wajib menerapkan prinsip ...",
+    "opsi": {
+      "A": "efektivitas, efisiensi, transparansi, dan partisipasi",
+      "B": "sentralisasi, integrasi, sinkronisasi, dan kolaborasi",
+      "C": "koordinasi, integrasi, simplifikasi, dan desentralisasi",
+      "D": "koordinasi, delegasi, supervisi, dan akuntabilitas",
+      "E": "koordinasi, integrasi, sinkronisasi, dan kolaborasi"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 396 ayat (1): prinsip koordinasi, integrasi, sinkronisasi, dan kolaborasi, baik di dalam Kementerian maupun antarkementerian/lembaga.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 396",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-111",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Alur Koordinasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Prinsip koordinasi, integrasi, sinkronisasi, dan kolaborasi antarunit Kemenimipas menurut Pasal 396 didukung dengan ...",
+    "opsi": {
+      "A": "interoperabilitas data dan informasi",
+      "B": "pembentukan satuan tugas ad hoc",
+      "C": "penambahan anggaran setiap tahun",
+      "D": "penggabungan seluruh unit pelaksana teknis",
+      "E": "pengawasan eksternal oleh BPK"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 396 ayat (2): prinsip tersebut didukung dengan interoperabilitas data dan informasi.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 396",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-112",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Alur Koordinasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut Permen Imipas 1/2024, Kementerian wajib menyusun analisis jabatan, peta jabatan, analisis beban kerja, dan ... terhadap seluruh jabatan.",
+    "opsi": {
+      "A": "rencana suksesi",
+      "B": "indikator kinerja utama",
+      "C": "standar biaya",
+      "D": "uraian tugas",
+      "E": "pola karier nasional"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 395: Kementerian harus menyusun analisis jabatan, peta jabatan, analisis beban kerja, dan uraian tugas terhadap seluruh jabatan.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 395",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-113",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Alur Koordinasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Perubahan atas susunan organisasi dan tata kerja dalam Permen Imipas 1/2024 diatur oleh Menteri setelah ...",
+    "opsi": {
+      "A": "mendapat persetujuan DPR",
+      "B": "dikonsultasikan dengan Kepala BKN",
+      "C": "mendapat rekomendasi BPK",
+      "D": "ditetapkan dengan Keputusan Presiden",
+      "E": "mendapat persetujuan tertulis dari menteri yang menyelenggarakan urusan pemerintahan di bidang aparatur negara"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 404: perubahan SOTK diatur oleh Menteri setelah mendapat persetujuan tertulis dari menteri bidang aparatur negara.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 404",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-114",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Eselonisasi",
+    "tingkat": "mudah",
+    "pertanyaan": "Sekretaris Jenderal, Direktur Jenderal, Inspektur Jenderal, dan Kepala Badan di Kemenimipas merupakan Jabatan Pimpinan Tinggi Madya atau eselon ...",
+    "opsi": {
+      "A": "II.b",
+      "B": "I.b",
+      "C": "I.a",
+      "D": "III.a",
+      "E": "II.a"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 400 ayat (1): Sekjen, Dirjen, Irjen, dan Kepala Badan adalah JPT Madya atau eselon I.a.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 400; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-115",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Eselonisasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Staf Ahli Menteri Imigrasi dan Pemasyarakatan merupakan Jabatan Pimpinan Tinggi Madya atau eselon ...",
+    "opsi": {
+      "A": "I.a",
+      "B": "I.b",
+      "C": "III.a",
+      "D": "II.a",
+      "E": "II.b"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 400 ayat (2): Staf Ahli adalah JPT Madya atau eselon I.b, setingkat di bawah Sekjen/Dirjen (I.a).",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 400; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-116",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Eselonisasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Kepala Biro, Direktur, Inspektur, Sekretaris Badan, dan Kepala Pusat merupakan Jabatan Pimpinan Tinggi Pratama atau eselon ...",
+    "opsi": {
+      "A": "III.b",
+      "B": "I.b",
+      "C": "II.a",
+      "D": "II.b",
+      "E": "III.a"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 400 ayat (3): Kepala Biro, Sesditjen, Direktur, Sesitjen, Inspektur, Sekretaris Badan, dan Kepala Pusat adalah JPT Pratama atau eselon II.a.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 400",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-117",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Eselonisasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Kepala Bagian dan Kepala Subdirektorat merupakan jabatan ... atau eselon III.a.",
+    "opsi": {
+      "A": "Administrator",
+      "B": "Fungsional Ahli Madya",
+      "C": "Pelaksana",
+      "D": "Pengawas",
+      "E": "Pimpinan Tinggi Pratama"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 400 ayat (4): Kepala Bagian dan Kepala Subdirektorat adalah Jabatan Administrator atau eselon III.a.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 400",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-118",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Eselonisasi",
+    "tingkat": "sulit",
+    "pertanyaan": "Menurut rangkuman eselonisasi, perbedaan Kepala Kanwil Tipe A dan Tipe B terletak pada eselonnya, yaitu ...",
+    "opsi": {
+      "A": "Keduanya eselon II.a",
+      "B": "Tipe A eselon III.a; Tipe B eselon III.b",
+      "C": "Tipe A eselon II.b; Tipe B eselon III.a",
+      "D": "Tipe A eselon I.b; Tipe B eselon II.a",
+      "E": "Tipe A eselon II.a; Tipe B eselon II.b"
+    },
+    "jawaban": "E",
+    "pembahasan": "Rangkuman eselonisasi: Kepala Kanwil Tipe A eselon II.a, Kepala Kanwil Tipe B eselon II.b.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §C.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-119",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Eselonisasi",
+    "tingkat": "mudah",
+    "pertanyaan": "Kepala Subbagian di lingkungan Kemenimipas merupakan Jabatan Pengawas atau eselon ...",
+    "opsi": {
+      "A": "V.a",
+      "B": "IV.a",
+      "C": "IV.b",
+      "D": "III.a",
+      "E": "III.b"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 400 ayat (5): Kepala Subbagian adalah Jabatan Pengawas atau eselon IV.a.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 400",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-120",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pengangkatan dan Pemberhentian",
+    "tingkat": "sedang",
+    "pertanyaan": "Sekretaris Jenderal, Direktur Jenderal, Inspektur Jenderal, Kepala Badan, dan Staf Ahli diangkat dan diberhentikan oleh ...",
+    "opsi": {
+      "A": "Menteri atas usul Sekretaris Jenderal",
+      "B": "Menteri setelah persetujuan Presiden",
+      "C": "Tim Penilai Akhir atas usul BKN",
+      "D": "Presiden atas usul Menteri",
+      "E": "Presiden atas usul Menteri PANRB"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 401 ayat (1): Sekjen, Dirjen, Irjen, Kepala Badan, dan Staf Ahli diangkat dan diberhentikan oleh Presiden atas usul Menteri.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 401",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-121",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pengangkatan dan Pemberhentian",
+    "tingkat": "sulit",
+    "pertanyaan": "Menurut Pasal 401 Permen Imipas 1/2024, pejabat administrasi atau pejabat struktural eselon III ke bawah diangkat dan diberhentikan oleh ...",
+    "opsi": {
+      "A": "Presiden atas usul Menteri",
+      "B": "Sekretaris Jenderal untuk seluruh unit",
+      "C": "Pimpinan Tinggi Madya masing-masing unit Eselon I yang diberi pelimpahan wewenang oleh Menteri",
+      "D": "Menteri atas usul Direktur Jenderal",
+      "E": "Kepala Kantor Wilayah"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 401 ayat (3): pejabat eselon III ke bawah diangkat dan diberhentikan oleh Pimpinan Tinggi Madya masing-masing unit Eselon I yang diberi pelimpahan wewenang oleh Menteri. Eselon II diangkat Menteri.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 401",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-122",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pendanaan dan Tata Kerja",
+    "tingkat": "sedang",
+    "pertanyaan": "Selain APBN, pelaksanaan tugas dan fungsi keimigrasian dapat dibebankan kepada ...",
+    "opsi": {
+      "A": "penerimaan pajak daerah",
+      "B": "iuran wajib pemohon paspor di luar PNBP",
+      "C": "dana hibah luar negeri yang mengikat",
+      "D": "sumber lain yang sah dan tidak mengikat sesuai peraturan perundang-undangan",
+      "E": "APBD provinsi tempat kantor imigrasi berada"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 403: selain APBN, tugas dan fungsi keimigrasian dapat dibebankan kepada sumber lain yang sah dan tidak mengikat.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 402–403",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-123",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pendanaan dan Tata Kerja",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut Pasal 392 Permen Imipas 1/2024, dalam melaksanakan tugas dan fungsinya Menteri harus menerapkan ...",
+    "opsi": {
+      "A": "sistem akuntabilitas kinerja instansi pemerintah",
+      "B": "sistem informasi kepegawaian nasional",
+      "C": "sistem manajemen mutu ISO",
+      "D": "sistem penganggaran berbasis kas",
+      "E": "sistem pengadaan secara elektronik saja"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 392: Menteri harus menerapkan sistem akuntabilitas kinerja instansi pemerintahan (SAKIP).",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 392",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sotk-124",
+    "kategori": "TSI",
+    "topik": "SOTK",
+    "subtopik": "Pendanaan dan Tata Kerja",
+    "tingkat": "sulit",
+    "pertanyaan": "Kelompok jabatan fungsional di Kemenimipas menurut Pasal 387 bertugas memberikan pelayanan fungsional dalam pelaksanaan tugas dan fungsi ..., melalui mekanisme tim kerja/kelompok kerja.",
+    "opsi": {
+      "A": "Jabatan Administrator",
+      "B": "Jabatan Pimpinan Tinggi Pratama",
+      "C": "Jabatan Pengawas",
+      "D": "Jabatan Pimpinan Tinggi Madya",
+      "E": "Staf Ahli"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 387: kelompok jabatan fungsional memberi pelayanan fungsional dalam pelaksanaan tugas dan fungsi Jabatan Pimpinan Tinggi Pratama, dengan mekanisme tim kerja/kelompok kerja.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 387",
+    "di_luar_materi": false
+  }
+]
