@@ -1,0 +1,477 @@
+[
+  {
+    "id": "kebijakan-publik-001",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Konsep",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut rangkuman, kebijakan publik adalah ...",
+    "opsi": {
+      "A": "pendapat masyarakat yang dimuat di media",
+      "B": "keputusan pengusaha untuk kepentingan perusahaan",
+      "C": "program partai politik saat kampanye",
+      "D": "tindakan pemerintah dalam menjalankan tugas dan fungsinya demi kepentingan publik",
+      "E": "aturan internal organisasi kemasyarakatan"
+    },
+    "jawaban": "D",
+    "pembahasan": "Kebijakan publik adalah tindakan pemerintah menjalankan tugas dan fungsinya demi kepentingan publik.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2 Kebijakan Publik",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-002",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Konsep",
+    "tingkat": "sedang",
+    "pertanyaan": "Pedoman umum kebijakan publik yang dirujuk dalam rangkuman adalah ...",
+    "opsi": {
+      "A": "SE Kepala BKN Nomor 10 Tahun 2024",
+      "B": "Kepmenpan Nomor 63 Tahun 2003",
+      "C": "Perpres Nomor 81 Tahun 2010",
+      "D": "UU Nomor 25 Tahun 2009",
+      "E": "Permenpan RB PER/04/M.PAN/4/2007"
+    },
+    "jawaban": "E",
+    "pembahasan": "Rangkuman merujuk Permenpan RB PER/04/M.PAN/4/2007 sebagai pedoman kebijakan publik; Kepmenpan 63/2003 adalah pedoman pelayanan publik.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-003",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Siklus Kebijakan",
+    "tingkat": "mudah",
+    "pertanyaan": "Urutan siklus kebijakan publik yang benar adalah ...",
+    "opsi": {
+      "A": "penyusunan agenda – formulasi – adopsi – implementasi – evaluasi",
+      "B": "evaluasi – penyusunan agenda – formulasi – adopsi – implementasi",
+      "C": "formulasi – penyusunan agenda – implementasi – adopsi – evaluasi",
+      "D": "adopsi – formulasi – penyusunan agenda – implementasi – evaluasi",
+      "E": "penyusunan agenda – adopsi – formulasi – evaluasi – implementasi"
+    },
+    "jawaban": "A",
+    "pembahasan": "Siklus: penyusunan agenda → formulasi → adopsi → implementasi → evaluasi.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-004",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Siklus Kebijakan",
+    "tingkat": "mudah",
+    "pertanyaan": "Tahap pertama dalam siklus kebijakan publik adalah ...",
+    "opsi": {
+      "A": "implementasi",
+      "B": "penyusunan agenda",
+      "C": "formulasi",
+      "D": "evaluasi",
+      "E": "adopsi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Siklus kebijakan dimulai dari penyusunan agenda.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-005",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Siklus Kebijakan",
+    "tingkat": "mudah",
+    "pertanyaan": "Tahap terakhir dalam siklus kebijakan publik adalah ...",
+    "opsi": {
+      "A": "penyusunan agenda",
+      "B": "formulasi",
+      "C": "evaluasi",
+      "D": "adopsi",
+      "E": "implementasi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Siklus kebijakan diakhiri dengan evaluasi untuk menilai hasil kebijakan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-006",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Siklus Kebijakan",
+    "tingkat": "sedang",
+    "pertanyaan": "Tahap yang berada tepat setelah formulasi dalam siklus kebijakan publik adalah ...",
+    "opsi": {
+      "A": "evaluasi",
+      "B": "adopsi",
+      "C": "penyusunan agenda",
+      "D": "reformulasi",
+      "E": "implementasi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Urutan: agenda → formulasi → adopsi → implementasi → evaluasi.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-007",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Siklus Kebijakan",
+    "tingkat": "sedang",
+    "pertanyaan": "Tim menyusun beberapa alternatif solusi atas masalah overkapasitas Lapas dan membandingkan kelebihan masing-masing. Kegiatan ini termasuk tahap ...",
+    "opsi": {
+      "A": "implementasi",
+      "B": "penyusunan agenda",
+      "C": "evaluasi",
+      "D": "adopsi",
+      "E": "formulasi"
+    },
+    "jawaban": "E",
+    "pembahasan": "Formulasi adalah tahap merumuskan alternatif kebijakan setelah masalah masuk agenda.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-008",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Siklus Kebijakan",
+    "tingkat": "sedang",
+    "pertanyaan": "Peraturan menteri yang telah disetujui kemudian ditetapkan dan diundangkan secara resmi. Tahap kebijakan ini disebut ...",
+    "opsi": {
+      "A": "evaluasi",
+      "B": "penyusunan agenda",
+      "C": "adopsi",
+      "D": "formulasi",
+      "E": "implementasi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Adopsi adalah tahap pengesahan/penetapan alternatif kebijakan yang dipilih.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-009",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Siklus Kebijakan",
+    "tingkat": "sedang",
+    "pertanyaan": "UPT di seluruh Indonesia melaksanakan standar operasional prosedur baru yang telah ditetapkan kementerian. Tahap ini adalah ...",
+    "opsi": {
+      "A": "penyusunan agenda",
+      "B": "adopsi",
+      "C": "formulasi",
+      "D": "implementasi",
+      "E": "evaluasi"
+    },
+    "jawaban": "D",
+    "pembahasan": "Implementasi adalah pelaksanaan kebijakan yang telah ditetapkan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-010",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Siklus Kebijakan",
+    "tingkat": "sedang",
+    "pertanyaan": "Setelah satu tahun berjalan, kementerian menilai apakah kebijakan kunjungan daring berhasil menurunkan keluhan masyarakat. Tahap ini adalah ...",
+    "opsi": {
+      "A": "evaluasi",
+      "B": "penyusunan agenda",
+      "C": "formulasi",
+      "D": "adopsi",
+      "E": "implementasi"
+    },
+    "jawaban": "A",
+    "pembahasan": "Evaluasi menilai hasil dan dampak kebijakan yang telah dilaksanakan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-011",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Siklus Kebijakan",
+    "tingkat": "sedang",
+    "pertanyaan": "Pengaduan masyarakat yang meningkat membuat pimpinan menetapkan masalah antrean layanan sebagai prioritas untuk dicarikan solusi. Tahap ini adalah ...",
+    "opsi": {
+      "A": "evaluasi",
+      "B": "adopsi",
+      "C": "formulasi",
+      "D": "implementasi",
+      "E": "penyusunan agenda"
+    },
+    "jawaban": "E",
+    "pembahasan": "Penyusunan agenda adalah tahap menetapkan masalah publik yang perlu ditangani pemerintah.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-012",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Tingkatan Kebijakan",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut Nugroho (2006), kebijakan publik tingkat makro meliputi ...",
+    "opsi": {
+      "A": "Surat Edaran dan Instruksi",
+      "B": "Peraturan Gubernur dan Peraturan Bupati/Wali Kota",
+      "C": "UUD, UU, PP, dan Perpu",
+      "D": "Keputusan Kepala UPT",
+      "E": "Peraturan Menteri dan SKB"
+    },
+    "jawaban": "C",
+    "pembahasan": "Nugroho (2006): makro (UUD, UU, PP, Perpu); meso (Peraturan Menteri, SKB); mikro (Peraturan Gubernur, Bupati/Wali Kota).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-013",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Tingkatan Kebijakan",
+    "tingkat": "sedang",
+    "pertanyaan": "Permen Imipas Nomor 1 Tahun 2024 tentang Organisasi dan Tata Kerja, menurut tingkatan kebijakan Nugroho, termasuk kebijakan ...",
+    "opsi": {
+      "A": "meso",
+      "B": "makro",
+      "C": "operasional teknis",
+      "D": "strategis nasional",
+      "E": "mikro"
+    },
+    "jawaban": "A",
+    "pembahasan": "Peraturan Menteri termasuk tingkat meso menurut Nugroho (2006).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-014",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Tingkatan Kebijakan",
+    "tingkat": "sedang",
+    "pertanyaan": "Peraturan Wali Kota tentang tata kelola pasar tradisional termasuk tingkatan kebijakan ...",
+    "opsi": {
+      "A": "makro",
+      "B": "mikro",
+      "C": "nasional",
+      "D": "konstitusional",
+      "E": "meso"
+    },
+    "jawaban": "B",
+    "pembahasan": "Peraturan Gubernur dan Peraturan Bupati/Wali Kota termasuk kebijakan mikro.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-015",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Tingkatan Kebijakan",
+    "tingkat": "sedang",
+    "pertanyaan": "Peraturan Pemerintah Nomor 94 Tahun 2021 tentang Disiplin PNS menurut tingkatan Nugroho termasuk kebijakan ...",
+    "opsi": {
+      "A": "meso",
+      "B": "teknis",
+      "C": "sektoral",
+      "D": "makro",
+      "E": "mikro"
+    },
+    "jawaban": "D",
+    "pembahasan": "PP termasuk kebijakan makro bersama UUD, UU, dan Perpu.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-016",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Tingkatan Kebijakan",
+    "tingkat": "sedang",
+    "pertanyaan": "Surat Keputusan Bersama (SKB) beberapa menteri menurut tingkatan kebijakan Nugroho termasuk ...",
+    "opsi": {
+      "A": "operasional",
+      "B": "mikro",
+      "C": "makro",
+      "D": "meso",
+      "E": "konstitusional"
+    },
+    "jawaban": "D",
+    "pembahasan": "Nugroho menempatkan Peraturan Menteri dan SKB pada tingkat meso.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-017",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "ASN dan Kebijakan",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut UU 20/2023, salah satu fungsi Pegawai ASN adalah sebagai ...",
+    "opsi": {
+      "A": "perumus konstitusi",
+      "B": "pelaksana kebijakan publik",
+      "C": "pengawas eksternal pemerintah",
+      "D": "pembuat undang-undang",
+      "E": "penguji materi undang-undang"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 10 UU 20/2023: ASN berfungsi sebagai pelaksana kebijakan publik, pelayan publik, serta perekat dan pemersatu bangsa.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 10",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-018",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "ASN dan Kebijakan",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut Pasal 11 UU 20/2023, Pegawai ASN bertugas melaksanakan kebijakan publik yang dibuat oleh ...",
+    "opsi": {
+      "A": "masyarakat melalui petisi",
+      "B": "pimpinan Korpri",
+      "C": "partai politik pemenang pemilu",
+      "D": "organisasi profesi",
+      "E": "Pejabat Pembina Kepegawaian sesuai ketentuan peraturan perundang-undangan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 11 huruf a: ASN melaksanakan kebijakan publik yang dibuat oleh PPK sesuai ketentuan peraturan perundang-undangan.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 11",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-019",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Kebijakan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Strategi Renstra Kemenimipas untuk memperkuat kualitas kebijakan dan produk hukum berbasis bukti dikenal dengan istilah ...",
+    "opsi": {
+      "A": "evidence-based policy",
+      "B": "trial and error policy",
+      "C": "top-down policy",
+      "D": "populist policy",
+      "E": "incremental policy"
+    },
+    "jawaban": "A",
+    "pembahasan": "Strategi ketiga AK4: memperkuat kualitas kebijakan dan produk hukum imigrasi dan pemasyarakatan berbasis bukti (evidence-based policy).",
+    "sumber": "Renstra Kemenimipas 2025–2029 / Permen Imipas 11/2025 (sumber/Permen_Imipas_11_2025_Renstra_2025-2029.md) Tabel 3.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-020",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Kebijakan di Kemenimipas",
+    "tingkat": "sulit",
+    "pertanyaan": "Fungsi Pusat Strategi Kebijakan menurut Pasal 383 Permen Imipas 1/2024 meliputi hal berikut, KECUALI ...",
+    "opsi": {
+      "A": "pelaksanaan administrasi Pusat",
+      "B": "pelaksanaan analisis dan pemberian rekomendasi strategi kebijakan",
+      "C": "penetapan peraturan menteri",
+      "D": "koordinasi dan sinkronisasi strategi kebijakan",
+      "E": "pemantauan, analisis, evaluasi, dan pelaporan pemberian rekomendasi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pusat Strategi Kebijakan hanya merumuskan, menganalisis, merekomendasikan, mengoordinasikan, dan memantau; penetapan peraturan menteri adalah kewenangan Menteri.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 383",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-021",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Kebijakan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Target Indeks Kualitas Kebijakan Kemenimipas pada kerangka kinerja Setjen tahun 2025 dan 2029 adalah ...",
+    "opsi": {
+      "A": "90,38 dan 93,38",
+      "B": "86,00 dan 87,50",
+      "C": "80,00 dan 83,00",
+      "D": "3,28 dan 3,60",
+      "E": "88,40 dan 89,60"
+    },
+    "jawaban": "B",
+    "pembahasan": "IKK 13.1 Indeks Kualitas Kebijakan Kemenimipas: 86,00 (2025) hingga 87,50 (2029).",
+    "sumber": "Renstra Kemenimipas 2025–2029 / Permen Imipas 11/2025 (sumber/Permen_Imipas_11_2025_Renstra_2025-2029.md) Tabel 4.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-022",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Kebijakan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Sinkronisasi hukum dan regulasi pemasyarakatan termasuk fungsi direktorat baru di Ditjen PAS, yaitu ...",
+    "opsi": {
+      "A": "Direktorat Kepatuhan Internal",
+      "B": "Direktorat Teknologi Informasi dan Kerja Sama Pemasyarakatan",
+      "C": "Direktorat Pelayanan Tahanan dan Anak",
+      "D": "Direktorat Pembimbingan Kemasyarakatan",
+      "E": "Direktorat Sistem dan Strategi Penyelenggaraan Pemasyarakatan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Fungsi Dit. Sistem dan Strategi (Pasal 253) mencakup strategi program, keterpaduan proses bisnis, transformasi organisasi, serta sinkronisasi hukum dan regulasi.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-023",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Kebijakan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Rumusan tugas direktorat di lingkungan Ditjen PAS umumnya berbunyi ...",
+    "opsi": {
+      "A": "pelaksanaan audit keuangan dan penyidikan",
+      "B": "pembentukan undang-undang dan peraturan pemerintah",
+      "C": "penyiapan perumusan dan pelaksanaan kebijakan, bimbingan teknis dan supervisi, serta pemantauan, analisis, evaluasi, dan pelaporan",
+      "D": "penetapan kebijakan nasional dan pengawasan eksternal",
+      "E": "penyusunan APBN dan pengelolaan PNBP"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pola tugas direktorat: penyiapan perumusan dan pelaksanaan kebijakan, bimbingan teknis dan supervisi, serta pemantauan, analisis, evaluasi, dan pelaporan; subdirektorat: penyiapan bahan.",
+    "sumber": "Rangkuman Ortala ringkas (sumber/Rangkuman_Ortala_Kemenimipas.md) §8.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-024",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Kebijakan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut Renstra, arah kebijakan Kemenimipas disusun dengan cara ...",
+    "opsi": {
+      "A": "menjabarkan arah kebijakan dan strategi nasional dalam RPJMN dengan mempertimbangkan keterlibatan daerah dan swasta",
+      "B": "meniru kebijakan negara lain secara utuh",
+      "C": "menyalin seluruh program kementerian lain",
+      "D": "mengikuti usulan setiap UPT tanpa penyaringan",
+      "E": "menetapkan kebijakan tanpa mengacu RPJMN"
+    },
+    "jawaban": "A",
+    "pembahasan": "Renstra §3.2: arah kebijakan Kemenimipas menjabarkan arah kebijakan dan strategi nasional dengan mempertimbangkan keterlibatan daerah dan swasta, untuk mencapai sasaran RPJMN.",
+    "sumber": "Renstra Kemenimipas 2025–2029 / Permen Imipas 11/2025 (sumber/Permen_Imipas_11_2025_Renstra_2025-2029.md) §3.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kebijakan-publik-025",
+    "kategori": "TKT",
+    "topik": "Kebijakan Publik",
+    "subtopik": "Kebijakan di Kemenimipas",
+    "tingkat": "sulit",
+    "pertanyaan": "Target Indeks Kualitas Kebijakan Penyelenggaraan Pemasyarakatan (IKK 21.1 Ditjen PAS) pada 2025 dan 2029 adalah ...",
+    "opsi": {
+      "A": "86,00 dan 87,50",
+      "B": "3,00 dan 3,30",
+      "C": "3,45 dan 3,68",
+      "D": "3,28 dan 3,60",
+      "E": "2,86 dan 3,35"
+    },
+    "jawaban": "D",
+    "pembahasan": "Kerangka kinerja Ditjen PAS menargetkan IKK 21.1 sebesar 3,28 (2025) hingga 3,6 (2029).",
+    "sumber": "Renstra Kemenimipas 2025–2029 / Permen Imipas 11/2025 (sumber/Permen_Imipas_11_2025_Renstra_2025-2029.md) Tabel 4.4",
+    "di_luar_materi": false
+  }
+]

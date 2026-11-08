@@ -1,0 +1,515 @@
+[
+  {
+    "id": "pelayanan-publik-001",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Konsep Dasar",
+    "tingkat": "mudah",
+    "pertanyaan": "Pelayanan publik diatur terutama dalam ...",
+    "opsi": {
+      "A": "UU Nomor 43 Tahun 2009",
+      "B": "UU Nomor 20 Tahun 2023",
+      "C": "UU Nomor 25 Tahun 2004",
+      "D": "UU Nomor 14 Tahun 2008",
+      "E": "UU Nomor 25 Tahun 2009"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pelayanan publik diatur UU 25/2009 dan pedoman Kepmenpan 63/2003. UU 25/2004 tentang SPPN, UU 14/2008 tentang KIP, UU 43/2009 tentang Kearsipan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2 Pelayanan Publik",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-002",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Konsep Dasar",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut rangkuman UU 25/2009, objek pelayanan publik yang dipenuhi penyelenggara bagi warga negara dan penduduk meliputi ...",
+    "opsi": {
+      "A": "bantuan sosial tunai",
+      "B": "barang, jasa, dan/atau pelayanan administratif",
+      "C": "pelayanan administratif saja",
+      "D": "pelayanan politik dan keamanan",
+      "E": "barang dan jasa komersial saja"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pelayanan publik adalah kegiatan pemenuhan kebutuhan pelayanan sesuai peraturan atas barang, jasa, dan/atau pelayanan administratif.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-003",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Konsep Dasar",
+    "tingkat": "sedang",
+    "pertanyaan": "Pedoman umum penyelenggaraan pelayanan publik yang disebut dalam rangkuman adalah ...",
+    "opsi": {
+      "A": "Kepmenpan Nomor 63 Tahun 2003",
+      "B": "Permenpan PER/04/M.PAN/4/2007",
+      "C": "Perpres Nomor 81 Tahun 2010",
+      "D": "Permenpan RB Nomor 89 Tahun 2021",
+      "E": "PP Nomor 94 Tahun 2021"
+    },
+    "jawaban": "A",
+    "pembahasan": "Rangkuman merujuk UU 25/2009 dan Kepmenpan 63/2003. Permenpan PER/04/M.PAN/4/2007 adalah pedoman kebijakan publik.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-004",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Organisasi Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Dalam penyelenggaraan pelayanan publik, pengawasan eksternal dilakukan oleh ...",
+    "opsi": {
+      "A": "Kementerian PANRB",
+      "B": "Badan Kepegawaian Negara",
+      "C": "Ombudsman",
+      "D": "Satuan Pengawas Internal",
+      "E": "Inspektorat Jenderal"
+    },
+    "jawaban": "C",
+    "pembahasan": "Rangkuman: pembina/perumus kebijakan nasional adalah menteri bidang aparatur negara; pengawas eksternal adalah Ombudsman.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-005",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Organisasi Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Pembina dan perumus kebijakan pelayanan publik secara nasional adalah ...",
+    "opsi": {
+      "A": "Kepala Badan Pemeriksa Keuangan",
+      "B": "Menteri Dalam Negeri",
+      "C": "Ketua Ombudsman RI",
+      "D": "menteri yang bertanggung jawab di bidang pendayagunaan aparatur negara",
+      "E": "Kepala BKN"
+    },
+    "jawaban": "D",
+    "pembahasan": "Perumus kebijakan nasional pelayanan publik adalah menteri bidang pendayagunaan aparatur negara.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-006",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Organisasi Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini yang termasuk penyelenggara pelayanan publik menurut rangkuman adalah ...",
+    "opsi": {
+      "A": "Ombudsman dan BPK",
+      "B": "partai politik dan ormas",
+      "C": "organisasi internasional",
+      "D": "pimpinan kementerian/lembaga, gubernur, bupati, dan wali kota",
+      "E": "DPR dan DPD"
+    },
+    "jawaban": "D",
+    "pembahasan": "Penyelenggara: institusi pemerintah, pimpinan lembaga/kementerian, gubernur, bupati, wali kota. Ombudsman adalah pengawas eksternal.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-007",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut rangkuman, jumlah asas pelayanan publik adalah ...",
+    "opsi": {
+      "A": "15",
+      "B": "10",
+      "C": "12",
+      "D": "13",
+      "E": "8"
+    },
+    "jawaban": "C",
+    "pembahasan": "Rangkuman mencantumkan 12 asas pelayanan publik.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-008",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini yang BUKAN asas pelayanan publik menurut rangkuman adalah ...",
+    "opsi": {
+      "A": "partisipatif",
+      "B": "senioritas",
+      "C": "ketepatan waktu",
+      "D": "keterbukaan",
+      "E": "kepastian hukum"
+    },
+    "jawaban": "B",
+    "pembahasan": "Asas: kepentingan umum; kepastian hukum; kesamaan hak; keseimbangan hak dan kewajiban; keprofesionalan; partisipatif; persamaan perlakuan/tidak diskriminatif; keterbukaan; akuntabilitas; fasilitas dan perlakuan khusus bagi kelompok rentan; ketepatan waktu; kecepatan, kemudahan, keterjangkauan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-009",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Lapas menyediakan jalur kunjungan khusus dan kursi roda bagi pengunjung lanjut usia dan penyandang disabilitas. Asas pelayanan publik yang diterapkan adalah ...",
+    "opsi": {
+      "A": "akuntabilitas",
+      "B": "kepentingan umum",
+      "C": "kesamaan hak",
+      "D": "keprofesionalan",
+      "E": "fasilitas dan perlakuan khusus bagi kelompok rentan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Asas fasilitas dan perlakuan khusus bagi kelompok rentan memberi kemudahan bagi lansia, penyandang disabilitas, dan kelompok rentan lain.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-010",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Petugas layanan memproses permohonan tanpa membedakan suku, agama, atau status sosial pemohon. Asas yang diterapkan adalah ...",
+    "opsi": {
+      "A": "persamaan perlakuan/tidak diskriminatif",
+      "B": "ketepatan waktu",
+      "C": "keterbukaan",
+      "D": "partisipatif",
+      "E": "keseimbangan hak dan kewajiban"
+    },
+    "jawaban": "A",
+    "pembahasan": "Asas persamaan perlakuan/tidak diskriminatif mewajibkan perlakuan sama bagi setiap penerima layanan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-011",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Kantor imigrasi memasang informasi persyaratan, biaya, dan waktu penyelesaian paspor di papan pengumuman dan situs web. Asas yang paling tercermin adalah ...",
+    "opsi": {
+      "A": "keterbukaan",
+      "B": "kepastian hukum",
+      "C": "keprofesionalan",
+      "D": "kecepatan",
+      "E": "partisipatif"
+    },
+    "jawaban": "A",
+    "pembahasan": "Keterbukaan berarti penerima layanan dapat dengan mudah mengakses informasi tentang pelayanan yang diinginkan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-012",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Unit layanan melibatkan masyarakat dan pengguna layanan dalam penyusunan standar pelayanan. Asas yang diterapkan adalah ...",
+    "opsi": {
+      "A": "kesamaan hak",
+      "B": "akuntabilitas",
+      "C": "ketepatan waktu",
+      "D": "kepentingan umum",
+      "E": "partisipatif"
+    },
+    "jawaban": "E",
+    "pembahasan": "Asas partisipatif menekankan peran serta masyarakat dalam penyelenggaraan pelayanan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-013",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Layanan diselesaikan sesuai jangka waktu yang dijanjikan dalam standar pelayanan. Asas yang diterapkan adalah ...",
+    "opsi": {
+      "A": "keprofesionalan",
+      "B": "ketepatan waktu",
+      "C": "kepastian hukum",
+      "D": "partisipatif",
+      "E": "keterbukaan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Asas ketepatan waktu mewajibkan pelayanan diselesaikan sesuai waktu yang ditetapkan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-014",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Petugas yang memberikan layanan memiliki kompetensi sesuai bidang tugasnya. Asas yang tercermin adalah ...",
+    "opsi": {
+      "A": "kepentingan umum",
+      "B": "keterbukaan",
+      "C": "partisipatif",
+      "D": "keprofesionalan",
+      "E": "kesamaan hak"
+    },
+    "jawaban": "D",
+    "pembahasan": "Asas keprofesionalan menuntut pelaksana pelayanan berkompetensi sesuai bidang tugasnya.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-015",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Pemohon layanan wajib memenuhi persyaratan, sementara penyelenggara wajib memberikan layanan sesuai standar. Asas yang tercermin adalah ...",
+    "opsi": {
+      "A": "kecepatan, kemudahan, dan keterjangkauan",
+      "B": "ketepatan waktu",
+      "C": "keseimbangan hak dan kewajiban",
+      "D": "kepentingan umum",
+      "E": "persamaan perlakuan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Asas keseimbangan hak dan kewajiban: hak dan kewajiban penyelenggara maupun penerima layanan harus dipenuhi secara seimbang.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-016",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Proses pelayanan dapat dipertanggungjawabkan sesuai ketentuan peraturan perundang-undangan. Asas yang dimaksud adalah ...",
+    "opsi": {
+      "A": "keterbukaan",
+      "B": "partisipatif",
+      "C": "akuntabilitas",
+      "D": "ketepatan waktu",
+      "E": "kesamaan hak"
+    },
+    "jawaban": "C",
+    "pembahasan": "Asas akuntabilitas menuntut proses penyelenggaraan pelayanan dapat dipertanggungjawabkan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-017",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sedang",
+    "pertanyaan": "Pelayanan diberikan dengan prosedur sederhana, cepat, dan biaya yang terjangkau. Asas yang tercermin adalah ...",
+    "opsi": {
+      "A": "kepentingan umum",
+      "B": "kecepatan, kemudahan, dan keterjangkauan",
+      "C": "keprofesionalan",
+      "D": "keseimbangan hak dan kewajiban",
+      "E": "kepastian hukum"
+    },
+    "jawaban": "B",
+    "pembahasan": "Asas kecepatan, kemudahan, dan keterjangkauan menekankan pelayanan yang cepat, mudah, dan terjangkau.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-018",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sulit",
+    "pertanyaan": "Petugas menolak mendahulukan permohonan kerabat pejabat karena pelayanan tidak boleh mengutamakan kepentingan pribadi atau golongan. Asas yang paling tepat adalah ...",
+    "opsi": {
+      "A": "kepentingan umum",
+      "B": "keterbukaan",
+      "C": "fasilitas khusus bagi kelompok rentan",
+      "D": "ketepatan waktu",
+      "E": "partisipatif"
+    },
+    "jawaban": "A",
+    "pembahasan": "Asas kepentingan umum: pemberian pelayanan tidak boleh mengutamakan kepentingan pribadi dan/atau golongan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-019",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Asas Pelayanan",
+    "tingkat": "sulit",
+    "pertanyaan": "Setiap pelayanan harus memiliki dasar peraturan yang jelas sehingga hak dan kewajiban terjamin. Asas yang dimaksud adalah ...",
+    "opsi": {
+      "A": "kesamaan hak",
+      "B": "partisipatif",
+      "C": "keterbukaan",
+      "D": "kepastian hukum",
+      "E": "akuntabilitas"
+    },
+    "jawaban": "D",
+    "pembahasan": "Asas kepastian hukum menjamin terwujudnya hak dan kewajiban dalam penyelenggaraan pelayanan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-020",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Pelayanan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Strategi Arah Kebijakan 2 Renstra Kemenimipas meliputi hal berikut, KECUALI ...",
+    "opsi": {
+      "A": "meningkatkan integrasi data dan informasi serta pengembangan sistem dan teknologi",
+      "B": "meningkatkan aksesibilitas dan kualitas layanan",
+      "C": "mengembangkan produk keimigrasian yang mendukung kesejahteraan",
+      "D": "meningkatkan kerja sama antarinstitusi di dalam dan luar negeri",
+      "E": "penghapusan seluruh layanan tatap muka"
+    },
+    "jawaban": "E",
+    "pembahasan": "Empat strategi AK2: kerja sama antarinstitusi, integrasi data dan teknologi, aksesibilitas dan kualitas layanan, serta produk keimigrasian.",
+    "sumber": "Renstra Kemenimipas 2025–2029 / Permen Imipas 11/2025 (sumber/Permen_Imipas_11_2025_Renstra_2025-2029.md) Tabel 3.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-021",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Pelayanan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut UU 20/2023, nilai dasar \"berorientasi pelayanan\" dijabarkan antara lain dengan ...",
+    "opsi": {
+      "A": "bekerja hanya sesuai jam kerja",
+      "B": "menghindari perubahan prosedur",
+      "C": "memahami dan memenuhi kebutuhan masyarakat serta ramah, cekatan, solutif, dan dapat diandalkan",
+      "D": "menolak keluhan yang tidak tertulis",
+      "E": "mengutamakan kepentingan atasan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 4 UU 20/2023: berorientasi pelayanan berarti komitmen memberi pelayanan prima, memahami kebutuhan masyarakat, ramah, cekatan, solutif, dapat diandalkan, dan melakukan perbaikan tiada henti.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-022",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Pelayanan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Target Indeks Kepatuhan terhadap Standar Pelayanan Publik pada kerangka kinerja Setjen Kemenimipas naik dari ... (2025) menjadi ... (2029).",
+    "opsi": {
+      "A": "80,00; 83,00",
+      "B": "3,00; 3,30",
+      "C": "88,40; 89,60",
+      "D": "86,00; 87,50",
+      "E": "90,38; 93,38"
+    },
+    "jawaban": "A",
+    "pembahasan": "IKK 9.2 Setjen: Indeks Kepatuhan terhadap Standar Pelayanan Publik 80,00 (2025) hingga 83,00 (2029); Indeks Pelayanan Publik 3,00–3,30.",
+    "sumber": "Renstra Kemenimipas 2025–2029 / Permen Imipas 11/2025 (sumber/Permen_Imipas_11_2025_Renstra_2025-2029.md) Tabel 4.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-023",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Pelayanan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Contoh layanan berbasis teknologi informasi di bidang pemasyarakatan yang disebut Renstra adalah ...",
+    "opsi": {
+      "A": "Visa on Arrival dan one day service",
+      "B": "Eazy Passport dan Golden Visa",
+      "C": "autogate di bandara",
+      "D": "kunjungan online bagi keluarga warga binaan dan layanan informasi mandiri di Lapas/Rutan",
+      "E": "e-Visa untuk investor"
+    },
+    "jawaban": "D",
+    "pembahasan": "Renstra menyebut kunjungan online, SDP, layanan informasi mandiri, dan aplikasi MANTRA. Eazy Passport, VoA, dan Golden Visa adalah layanan keimigrasian.",
+    "sumber": "Renstra Kemenimipas 2025–2029 / Permen Imipas 11/2025 (sumber/Permen_Imipas_11_2025_Renstra_2025-2029.md) Bab I",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-024",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Pelayanan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Upaya peningkatan layanan paspor yang disebut Renstra untuk mendorong PNBP dan kepuasan masyarakat adalah ...",
+    "opsi": {
+      "A": "penghapusan biaya paspor",
+      "B": "pembatasan kuota paspor per tahun",
+      "C": "pemberian remisi bagi pemohon paspor",
+      "D": "pengalihan layanan paspor ke pemerintah daerah",
+      "E": "peningkatan layanan Eazy Passport dan percepatan pembuatan paspor (one day service)"
+    },
+    "jawaban": "E",
+    "pembahasan": "Renstra §2.4.1 menyebut Eazy Passport dan one day service sebagai program layanan keimigrasian.",
+    "sumber": "Renstra Kemenimipas 2025–2029 / Permen Imipas 11/2025 (sumber/Permen_Imipas_11_2025_Renstra_2025-2029.md) §2.4.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-025",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Pelayanan di Kemenimipas",
+    "tingkat": "sulit",
+    "pertanyaan": "Di tingkat Setjen Kemenimipas, penyusunan, penataan, bimbingan teknis, dan evaluasi pelayanan publik menjadi fungsi ...",
+    "opsi": {
+      "A": "Bagian Tata Usaha Pimpinan dan Protokol",
+      "B": "Bagian Organisasi dan Ketatalaksanaan",
+      "C": "Bagian Kerja Sama",
+      "D": "Pusat Data, Informasi, dan Komunikasi Publik",
+      "E": "Bagian Hukum"
+    },
+    "jawaban": "B",
+    "pembahasan": "Bagian Organisasi dan Ketatalaksanaan (Biro SDM Aparatur, Organisasi, dan Ketatalaksanaan) menangani ketatalaksanaan, kelembagaan, dan pelayanan publik.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §5.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-026",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Pelayanan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Di lingkungan Ditjen Pemasyarakatan, pengelolaan layanan publik termasuk cakupan ...",
+    "opsi": {
+      "A": "Direktorat Pembimbingan Kemasyarakatan",
+      "B": "Direktorat Teknologi Informasi dan Kerja Sama Pemasyarakatan",
+      "C": "Direktorat Pengamanan dan Intelijen",
+      "D": "Direktorat Kepatuhan Internal",
+      "E": "Direktorat Perawatan Kesehatan dan Rehabilitasi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Fungsi Dit. TI dan Kerja Sama Pemasyarakatan (Pasal 336) mencakup kerja sama dan pengelolaan layanan publik.",
+    "sumber": "Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §8.10",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pelayanan-publik-027",
+    "kategori": "TKT",
+    "topik": "Pelayanan Publik",
+    "subtopik": "Pelayanan di Kemenimipas",
+    "tingkat": "sedang",
+    "pertanyaan": "Evaluasi pelaksanaan pelayanan publik dan WBK/WBBM di wilayah kerjanya merupakan fungsi ...",
+    "opsi": {
+      "A": "Bagian Rumah Tangga",
+      "B": "Direktorat Kepatuhan Internal",
+      "C": "Pusat Strategi Kebijakan",
+      "D": "Inspektorat Wilayah",
+      "E": "Biro Umum"
+    },
+    "jawaban": "D",
+    "pembahasan": "Fungsi Itwil mencakup evaluasi SPIP, pelayanan publik, WBK/WBBM, dan akuntabilitas kinerja.",
+    "sumber": "Permen Imipas 1/2024 (sumber/Permen_Imipas_1_2024_Ortaker.md) Pasal 93; Rangkuman Ortala 40 hlm (sumber/Rangkuman_Ortala_Kemenimipas_40hlm.md) §6.2",
+    "di_luar_materi": false
+  }
+]

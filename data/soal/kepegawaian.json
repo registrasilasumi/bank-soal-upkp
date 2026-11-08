@@ -1,0 +1,1218 @@
+[
+  {
+    "id": "kepegawaian-001",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Konsep ASN",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut UU 20/2023, Aparatur Sipil Negara (ASN) adalah ...",
+    "opsi": {
+      "A": "pegawai tetap pada BUMN dan BUMD",
+      "B": "profesi bagi PNS dan PPPK yang bekerja pada instansi pemerintah",
+      "C": "pegawai pemerintah, TNI, dan Polri",
+      "D": "seluruh pegawai yang menerima gaji dari APBN",
+      "E": "pegawai negeri sipil yang menduduki jabatan struktural"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 1 angka 1 UU 20/2023: ASN adalah profesi bagi PNS dan PPPK yang bekerja pada instansi pemerintah.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-002",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Konsep ASN",
+    "tingkat": "mudah",
+    "pertanyaan": "Pegawai ASN terdiri atas ...",
+    "opsi": {
+      "A": "PNS dan PPPK",
+      "B": "PNS dan pegawai honorer",
+      "C": "PNS pusat dan PNS daerah",
+      "D": "PNS, PPPK, dan tenaga alih daya",
+      "E": "PNS, TNI, dan Polri"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 5 UU 20/2023: Pegawai ASN terdiri atas PNS dan PPPK.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-003",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Konsep ASN",
+    "tingkat": "mudah",
+    "pertanyaan": "Perbedaan utama PNS dan PPPK adalah ...",
+    "opsi": {
+      "A": "PNS tunduk pada UU ASN, sedangkan PPPK tunduk pada UU Ketenagakerjaan",
+      "B": "PNS bekerja di pusat, sedangkan PPPK hanya di daerah",
+      "C": "PPPK diangkat Presiden, sedangkan PNS diangkat PPK",
+      "D": "PNS diangkat secara tetap, sedangkan PPPK diangkat berdasarkan perjanjian kerja untuk jangka waktu tertentu",
+      "E": "PNS memiliki NIP, sedangkan PPPK tidak"
+    },
+    "jawaban": "D",
+    "pembahasan": "PNS diangkat sebagai Pegawai ASN secara tetap oleh PPK; PPPK diangkat berdasarkan perjanjian kerja untuk jangka waktu tertentu. Keduanya memiliki NIP.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 1, 7; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-004",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Konsep ASN",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut UU 20/2023, setiap Pegawai ASN memiliki ...",
+    "opsi": {
+      "A": "nomor registrasi Korpri wajib",
+      "B": "nomor jabatan fungsional",
+      "C": "kartu tanda anggota partai",
+      "D": "surat izin praktik",
+      "E": "nomor induk pegawai"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 7 ayat (1): Pegawai ASN memiliki nomor induk pegawai.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-005",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Konsep ASN",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut UU 20/2023, Pegawai ASN berfungsi sebagai ...",
+    "opsi": {
+      "A": "pembuat kebijakan, pelaksana anggaran, dan penegak hukum",
+      "B": "pelayan publik, pengawas politik, dan pengelola aset",
+      "C": "pelaksana kebijakan publik, pelayan publik, serta perekat dan pemersatu bangsa",
+      "D": "pelaksana teknis, pengelola keuangan, dan penyuluh masyarakat",
+      "E": "perencana, pelaksana, dan pengawas pembangunan daerah"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 10: Pegawai ASN berfungsi sebagai pelaksana kebijakan publik, pelayan publik, serta perekat dan pemersatu bangsa.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 10",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-006",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Konsep ASN",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut Pasal 9 UU 20/2023, Pegawai ASN harus bebas dari ...",
+    "opsi": {
+      "A": "pengawasan oleh atasan langsung",
+      "B": "kewajiban mengikuti pendidikan dan pelatihan",
+      "C": "kewajiban melaporkan harta kekayaan",
+      "D": "penilaian kinerja tahunan",
+      "E": "pengaruh dan intervensi semua golongan dan partai politik"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 9: Pegawai ASN melaksanakan kebijakan pimpinan instansi dan harus bebas dari pengaruh dan intervensi golongan dan partai politik.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-007",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Nilai Dasar",
+    "tingkat": "mudah",
+    "pertanyaan": "Nilai dasar ASN yang disingkat BerAKHLAK terdiri atas ...",
+    "opsi": {
+      "A": "Berorientasi pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif",
+      "B": "Berorientasi hasil, Akuntabel, Kompeten, Humanis, Loyal, Aktif, Kreatif",
+      "C": "Bertakwa, Adil, Kompeten, Hormat, Loyal, Amanah, Kolaboratif",
+      "D": "Berorientasi pelayanan, Akuntabel, Kreatif, Harmonis, Lugas, Adaptif, Komunikatif",
+      "E": "Berintegritas, Amanah, Kreatif, Humanis, Loyal, Aktif, Kooperatif"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 3 ayat (2): nilai dasar ASN adalah berorientasi pelayanan, akuntabel, kompeten, harmonis, loyal, adaptif, dan kolaboratif.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 3; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-008",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Nilai Dasar",
+    "tingkat": "sedang",
+    "pertanyaan": "Seorang petugas layanan menghargai setiap pengunjung tanpa membedakan latar belakang dan membangun lingkungan kerja yang kondusif. Nilai BerAKHLAK yang tercermin adalah ...",
+    "opsi": {
+      "A": "Loyal",
+      "B": "Harmonis",
+      "C": "Kolaboratif",
+      "D": "Adaptif",
+      "E": "Berorientasi pelayanan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 4: harmonis berarti saling peduli dan menghargai perbedaan, antara lain menghargai setiap orang tanpa membedakan latar belakang dan membangun lingkungan kerja yang kondusif.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-009",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Nilai Dasar",
+    "tingkat": "sedang",
+    "pertanyaan": "Menjaga rahasia jabatan dan negara serta menjaga nama baik instansi merupakan penjabaran nilai dasar ...",
+    "opsi": {
+      "A": "Kolaboratif",
+      "B": "Harmonis",
+      "C": "Loyal",
+      "D": "Kompeten",
+      "E": "Akuntabel"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 4: loyal berarti berdedikasi dan mengutamakan kepentingan bangsa dan negara, termasuk menjaga nama baik ASN dan instansi serta menjaga rahasia jabatan dan negara.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-010",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Nilai Dasar",
+    "tingkat": "sedang",
+    "pertanyaan": "Seorang pegawai cepat menyesuaikan diri saat aplikasi layanan diganti dan terus berinovasi mengembangkan kreativitas. Nilai BerAKHLAK yang tercermin adalah ...",
+    "opsi": {
+      "A": "Akuntabel",
+      "B": "Harmonis",
+      "C": "Kolaboratif",
+      "D": "Adaptif",
+      "E": "Kompeten"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 4: adaptif berarti terus berinovasi dan antusias menggerakkan serta menghadapi perubahan, termasuk cepat menyesuaikan diri dan bertindak proaktif.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-011",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Nilai Dasar",
+    "tingkat": "sedang",
+    "pertanyaan": "Menggunakan barang milik negara secara bertanggung jawab, efektif, dan efisien serta tidak menyalahgunakan kewenangan jabatan merupakan penjabaran nilai ...",
+    "opsi": {
+      "A": "Loyal",
+      "B": "Berorientasi pelayanan",
+      "C": "Akuntabel",
+      "D": "Kompeten",
+      "E": "Harmonis"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 4: akuntabel berarti bertanggung jawab atas kepercayaan yang diberikan, termasuk menggunakan BMN secara bertanggung jawab dan tidak menyalahgunakan kewenangan.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-012",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Nilai Dasar",
+    "tingkat": "sedang",
+    "pertanyaan": "Memberi kesempatan kepada berbagai pihak untuk berkontribusi dan terbuka bekerja sama untuk menghasilkan nilai tambah merupakan penjabaran nilai ...",
+    "opsi": {
+      "A": "Loyal",
+      "B": "Kompeten",
+      "C": "Harmonis",
+      "D": "Kolaboratif",
+      "E": "Adaptif"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 4: kolaboratif berarti membangun kerja sama yang sinergis.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-013",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Jabatan ASN",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut UU 20/2023, Jabatan ASN terdiri atas ...",
+    "opsi": {
+      "A": "Jabatan Pimpinan Tinggi, Administrasi, dan Fungsional",
+      "B": "Jabatan Karier dan Jabatan Politik",
+      "C": "Jabatan Struktural dan Jabatan Fungsional",
+      "D": "Jabatan Pusat dan Jabatan Daerah",
+      "E": "Jabatan Manajerial dan Jabatan Nonmanajerial"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 13 UU 20/2023: Jabatan ASN terdiri atas Jabatan Manajerial dan Nonmanajerial. Pembagian JPT/Administrasi/Fungsional adalah pola UU 5/2014.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 13",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-014",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Jabatan ASN",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini yang termasuk Jabatan Nonmanajerial menurut UU 20/2023 adalah ...",
+    "opsi": {
+      "A": "jabatan fungsional dan jabatan pelaksana",
+      "B": "jabatan administrator dan jabatan pengawas",
+      "C": "jabatan pimpinan tinggi pratama dan madya",
+      "D": "jabatan pimpinan tinggi utama dan jabatan fungsional",
+      "E": "jabatan pengawas dan jabatan pelaksana"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 18: Jabatan Nonmanajerial terdiri atas jabatan fungsional dan jabatan pelaksana; Pasal 14: Manajerial terdiri atas JPT utama, madya, pratama, administrator, dan pengawas.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 14, 18",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-015",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Jabatan ASN",
+    "tingkat": "sedang",
+    "pertanyaan": "Jabatan yang memiliki fungsi memimpin unit organisasi dan memiliki pegawai yang berkedudukan langsung di bawahnya disebut ...",
+    "opsi": {
+      "A": "Jabatan Ahli",
+      "B": "Jabatan Manajerial",
+      "C": "Jabatan Nonmanajerial",
+      "D": "Jabatan Pelaksana",
+      "E": "Jabatan Fungsional"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 1 angka 7: Jabatan Manajerial memimpin unit organisasi dan memiliki pegawai di bawahnya; Jabatan Nonmanajerial mengutamakan kompetensi teknis tanpa tanggung jawab langsung mengelola pegawai.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-016",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Jabatan ASN",
+    "tingkat": "sulit",
+    "pertanyaan": "Menurut Pasal 19 UU 20/2023, jabatan ASN tertentu dapat diisi oleh prajurit TNI dan anggota Polri, dan pengisiannya dilaksanakan pada ...",
+    "opsi": {
+      "A": "Badan Usaha Milik Negara",
+      "B": "Instansi Pusat",
+      "C": "Kantor Wilayah saja",
+      "D": "Instansi Daerah",
+      "E": "seluruh instansi pemerintah"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 19 ayat (3): pengisian jabatan ASN tertentu dari TNI/Polri dilaksanakan pada Instansi Pusat.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 19",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-017",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Hak dan Kewajiban",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini yang BUKAN komponen penghargaan dan pengakuan Pegawai ASN menurut Pasal 21 UU 20/2023 adalah ...",
+    "opsi": {
+      "A": "hak dipilih menjadi anggota partai politik",
+      "B": "bantuan hukum",
+      "C": "pengembangan diri",
+      "D": "penghasilan",
+      "E": "jaminan sosial"
+    },
+    "jawaban": "A",
+    "pembahasan": "Komponen: penghasilan, penghargaan yang bersifat motivasi, tunjangan dan fasilitas, jaminan sosial, lingkungan kerja, pengembangan diri, dan bantuan hukum.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 21",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-018",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Hak dan Kewajiban",
+    "tingkat": "sedang",
+    "pertanyaan": "Jaminan sosial bagi Pegawai ASN menurut UU 20/2023 meliputi hal berikut, KECUALI ...",
+    "opsi": {
+      "A": "jaminan kematian",
+      "B": "jaminan pensiun dan jaminan hari tua",
+      "C": "jaminan kecelakaan kerja",
+      "D": "jaminan kesehatan",
+      "E": "jaminan kehilangan pekerjaan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 21 ayat (6): jaminan sosial berupa jaminan kesehatan, kecelakaan kerja, kematian, pensiun, dan hari tua.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 21",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-019",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Hak dan Kewajiban",
+    "tingkat": "sedang",
+    "pertanyaan": "Bantuan hukum bagi Pegawai ASN menurut UU 20/2023 dapat berupa ...",
+    "opsi": {
+      "A": "penggantian kerugian negara",
+      "B": "pembayaran denda pidana",
+      "C": "litigasi dan/atau nonlitigasi",
+      "D": "pembebasan dari proses hukum",
+      "E": "penangguhan penahanan otomatis"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 21 ayat (9): bantuan hukum dapat berupa litigasi dan/atau nonlitigasi.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 21",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-020",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Hak dan Kewajiban",
+    "tingkat": "sedang",
+    "pertanyaan": "Kewajiban Pegawai ASN menurut Pasal 24 UU 20/2023 antara lain ...",
+    "opsi": {
+      "A": "memiliki usaha sampingan",
+      "B": "menjadi anggota organisasi profesi tertentu",
+      "C": "tinggal di rumah dinas",
+      "D": "menjaga netralitas dan bersedia ditempatkan di seluruh wilayah NKRI serta perwakilan di luar negeri",
+      "E": "mengikuti pemilihan kepala daerah"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 24 ayat (1): setia pada Pancasila/UUD/NKRI/pemerintah yang sah, menaati peraturan, melaksanakan nilai dasar dan kode etik, menjaga netralitas, serta bersedia ditempatkan di seluruh wilayah NKRI dan perwakilan.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 24",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-021",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Manajemen ASN",
+    "tingkat": "sedang",
+    "pertanyaan": "Ruang lingkup Manajemen ASN menurut Pasal 31 UU 20/2023 meliputi hal berikut, KECUALI ...",
+    "opsi": {
+      "A": "pengembangan talenta dan karier",
+      "B": "pemberian penghargaan dan pengakuan",
+      "C": "perencanaan kebutuhan",
+      "D": "penetapan gaji pejabat negara",
+      "E": "penguatan budaya kerja dan citra institusi"
+    },
+    "jawaban": "D",
+    "pembahasan": "Delapan ruang lingkup: perencanaan kebutuhan, pengadaan, penguatan budaya kerja dan citra institusi, pengelolaan kinerja, pengembangan talenta dan karier, pengembangan kompetensi, penghargaan dan pengakuan, serta pemberhentian.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 31; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-022",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Manajemen ASN",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut UU 20/2023, Manajemen ASN diselenggarakan berdasarkan ...",
+    "opsi": {
+      "A": "Sistem Merit",
+      "B": "sistem rekomendasi politik",
+      "C": "sistem kekerabatan",
+      "D": "sistem kuota daerah",
+      "E": "sistem senioritas"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 27 ayat (2): Manajemen ASN diselenggarakan berdasarkan Sistem Merit, yaitu sesuai prinsip meritokrasi.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 1, 27",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-023",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Manajemen ASN",
+    "tingkat": "sedang",
+    "pertanyaan": "Pejabat yang mempunyai kewenangan menetapkan pengangkatan, pemindahan, dan pemberhentian Pegawai ASN serta pembinaan Manajemen ASN di instansi pemerintah disebut ...",
+    "opsi": {
+      "A": "Atasan Langsung",
+      "B": "Pejabat Pembina Kepegawaian (PPK)",
+      "C": "Pejabat Penilai Kinerja",
+      "D": "Pejabat Pembuat Komitmen",
+      "E": "Pejabat yang Berwenang (PyB)"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 1 angka 10: PPK berwenang menetapkan; PyB berwenang melaksanakan proses pengangkatan, pemindahan, dan pemberhentian.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-024",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Manajemen ASN",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut UU 20/2023, yang termasuk Instansi Pusat adalah ...",
+    "opsi": {
+      "A": "kementerian dan BUMN",
+      "B": "kementerian, TNI, dan Polri",
+      "C": "lembaga negara dan perangkat daerah kabupaten/kota",
+      "D": "kementerian dan perangkat daerah provinsi",
+      "E": "kementerian, lembaga pemerintah nonkementerian, kesekretariatan lembaga negara, dan kesekretariatan lembaga nonstruktural"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 1 angka 13 mendefinisikan Instansi Pusat; Instansi Daerah adalah perangkat daerah provinsi dan kabupaten/kota.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-025",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Manajemen ASN",
+    "tingkat": "sulit",
+    "pertanyaan": "Menurut Pasal 26 UU 20/2023, pemegang kekuasaan tertinggi dalam kebijakan, pembinaan profesi, dan Manajemen ASN adalah ...",
+    "opsi": {
+      "A": "Pejabat Pembina Kepegawaian",
+      "B": "Kepala BKN",
+      "C": "Presiden",
+      "D": "Menteri PANRB",
+      "E": "Kepala LAN"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 26 ayat (1): Presiden selaku pemegang kekuasaan pemerintahan merupakan pemegang kekuasaan tertinggi dalam kebijakan, pembinaan profesi, dan Manajemen ASN.",
+    "sumber": "UU 20/2023 tentang ASN (sumber/UU_20_2023_ASN.md) Pasal 26",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-026",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut PP 94/2021, Disiplin PNS adalah ...",
+    "opsi": {
+      "A": "kewajiban PNS mengikuti apel pagi",
+      "B": "kesanggupan PNS untuk menaati kewajiban dan menghindari larangan dalam peraturan perundang-undangan",
+      "C": "kepatuhan PNS terhadap jam kerja saja",
+      "D": "hukuman yang dijatuhkan atasan kepada PNS",
+      "E": "penilaian kinerja PNS setiap tahun"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 1 angka 4 PP 94/2021 mendefinisikan disiplin PNS sebagai kesanggupan menaati kewajiban dan menghindari larangan.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-027",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "mudah",
+    "pertanyaan": "Tingkat hukuman disiplin menurut PP 94/2021 terdiri atas ...",
+    "opsi": {
+      "A": "teguran, peringatan, dan pemberhentian",
+      "B": "tingkat I, tingkat II, dan tingkat III",
+      "C": "lisan, tertulis, dan pemecatan",
+      "D": "administratif, pidana, dan perdata",
+      "E": "ringan, sedang, dan berat"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 8 ayat (1): tingkat hukuman disiplin terdiri atas ringan, sedang, dan berat.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 8; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-028",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "mudah",
+    "pertanyaan": "Jenis hukuman disiplin ringan menurut PP 94/2021 adalah ...",
+    "opsi": {
+      "A": "penundaan kenaikan gaji berkala selama 1 tahun",
+      "B": "pemotongan tunjangan kinerja 25% selama 6 bulan",
+      "C": "teguran lisan dan penundaan kenaikan pangkat",
+      "D": "teguran lisan, teguran tertulis, dan pernyataan tidak puas secara tertulis",
+      "E": "pembebasan dari jabatan menjadi pelaksana"
+    },
+    "jawaban": "D",
+    "pembahasan": "Hukuman disiplin ringan: teguran lisan, teguran tertulis, dan pernyataan tidak puas secara tertulis.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-029",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "sedang",
+    "pertanyaan": "Hukuman disiplin sedang menurut PP 94/2021 berupa ...",
+    "opsi": {
+      "A": "pemotongan tunjangan kinerja 25% selama 6, 9, atau 12 bulan",
+      "B": "penundaan kenaikan pangkat selama 1 tahun",
+      "C": "penundaan kenaikan gaji berkala selama 1 tahun",
+      "D": "pemindahan dalam rangka penurunan jabatan",
+      "E": "teguran tertulis dan pernyataan tidak puas"
+    },
+    "jawaban": "A",
+    "pembahasan": "PP 94/2021 mengganti hukuman sedang PP 53/2010 (penundaan KGB/pangkat) menjadi pemotongan tukin 25% selama 6, 9, atau 12 bulan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-030",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "sedang",
+    "pertanyaan": "Seorang PNS tidak masuk kerja tanpa alasan yang sah secara kumulatif 3 hari kerja dalam setahun. Menurut PP 94/2021, hukuman disiplin yang dijatuhkan adalah ...",
+    "opsi": {
+      "A": "pernyataan tidak puas secara tertulis",
+      "B": "tidak dijatuhi hukuman",
+      "C": "teguran lisan",
+      "D": "teguran tertulis",
+      "E": "pemotongan tunjangan kinerja 25% selama 6 bulan"
+    },
+    "jawaban": "C",
+    "pembahasan": "PP 94/2021: 3 hari kerja = teguran lisan; 4–6 hari = teguran tertulis; 7–10 hari = pernyataan tidak puas secara tertulis.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-031",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "sedang",
+    "pertanyaan": "Seorang PNS tidak masuk kerja tanpa alasan yang sah secara kumulatif 5 hari kerja dalam setahun. Hukuman disiplin yang tepat menurut PP 94/2021 adalah ...",
+    "opsi": {
+      "A": "pembebasan dari jabatan",
+      "B": "pernyataan tidak puas secara tertulis",
+      "C": "pemotongan tunjangan kinerja 25% selama 6 bulan",
+      "D": "teguran tertulis",
+      "E": "teguran lisan"
+    },
+    "jawaban": "D",
+    "pembahasan": "Ketidakhadiran 4–6 hari kerja kumulatif dalam setahun dijatuhi teguran tertulis.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-032",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "sedang",
+    "pertanyaan": "PNS yang tidak masuk kerja tanpa alasan yang sah secara kumulatif 7 sampai 10 hari kerja dalam setahun dijatuhi ...",
+    "opsi": {
+      "A": "teguran tertulis",
+      "B": "pernyataan tidak puas secara tertulis",
+      "C": "teguran lisan",
+      "D": "pemotongan tunjangan kinerja 25% selama 9 bulan",
+      "E": "pembebasan dari jabatan menjadi pelaksana"
+    },
+    "jawaban": "B",
+    "pembahasan": "PP 94/2021: 7–10 hari kerja kumulatif dalam setahun = pernyataan tidak puas secara tertulis.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 9",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-033",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "sulit",
+    "pertanyaan": "Seorang PNS tidak masuk kerja tanpa alasan yang sah secara terus-menerus selama 10 hari kerja. Menurut PP 94/2021, ia dijatuhi ...",
+    "opsi": {
+      "A": "pemotongan tunjangan kinerja 25% selama 12 bulan",
+      "B": "teguran tertulis",
+      "C": "pemberhentian dengan hormat tidak atas permintaan sendiri sebagai PNS",
+      "D": "pernyataan tidak puas secara tertulis",
+      "E": "pembebasan dari jabatan menjadi pelaksana selama 12 bulan"
+    },
+    "jawaban": "C",
+    "pembahasan": "PP 94/2021: tidak masuk kerja terus-menerus 10 hari kerja atau kumulatif 28 hari kerja atau lebih dalam setahun dijatuhi PDH tidak atas permintaan sendiri.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 11",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-034",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "sulit",
+    "pertanyaan": "PNS yang tidak masuk kerja tanpa alasan yang sah secara kumulatif 25 sampai 27 hari kerja dalam setahun dijatuhi hukuman ...",
+    "opsi": {
+      "A": "pembebasan dari jabatannya menjadi jabatan pelaksana selama 12 bulan",
+      "B": "pernyataan tidak puas secara tertulis",
+      "C": "pemotongan tunjangan kinerja 25% selama 12 bulan",
+      "D": "pemberhentian dengan hormat tidak atas permintaan sendiri",
+      "E": "teguran tertulis"
+    },
+    "jawaban": "A",
+    "pembahasan": "PP 94/2021: 21–24 hari = penurunan jabatan setingkat lebih rendah 12 bulan; 25–27 hari = pembebasan menjadi jabatan pelaksana 12 bulan; ≥28 hari = PDH tidak atas permintaan sendiri.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 11",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-035",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "sedang",
+    "pertanyaan": "Ketidakhadiran PNS tanpa alasan sah secara kumulatif yang mengakibatkan pemberhentian dengan hormat tidak atas permintaan sendiri menurut PP 94/2021 adalah ...",
+    "opsi": {
+      "A": "15 hari kerja dalam 1 tahun",
+      "B": "21 hari kerja dalam 1 tahun",
+      "C": "10 hari kerja dalam 1 tahun",
+      "D": "46 hari kerja dalam 1 tahun",
+      "E": "28 hari kerja atau lebih dalam 1 tahun"
+    },
+    "jawaban": "E",
+    "pembahasan": "Ketentuan kumulatif 28 hari kerja atau lebih dalam setahun berujung PDH tidak atas permintaan sendiri; 10 hari berlaku untuk ketidakhadiran terus-menerus.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 11",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-036",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "sulit",
+    "pertanyaan": "Dalam PP 94/2021, pelanggaran kewajiban yang berdampak negatif pada unit kerja dijatuhi hukuman disiplin ringan, sedangkan bila berdampak negatif pada instansi yang bersangkutan dijatuhi hukuman disiplin ...",
+    "opsi": {
+      "A": "sedang",
+      "B": "ringan",
+      "C": "tidak dijatuhi hukuman",
+      "D": "administratif",
+      "E": "berat"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 9 mengaitkan hukuman ringan dengan dampak pada unit kerja; Pasal 10 mengaitkan hukuman sedang dengan dampak pada instansi.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 9, 10",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-037",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut PP 94/2021, tim pemeriksa dugaan pelanggaran disiplin terdiri atas ...",
+    "opsi": {
+      "A": "PPK, Inspektur, dan Kepala BKN",
+      "B": "atasan langsung dan dua orang bawahan",
+      "C": "atasan langsung, unsur pengawasan, dan unsur kepegawaian",
+      "D": "atasan langsung, rekan kerja, dan pengacara",
+      "E": "unsur kepolisian, kejaksaan, dan kepegawaian"
+    },
+    "jawaban": "C",
+    "pembahasan": "Tim pemeriksa terdiri atas atasan langsung, unsur pengawasan, dan unsur kepegawaian, dibentuk PPK atau pejabat lain yang ditunjuk.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 29",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-038",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "sulit",
+    "pertanyaan": "Untuk kelancaran pemeriksaan, PNS yang diduga melanggar disiplin dan kemungkinan dijatuhi hukuman berat dapat ...",
+    "opsi": {
+      "A": "dipindahkan ke instansi lain",
+      "B": "langsung diberhentikan sementara sebagai PNS",
+      "C": "ditahan oleh tim pemeriksa",
+      "D": "dikenai pemotongan gaji 50%",
+      "E": "dibebaskan sementara dari tugas jabatannya oleh atasan langsung, dan diangkat pejabat pelaksana harian"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 31 PP 94/2021: PNS dapat dibebaskan sementara dari tugas jabatannya sejak diperiksa sampai keputusan hukdis ditetapkan; selama itu diangkat pejabat pelaksana harian.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 31",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-039",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Disiplin PNS",
+    "tingkat": "sedang",
+    "pertanyaan": "Kewajiban PNS menurut Pasal 4 PP 94/2021 antara lain ...",
+    "opsi": {
+      "A": "menerima hadiah dari pengguna layanan",
+      "B": "melaporkan harta kekayaan dan menolak segala bentuk pemberian yang berkaitan dengan tugas dan fungsi",
+      "C": "mengikuti kegiatan partai politik",
+      "D": "bekerja pada lembaga internasional tanpa izin",
+      "E": "menjadi anggota koperasi pegawai"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 4 antara lain mewajibkan PNS melaporkan harta kekayaan, masuk kerja dan menaati jam kerja, serta menolak pemberian terkait tugas kecuali penghasilan yang sah.",
+    "sumber": "PP 94/2021 tentang Disiplin PNS (sumber/PP_94_2021_Disiplin_PNS.md) Pasal 4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-040",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Cuti",
+    "tingkat": "mudah",
+    "pertanyaan": "Cuti tahunan PNS diberikan selama ...",
+    "opsi": {
+      "A": "3 bulan",
+      "B": "1 bulan",
+      "C": "10 hari kerja",
+      "D": "12 hari kerja",
+      "E": "14 hari kerja"
+    },
+    "jawaban": "D",
+    "pembahasan": "Cuti tahunan diberikan atas permintaan tertulis kepada PPK selama 12 hari.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-041",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Cuti",
+    "tingkat": "sedang",
+    "pertanyaan": "PNS yang telah bekerja paling singkat 5 tahun secara terus-menerus berhak atas cuti besar paling lama ...",
+    "opsi": {
+      "A": "6 bulan",
+      "B": "3 tahun",
+      "C": "3 bulan",
+      "D": "1 tahun",
+      "E": "1 bulan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Cuti besar: 5 tahun bekerja, paling lama 3 bulan. CLTN: 5 tahun bekerja, paling lama 3 tahun.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-042",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Cuti",
+    "tingkat": "sedang",
+    "pertanyaan": "Cuti di luar tanggungan negara (CLTN) dapat diberikan kepada PNS yang telah bekerja paling singkat 5 tahun untuk paling lama ...",
+    "opsi": {
+      "A": "6 bulan",
+      "B": "5 tahun",
+      "C": "1 tahun",
+      "D": "3 bulan",
+      "E": "3 tahun"
+    },
+    "jawaban": "E",
+    "pembahasan": "CLTN paling lama 3 tahun bagi PNS dengan masa kerja paling singkat 5 tahun.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-043",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Cuti",
+    "tingkat": "sedang",
+    "pertanyaan": "Seorang PNS akan melahirkan anak keempat. Jenis cuti yang dapat digunakannya adalah ...",
+    "opsi": {
+      "A": "cuti melahirkan",
+      "B": "cuti bersama",
+      "C": "cuti alasan penting",
+      "D": "cuti besar",
+      "E": "cuti sakit"
+    },
+    "jawaban": "D",
+    "pembahasan": "Cuti melahirkan berlaku untuk anak pertama sampai ketiga; untuk anak keempat dan seterusnya diberikan cuti besar.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-044",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Cuti",
+    "tingkat": "sedang",
+    "pertanyaan": "Cuti sakit dengan surat keterangan dokter diberikan paling lama 1 tahun dan dapat ditambah paling lama 6 bulan apabila ...",
+    "opsi": {
+      "A": "ada surat keterangan dari tim penguji kesehatan",
+      "B": "PNS telah bekerja 5 tahun",
+      "C": "disertai cuti tahunan yang belum diambil",
+      "D": "disetujui atasan langsung",
+      "E": "diajukan oleh keluarga PNS"
+    },
+    "jawaban": "A",
+    "pembahasan": "Cuti sakit: surat dokter, maksimal 1 tahun, dapat ditambah 6 bulan dengan surat keterangan tim penguji kesehatan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-045",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Cuti",
+    "tingkat": "mudah",
+    "pertanyaan": "Cuti karena alasan penting diberikan paling lama ...",
+    "opsi": {
+      "A": "2 minggu",
+      "B": "1 bulan",
+      "C": "12 hari",
+      "D": "6 bulan",
+      "E": "3 bulan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Cuti karena alasan penting paling lama 1 bulan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-046",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Penghargaan dan Kenaikan Pangkat",
+    "tingkat": "sedang",
+    "pertanyaan": "Jenis kenaikan pangkat PNS menurut materi adalah ...",
+    "opsi": {
+      "A": "berkala, reguler, pilihan, dan penyesuaian",
+      "B": "otomatis, pilihan, penghargaan, dan anumerta",
+      "C": "reguler, istimewa, khusus, dan luar biasa",
+      "D": "reguler, pilihan, anumerta, dan pengabdian",
+      "E": "reguler, pilihan, struktural, dan fungsional"
+    },
+    "jawaban": "D",
+    "pembahasan": "Materi menyebut empat jenis kenaikan pangkat: reguler, pilihan, anumerta, dan pengabdian.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-047",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Penghargaan dan Kenaikan Pangkat",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini yang BUKAN bentuk penghargaan bagi PNS menurut materi adalah ...",
+    "opsi": {
+      "A": "kesempatan prioritas pengembangan kompetensi",
+      "B": "kenaikan pangkat istimewa",
+      "C": "tanda kehormatan",
+      "D": "kesempatan menghadiri acara resmi kenegaraan",
+      "E": "pembebasan dari kewajiban masuk kerja"
+    },
+    "jawaban": "E",
+    "pembahasan": "Penghargaan: tanda kehormatan, kenaikan pangkat istimewa, prioritas pengembangan kompetensi, dan kesempatan menghadiri acara resmi/kenegaraan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide K7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-048",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "KORPRI",
+    "tingkat": "sedang",
+    "pertanyaan": "Doktrin Korps Pegawai Republik Indonesia (KORPRI) adalah ...",
+    "opsi": {
+      "A": "Bhinneka Karya Abdi Negara",
+      "B": "Satya Haprabu",
+      "C": "Karya Bakti Abdi Negara",
+      "D": "Bhinneka Tunggal Ika",
+      "E": "Panca Prasetya KORPRI"
+    },
+    "jawaban": "A",
+    "pembahasan": "Doktrin KORPRI adalah Bhinneka Karya Abdi Negara, sedangkan janjinya adalah Panca Prasetya KORPRI.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-049",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "KORPRI",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut rangkuman, pensiunan PNS dapat menjadi anggota KORPRI dengan status ...",
+    "opsi": {
+      "A": "anggota cadangan",
+      "B": "anggota luar biasa",
+      "C": "anggota kehormatan",
+      "D": "anggota biasa",
+      "E": "anggota tetap"
+    },
+    "jawaban": "B",
+    "pembahasan": "Anggota KORPRI: biasa (PNS, pegawai BUMN/BUMD, dll.), kehormatan, dan luar biasa (pensiunan).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-050",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut SE Kepala BKN 10/2024, UPKP adalah ujian bagi PNS yang ...",
+    "opsi": {
+      "A": "akan pindah antarinstansi",
+      "B": "akan naik dari golongan III/d ke IV/a",
+      "C": "telah memperoleh ijazah lebih tinggi agar pangkat dan golongannya disesuaikan dengan ijazah terakhir",
+      "D": "akan diangkat dalam jabatan pimpinan tinggi",
+      "E": "akan naik dari golongan II/d ke III/a"
+    },
+    "jawaban": "C",
+    "pembahasan": "UPKP untuk PNS yang memperoleh ijazah lebih tinggi; Ujian Dinas Tk. I untuk II/d ke III/a, Tk. II untuk III/d ke IV/a.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.a; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §A.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-051",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "sedang",
+    "pertanyaan": "Ujian Dinas Tingkat I diperuntukkan bagi PNS berpangkat ...",
+    "opsi": {
+      "A": "Pengatur (II/c) yang akan naik ke Pengatur Tingkat I (II/d)",
+      "B": "Penata Muda (III/a) yang akan naik ke Penata Muda Tingkat I (III/b)",
+      "C": "Pembina (IV/a) yang akan naik ke Pembina Tingkat I (IV/b)",
+      "D": "Pengatur Tingkat I (II/d) yang akan naik ke Penata Muda (III/a)",
+      "E": "Penata Tingkat I (III/d) yang akan naik ke Pembina (IV/a)"
+    },
+    "jawaban": "D",
+    "pembahasan": "SE BKN 10/2024: Ujian Dinas Tk. I bagi Pengatur Tk. I (II/d) yang memenuhi syarat naik ke Penata Muda (III/a).",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.a",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-052",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "mudah",
+    "pertanyaan": "Jenis tes dalam UPKP menurut SE Kepala BKN 10/2024 adalah ...",
+    "opsi": {
+      "A": "TWK, TKT, TSI, dan TKP",
+      "B": "TWK, TPU, TPM, dan TSI",
+      "C": "TWK, TIU, dan TKP",
+      "D": "TKD, TKB, dan SKB",
+      "E": "TWK, TPU, dan TSI"
+    },
+    "jawaban": "A",
+    "pembahasan": "UPKP: TWK, TKT, TSI, dan TKP. Ujian Dinas Tk. I: TWK, TPU, TSI; Tk. II: TWK, TPU, TPM, TSI.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.b–c",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-053",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "mudah",
+    "pertanyaan": "Dalam ujian metode CAT BKN, satu jawaban benar bernilai ... dan jawaban salah atau kosong bernilai 0.",
+    "opsi": {
+      "A": "10",
+      "B": "1",
+      "C": "5",
+      "D": "4",
+      "E": "2"
+    },
+    "jawaban": "C",
+    "pembahasan": "SE BKN 10/2024 angka 5.d: jawaban benar bernilai 5, salah atau tidak menjawab bernilai 0.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.d",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-054",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "sedang",
+    "pertanyaan": "Seorang peserta UPKP menjawab benar 72 dari 100 soal. Nilai akhir CAT-nya adalah ...",
+    "opsi": {
+      "A": "72",
+      "B": "350",
+      "C": "288",
+      "D": "500",
+      "E": "360"
+    },
+    "jawaban": "E",
+    "pembahasan": "Nilai = jumlah benar × 5 = 72 × 5 = 360 (dari maksimal 500).",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.d",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-055",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "mudah",
+    "pertanyaan": "Nilai ambang batas UPKP ditetapkan oleh ...",
+    "opsi": {
+      "A": "Panitia seleksi nasional",
+      "B": "PPK instansi pemerintah penyelenggara UPKP",
+      "C": "Kepala LAN",
+      "D": "Kepala BKN",
+      "E": "Menteri PANRB"
+    },
+    "jawaban": "B",
+    "pembahasan": "SE BKN 10/2024: nilai ambang batas UPKP ditetapkan PPK instansi penyelenggara dan disampaikan sebelum ujian.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.d.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-056",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "sulit",
+    "pertanyaan": "Rumus Nilai Akhir Ujian Dinas Tingkat II menurut SE Kepala BKN 10/2024 adalah ...",
+    "opsi": {
+      "A": "(40% × Nilai CAT BKN ÷ 6,5) + (60% × Nilai Makalah)",
+      "B": "(50% × Nilai CAT BKN) + (50% × Nilai Makalah)",
+      "C": "(60% × Nilai CAT BKN ÷ 5) + (40% × Nilai Makalah)",
+      "D": "(60% × Nilai CAT BKN ÷ 6,5) + (40% × Nilai Makalah)",
+      "E": "(60% × Nilai CAT BKN) + (40% × Nilai Makalah ÷ 6,5)"
+    },
+    "jawaban": "D",
+    "pembahasan": "Nilai Akhir = (60% × Nilai CAT/6,5) + (40% × Nilai Makalah). Pembagi 6,5 mengonversi nilai maksimal CAT 650 menjadi 100.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.d.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-057",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "sulit",
+    "pertanyaan": "Peserta Ujian Dinas Tk. II memperoleh total CAT 520 dan nilai makalah 80. Nilai akhirnya adalah ...",
+    "opsi": {
+      "A": "84",
+      "B": "80",
+      "C": "76",
+      "D": "78",
+      "E": "72"
+    },
+    "jawaban": "B",
+    "pembahasan": "(60% × 520 ÷ 6,5) + (40% × 80) = (0,6 × 80) + 32 = 48 + 32 = 80.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.d.4; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §A.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-058",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "sulit",
+    "pertanyaan": "Peserta Ujian Dinas Tk. II memperoleh total CAT 390 dan makalah 75, dengan semua nilai tes CAT di atas ambang batas. Hasilnya adalah ...",
+    "opsi": {
+      "A": "lulus dengan nilai akhir 75",
+      "B": "lulus dengan nilai akhir 70",
+      "C": "lulus karena semua tes CAT di atas ambang batas",
+      "D": "tidak lulus karena nilai akhir 61",
+      "E": "tidak lulus karena nilai akhir 66 di bawah 70"
+    },
+    "jawaban": "E",
+    "pembahasan": "(0,6 × 390 ÷ 6,5) + (0,4 × 75) = 36 + 30 = 66 < 70, sehingga tidak lulus walaupun tes CAT melewati ambang.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.d.4; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §A.5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-059",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "sulit",
+    "pertanyaan": "Peserta Ujian Dinas Tk. II memperoleh nilai akhir 83 tetapi nilai TPM-nya 30. Hasilnya adalah ...",
+    "opsi": {
+      "A": "lulus bersyarat dengan ujian ulang TPM",
+      "B": "tidak lulus karena nilai akhir di bawah 85",
+      "C": "tidak lulus karena TPM di bawah ambang batas 35",
+      "D": "lulus karena nilai akhir di atas 70",
+      "E": "lulus karena TPM hanya bobot kecil"
+    },
+    "jawaban": "C",
+    "pembahasan": "Lulus Tk. II mensyaratkan ambang setiap tes CAT terpenuhi (TPM 35) dan nilai akhir ≥ 70. Ini sesuai contoh Sdr. B pada slide.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §A.5–A.6; SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.d.4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-060",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "sedang",
+    "pertanyaan": "Salah satu aspek penilaian makalah Ujian Dinas Tingkat II (bobot 40%) menurut SE Kepala BKN 10/2024 adalah ...",
+    "opsi": {
+      "A": "ketajaman analisis dan rekomendasi yang diajukan",
+      "B": "kecepatan penyerahan makalah",
+      "C": "jabatan pembimbing makalah",
+      "D": "jumlah halaman dan referensi minimal",
+      "E": "jumlah peraturan yang dikutip"
+    },
+    "jawaban": "A",
+    "pembahasan": "Tiga aspek penilaian makalah: sistematika penulisan, manfaat topik bagi kebutuhan organisasi, serta ketajaman analisis dan rekomendasi.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.f",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-061",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "sedang",
+    "pertanyaan": "Peserta UPKP yang tidak memenuhi nilai ambang batas dapat mengikuti ujian ulang dengan metode CAT BKN setelah ...",
+    "opsi": {
+      "A": "mendapat rekomendasi Menteri PANRB",
+      "B": "PPK instansi pemerintah mengajukan permohonan tertulis kepada BKN",
+      "C": "mengikuti diklat prajabatan ulang",
+      "D": "menunggu lima tahun",
+      "E": "peserta mengajukan permohonan langsung kepada BKN"
+    },
+    "jawaban": "B",
+    "pembahasan": "SE BKN 10/2024 angka 5.g: ujian ulang dilaksanakan setelah PPK mengajukan permohonan tertulis kepada BKN.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.g",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-062",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "sedang",
+    "pertanyaan": "Ujian Dinas dan UPKP metode CAT BKN dilaksanakan dengan prinsip ...",
+    "opsi": {
+      "A": "kesetaraan, keadilan, dan kesejahteraan",
+      "B": "profesional, responsif, integritas, modern, dan akuntabel",
+      "C": "objektivitas, efektivitas, efisiensi, akuntabilitas, dan transparan",
+      "D": "partisipatif, inklusif, dan berkelanjutan",
+      "E": "kerahasiaan, kecepatan, dan kemudahan"
+    },
+    "jawaban": "C",
+    "pembahasan": "SE BKN 10/2024 angka 5.e.2 menyebut prinsip objektivitas, efektivitas, efisiensi, akuntabilitas, dan transparan.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.e",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-063",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "sedang",
+    "pertanyaan": "Nilai ambang batas TSI pada Ujian Dinas Tingkat I adalah ...",
+    "opsi": {
+      "A": "90 dari nilai maksimal 250",
+      "B": "100 dari nilai maksimal 200",
+      "C": "40 dari nilai maksimal 100",
+      "D": "35 dari nilai maksimal 100",
+      "E": "75 dari nilai maksimal 200"
+    },
+    "jawaban": "D",
+    "pembahasan": "Ujian Dinas Tk. I: TWK ambang 100 (maks 200), TPU 75 (maks 200), TSI 35 (maks 100). TSI Tk. II ambangnya 40.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 5.d.3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "kepegawaian-064",
+    "kategori": "TKT",
+    "topik": "Peraturan Kepegawaian",
+    "subtopik": "Ujian Dinas dan UPKP",
+    "tingkat": "sulit",
+    "pertanyaan": "SE Kepala BKN 10/2024 mencabut dan menyatakan tidak berlaku ...",
+    "opsi": {
+      "A": "SE Kepala BKN Nomor 22 Tahun 2022 dan SE Bersama Kepala BAKN–Ketua LAN tahun 1981 tentang Ujian Dinas",
+      "B": "UU Nomor 5 Tahun 2014",
+      "C": "PP Nomor 17 Tahun 2020",
+      "D": "Perpres Nomor 58 Tahun 2013",
+      "E": "Peraturan Kepala BKN Nomor 33 Tahun 2011"
+    },
+    "jawaban": "A",
+    "pembahasan": "Penutup SE: SE Bersama Kepala BAKN dan Ketua LAN 1981 serta SE Kepala BKN 22/2022 dicabut.",
+    "sumber": "SE Kepala BKN 10/2024 (sumber/SE_BKN_10_2024_Ujian_Dinas_UPKP.md) angka 6",
+    "di_luar_materi": false
+  }
+]
