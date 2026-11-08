@@ -30,3 +30,6 @@ node_modules/
 
 # Konfigurasi lokal editor/agen
 .claude/
+
+# Bahan rujukan (berisi rangkuman pribadi) hanya disimpan lokal
+sumber/

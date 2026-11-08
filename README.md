@@ -56,7 +56,7 @@ Progres disimpan di `localStorage` browser perangkat itu saja. Gunakan Ekspor/Im
 ```
 README.md
 CATATAN_VERIFIKASI.md     hasil pemeriksaan akurasi
-sumber/                   bahan rujukan dalam Markdown (lihat sumber/PETA_TOPIK.md)
+sumber/                   (tidak ada di repo public) bahan rujukan lokal
 data/kisi.json            distribusi soal simulasi + target minimal per topik
 data/soal/*.json          bank soal, satu file per topik
 docs/                     web latihan (index.html, style.css, app.js, data/bank-soal.json)
@@ -66,14 +66,13 @@ scripts/docx2md.py        konverter .docx → Markdown (pengganti pandoc)
 .github/workflows/        GitHub Action validasi
 ```
 
-Isi `sumber/`:
+Folder `sumber/` **tidak disertakan di repo public** karena memuat rangkuman pribadi. Field `sumber` pada setiap soal tetap menyebut nama file dan bagian/pasal yang dipakai, yaitu:
 
-- Tiga rangkuman pribadi (dikonversi dari .docx).
-- Teks resmi hasil ekstraksi PDF: Permen Imipas 1/2024 (Organisasi dan Tata Kerja), Permen Imipas 11/2025 (Renstra 2025–2029), SE Kepala BKN 10/2024, UU 20/2023 (ASN), PP 94/2021 (Disiplin PNS).
-- Transkrip slide materi (Pancasila, UUD, Sejarah, Kepegawaian).
-- `PETA_TOPIK.md`: peta topik ke bagian sumber dan daftar ketidakkonsistenan yang sengaja tidak dijadikan kunci soal.
+- tiga rangkuman pribadi (dikonversi dari .docx);
+- teks resmi hasil ekstraksi PDF: Permen Imipas 1/2024 (Organisasi dan Tata Kerja), Permen Imipas 11/2025 (Renstra 2025–2029), SE Kepala BKN 10/2024, UU 20/2023 (ASN), PP 94/2021 (Disiplin PNS);
+- transkrip slide materi (Pancasila, UUD, Sejarah, Kepegawaian).
 
-File asli (.docx, .pdf, gambar) tidak dimasukkan ke repo.
+Teks peraturan resmi bisa diunduh dari JDIH Kemenimipas, jdih.bkn.go.id, atau peraturan.bpk.go.id. File asli (.docx, .pdf, gambar) tidak dimasukkan ke repo.
 
 ## Format soal
 
@@ -100,7 +99,7 @@ Setiap file `data/soal/<topik>.json` berisi array objek:
 ## Cara menambah atau mengubah soal
 
 1. Edit file yang sesuai di `data/soal/`. Lanjutkan penomoran `id` (mis. `sotk-125`). `topik` dan `kategori` harus sama persis dengan `data/kisi.json`.
-2. Pastikan fakta ada di `sumber/` dan isi field `sumber`. Bila tidak ada di sumber, jangan buat soalnya (kecuali topik yang boleh `di_luar_materi`).
+2. Pastikan fakta ada di bahan rujukan (folder `sumber/` lokal atau teks peraturan resmi) dan isi field `sumber`. Bila tidak ada di sumber, jangan buat soalnya (kecuali topik yang boleh `di_luar_materi`).
 3. Sebar kunci jawaban merata A–E (validasi gagal bila satu huruf > 25% dalam satu file) dan jangan biarkan opsi benar selalu yang terpanjang.
 4. Bangun ulang data web dan jalankan validasi:
 
