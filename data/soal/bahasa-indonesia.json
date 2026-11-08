@@ -1,0 +1,610 @@
+[
+  {
+    "id": "bahasa-indonesia-001",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Huruf Kapital",
+    "tingkat": "mudah",
+    "pertanyaan": "Penulisan huruf kapital yang tepat terdapat pada kalimat ...",
+    "opsi": {
+      "A": "rapat itu dibuka oleh Inspektur Jenderal Budi Santoso.",
+      "B": "Rapat Itu Dibuka Oleh Inspektur Jenderal Budi Santoso.",
+      "C": "Rapat itu dibuka oleh inspektur jenderal Budi Santoso.",
+      "D": "Rapat itu dibuka oleh Inspektur Jenderal Budi Santoso.",
+      "E": "Rapat itu dibuka oleh Inspektur jenderal Budi santoso."
+    },
+    "jawaban": "D",
+    "pembahasan": "Huruf kapital dipakai pada awal kalimat, nama orang, dan nama jabatan yang diikuti nama orang; kata tugas seperti \"itu\" dan \"oleh\" tidak dikapitalkan.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 Bahasa Indonesia",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-002",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Huruf Kapital",
+    "tingkat": "sedang",
+    "pertanyaan": "Penulisan nama orang yang sesuai kaidah adalah ...",
+    "opsi": {
+      "A": "Ahmad bin Abdullah",
+      "B": "Ahmad BIN Abdullah",
+      "C": "Ahmad Bin Abdullah",
+      "D": "ahmad bin Abdullah",
+      "E": "Ahmad Bin abdullah"
+    },
+    "jawaban": "A",
+    "pembahasan": "Huruf kapital dipakai pada unsur nama orang, tetapi tidak pada kata seperti bin, binti, dan van.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-003",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Huruf Kapital",
+    "tingkat": "sedang",
+    "pertanyaan": "Kalimat yang penulisan huruf kapitalnya benar adalah ...",
+    "opsi": {
+      "A": "laporan itu harus diserahkan pada hari Senin, 3 Maret 2025.",
+      "B": "Laporan Itu Harus Diserahkan pada Hari Senin, 3 Maret 2025.",
+      "C": "Laporan itu harus diserahkan pada Hari Senin, 3 maret 2025.",
+      "D": "Laporan itu harus diserahkan pada hari senin, 3 Maret 2025.",
+      "E": "Laporan itu harus diserahkan pada hari Senin, 3 Maret 2025."
+    },
+    "jawaban": "E",
+    "pembahasan": "Nama hari dan bulan diawali huruf kapital, sedangkan kata \"hari\" yang mendahului nama hari tidak.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-004",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Huruf Kapital",
+    "tingkat": "sedang",
+    "pertanyaan": "Penulisan judul buku yang tepat menurut kaidah huruf kapital adalah ...",
+    "opsi": {
+      "A": "Pedoman Pelaksanaan Ujian Dinas Dan Ujian Penyesuaian Kenaikan Pangkat",
+      "B": "Pedoman Pelaksanaan Ujian Dinas dan Ujian Penyesuaian Kenaikan Pangkat",
+      "C": "PEDOMAN pelaksanaan Ujian Dinas dan ujian Penyesuaian Kenaikan Pangkat",
+      "D": "Pedoman pelaksanaan ujian dinas dan ujian penyesuaian kenaikan pangkat",
+      "E": "pedoman Pelaksanaan Ujian Dinas dan Ujian Penyesuaian Kenaikan Pangkat"
+    },
+    "jawaban": "B",
+    "pembahasan": "Setiap kata dalam judul buku/dokumen diawali huruf kapital, kecuali kata tugas seperti \"dan\" yang tidak berada di awal.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-005",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Penulisan Kata",
+    "tingkat": "mudah",
+    "pertanyaan": "Penulisan kata depan yang benar terdapat pada kalimat ...",
+    "opsi": {
+      "A": "Berkas itu diletakan di-atas meja.",
+      "B": "Berkas itu diletakkan diatas meja.",
+      "C": "Berkas itu diletakkan di atas meja.",
+      "D": "Berkas itu di letakkan di atas meja.",
+      "E": "Berkas itu di letakkan diatas meja."
+    },
+    "jawaban": "C",
+    "pembahasan": "Kata depan di/ke/dari ditulis terpisah dari kata yang mengikutinya (di atas), sedangkan awalan di- dirangkai (diletakkan).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-006",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Penulisan Kata",
+    "tingkat": "sedang",
+    "pertanyaan": "Penulisan partikel yang benar terdapat pada kalimat ...",
+    "opsi": {
+      "A": "Apa kah laporan itu sudah selesai ?",
+      "B": "Apa kah laporan itu sudah selesai?",
+      "C": "Apakah laporan itu sudah selesai ?",
+      "D": "Apa-kah laporan itu sudah selesai?",
+      "E": "Apakah laporan itu sudah selesai?"
+    },
+    "jawaban": "E",
+    "pembahasan": "Partikel -lah, -kah, dan -tah ditulis serangkai dengan kata yang mendahuluinya; tanda tanya tidak didahului spasi.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-007",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Penulisan Kata",
+    "tingkat": "sedang",
+    "pertanyaan": "Penulisan kata yang mengandung unsur \"pun\" yang tepat adalah ...",
+    "opsi": {
+      "A": "Meskipun-hujan, apel pagi tetap dilaksanakan.",
+      "B": "Meskipun, hujan apel pagi tetap dilaksanakan.",
+      "C": "Meski pun hujan, apel pagi tetap dilaksanakan.",
+      "D": "Meskipun hujan, apel pagi tetap dilaksanakan.",
+      "E": "Walau pun hujan, apel pagi tetap dilaksanakan."
+    },
+    "jawaban": "D",
+    "pembahasan": "Rangkuman: \"pun\" dirangkai pada kata penghubung (meskipun, walaupun), dan koma diletakkan setelah anak kalimat.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-008",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Penulisan Kata",
+    "tingkat": "sedang",
+    "pertanyaan": "Gabungan kata berikut ditulis dengan benar, KECUALI ...",
+    "opsi": {
+      "A": "kereta api",
+      "B": "ibu kota",
+      "C": "rumahsakit",
+      "D": "rumah sakit",
+      "E": "tanggung jawab"
+    },
+    "jawaban": "C",
+    "pembahasan": "Gabungan kata ditulis terpisah: ibu kota, rumah sakit, tanggung jawab.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-009",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Penulisan Kata",
+    "tingkat": "sedang",
+    "pertanyaan": "Penulisan kata \"si\" dan \"sang\" yang benar terdapat pada ...",
+    "opsi": {
+      "A": "Sang juara menerima piagam dari si pemberi hadiah.",
+      "B": "Sangjuara menerima piagam dari sipemberi hadiah.",
+      "C": "Sangjuara menerima piagam dari si pemberi hadiah.",
+      "D": "Sang juara menerima piagam dari sipemberi hadiah.",
+      "E": "Sang-juara menerima piagam dari si-pemberi hadiah."
+    },
+    "jawaban": "A",
+    "pembahasan": "Kata si dan sang ditulis terpisah dari kata yang mengikutinya.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-010",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Penulisan Kata",
+    "tingkat": "mudah",
+    "pertanyaan": "Penulisan kata ganti -ku, -mu, dan -nya yang benar adalah ...",
+    "opsi": {
+      "A": "Buku mu tertinggal di mejanya.",
+      "B": "Bukumu tertinggal di mejanya.",
+      "C": "Buku-mu tertinggal di meja-nya.",
+      "D": "Buku mu tertinggal di meja nya.",
+      "E": "Bukumu tertinggal di meja nya."
+    },
+    "jawaban": "B",
+    "pembahasan": "Kata ganti -ku, -mu, dan -nya dirangkai dengan kata yang mendahuluinya.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-011",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Singkatan dan Akronim",
+    "tingkat": "sedang",
+    "pertanyaan": "Penulisan singkatan gelar akademik yang benar adalah ...",
+    "opsi": {
+      "A": "Budi Santoso, S.E, M.Si",
+      "B": "Budi Santoso, S.E., M.Si.",
+      "C": "Budi Santoso, SE, MSi",
+      "D": "Budi Santoso, se., m.si.",
+      "E": "Budi Santoso, S. E., M. Si."
+    },
+    "jawaban": "B",
+    "pembahasan": "Singkatan gelar ditulis dengan tanda titik pada setiap unsur singkatan (S.E., M.Si.).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-012",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Singkatan dan Akronim",
+    "tingkat": "sedang",
+    "pertanyaan": "Penulisan singkatan nama lembaga yang benar adalah ...",
+    "opsi": {
+      "A": "Ktp dan Kuhp",
+      "B": "K.T.P. dan K.U.H.P.",
+      "C": "K.T.P dan KUHP.",
+      "D": "KTP dan KUHP",
+      "E": "k.t.p. dan k.u.h.p."
+    },
+    "jawaban": "D",
+    "pembahasan": "Singkatan nama lembaga atau dokumen resmi yang terdiri atas huruf awal ditulis kapital tanpa titik.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-013",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Singkatan dan Akronim",
+    "tingkat": "sulit",
+    "pertanyaan": "Singkatan yang terdiri atas tiga huruf atau lebih dan diikuti satu tanda titik ditunjukkan oleh ...",
+    "opsi": {
+      "A": "S.E., M.Si., Dr.",
+      "B": "km, kg, Rp",
+      "C": "KTP, SIM, NIP",
+      "D": "a.n., s.d., u.p.",
+      "E": "dkk., dsb., hlm."
+    },
+    "jawaban": "E",
+    "pembahasan": "Singkatan umum tiga huruf atau lebih diikuti satu titik (dkk., dsb., hlm.); dua huruf bertitik tiap huruf (a.n., s.d.).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-014",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Singkatan dan Akronim",
+    "tingkat": "sulit",
+    "pertanyaan": "Penulisan singkatan yang terdiri atas dua huruf yang tepat adalah ...",
+    "opsi": {
+      "A": "an. dan sd.",
+      "B": "AN dan SD",
+      "C": "a.n. dan s.d.",
+      "D": "a/n dan s/d",
+      "E": "a.n dan s.d"
+    },
+    "jawaban": "C",
+    "pembahasan": "Singkatan dua huruf yang lazim dalam surat-menyurat diberi titik pada setiap huruf: a.n., s.d., u.p.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-015",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Singkatan dan Akronim",
+    "tingkat": "sedang",
+    "pertanyaan": "Lambang satuan, lambang kimia, dan mata uang ditulis tanpa tanda titik. Penulisan yang benar adalah ...",
+    "opsi": {
+      "A": "Rp50.000, 10 km, dan 5 kg",
+      "B": "rp50.000, 10 KM, dan 5 KG",
+      "C": "Rp.50.000, 10 km., dan 5 kg.",
+      "D": "Rp.50.000,- 10 km, dan 5 kg",
+      "E": "Rp. 50.000, 10 Km, dan 5 Kg"
+    },
+    "jawaban": "A",
+    "pembahasan": "Lambang satuan (km, kg), lambang kimia (Cu), dan mata uang (Rp) tidak diikuti titik.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-016",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Singkatan dan Akronim",
+    "tingkat": "sedang",
+    "pertanyaan": "Penulisan akronim yang sesuai kaidah adalah ...",
+    "opsi": {
+      "A": "Bappenas dan Pemilu.",
+      "B": "B.A.P.P.E.N.A.S. dan pemilu",
+      "C": "bappenas dan PEMILU",
+      "D": "BAPPENAS dan PEMILU",
+      "E": "Bappenas dan pemilu"
+    },
+    "jawaban": "E",
+    "pembahasan": "Akronim nama lembaga dari gabungan suku kata ditulis dengan huruf awal kapital (Bappenas); akronim bukan nama diri ditulis huruf kecil (pemilu).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-017",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Tanda Baca",
+    "tingkat": "sedang",
+    "pertanyaan": "Penggunaan koma setelah konjungsi antarkalimat yang tepat adalah ...",
+    "opsi": {
+      "A": "Pegawai itu sudah bekerja keras; Namun targetnya belum tercapai.",
+      "B": "Pegawai itu sudah bekerja keras. Namun targetnya belum tercapai.",
+      "C": "Pegawai itu sudah bekerja keras. Namun, targetnya belum tercapai.",
+      "D": "Pegawai itu sudah bekerja keras, namun targetnya belum tercapai.",
+      "E": "Pegawai itu sudah bekerja keras namun, targetnya belum tercapai."
+    },
+    "jawaban": "C",
+    "pembahasan": "Konjungsi antarkalimat (namun, oleh karena itu) berada di awal kalimat dan diikuti koma.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-018",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Tanda Baca",
+    "tingkat": "sedang",
+    "pertanyaan": "Konjungsi intrakalimat yang lazim didahului tanda koma adalah ...",
+    "opsi": {
+      "A": "sehingga",
+      "B": "sedangkan",
+      "C": "supaya",
+      "D": "bahwa",
+      "E": "karena"
+    },
+    "jawaban": "B",
+    "pembahasan": "Melainkan, sedangkan, yaitu, yakni, kecuali, dan seperti didahului koma; jika, karena, supaya, sehingga, ketika, dan bahwa tidak.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-019",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Tanda Baca",
+    "tingkat": "sedang",
+    "pertanyaan": "Kalimat yang penggunaan komanya TIDAK tepat adalah ...",
+    "opsi": {
+      "A": "Ia tidak datang, melainkan mengirim wakil.",
+      "B": "Kami membawa alat tulis, yaitu pensil dan penghapus.",
+      "C": "Kakak bekerja di Bandung, sedangkan adik di Jakarta.",
+      "D": "Ia tidak hadir, karena sakit.",
+      "E": "Semua peserta hadir, kecuali dua orang."
+    },
+    "jawaban": "D",
+    "pembahasan": "\"Karena\" termasuk konjungsi intrakalimat yang tidak didahului koma; melainkan, sedangkan, yaitu, dan kecuali didahului koma.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-020",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Tanda Baca",
+    "tingkat": "sulit",
+    "pertanyaan": "Menurut rangkuman, jumlah tanda baca yang diatur dalam pedoman ejaan adalah ...",
+    "opsi": {
+      "A": "15",
+      "B": "17",
+      "C": "12",
+      "D": "14",
+      "E": "10"
+    },
+    "jawaban": "A",
+    "pembahasan": "Rangkuman mencantumkan 15 tanda baca: titik, seru, tanya, koma, titik koma, titik dua, hubung, pisah, garis miring, petik, petik tunggal, kurung, kurung siku, elipsis, dan apostrof.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-021",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Kalimat Efektif",
+    "tingkat": "sedang",
+    "pertanyaan": "Kalimat berikut yang efektif adalah ...",
+    "opsi": {
+      "A": "Peserta ujian wajib membawa kartu peserta.",
+      "B": "Bagi peserta ujian wajib membawa kartu peserta.",
+      "C": "Untuk peserta ujian diwajibkan membawa kartu peserta.",
+      "D": "Kepada para peserta-peserta ujian wajib membawa kartu peserta.",
+      "E": "Di dalam ujian ini peserta-peserta wajib membawa kartu peserta."
+    },
+    "jawaban": "A",
+    "pembahasan": "Subjek kalimat efektif tidak didahului preposisi (bagi, kepada, untuk, di dalam) dan tidak mengulang bentuk jamak.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-022",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Kalimat Efektif",
+    "tingkat": "sedang",
+    "pertanyaan": "Kalimat yang tidak hemat kata adalah ...",
+    "opsi": {
+      "A": "Seluruh siswa mengikuti upacara bendera.",
+      "B": "Para siswa-siswi mengikuti upacara bendera.",
+      "C": "Para siswa mengikuti upacara bendera.",
+      "D": "Semua siswa mengikuti upacara bendera.",
+      "E": "Siswa-siswi mengikuti upacara bendera."
+    },
+    "jawaban": "B",
+    "pembahasan": "\"Para\" sudah bermakna jamak sehingga tidak perlu diikuti bentuk ulang \"siswa-siswi\".",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-023",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Kalimat Efektif",
+    "tingkat": "sulit",
+    "pertanyaan": "Kalimat \"Dalam rapat itu membahas jadwal ujian.\" tidak efektif karena ...",
+    "opsi": {
+      "A": "tidak memiliki objek",
+      "B": "terlalu panjang",
+      "C": "subjeknya didahului preposisi sehingga kalimat tidak bersubjek",
+      "D": "menggunakan kata tidak baku",
+      "E": "memiliki dua predikat"
+    },
+    "jawaban": "C",
+    "pembahasan": "Kalimat efektif mensyaratkan subjek tidak didahului preposisi. Perbaikannya: \"Rapat itu membahas jadwal ujian.\"",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-024",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Paragraf",
+    "tingkat": "mudah",
+    "pertanyaan": "Paragraf yang kalimat utamanya terletak di awal paragraf disebut paragraf ...",
+    "opsi": {
+      "A": "deskriptif",
+      "B": "naratif",
+      "C": "induktif",
+      "D": "campuran",
+      "E": "deduktif"
+    },
+    "jawaban": "E",
+    "pembahasan": "Gagasan pokok di awal = deduktif; di akhir = induktif; di awal dan akhir = campuran.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-025",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Paragraf",
+    "tingkat": "sedang",
+    "pertanyaan": "Paragraf yang gagasan pokoknya berada di akhir paragraf disebut paragraf ...",
+    "opsi": {
+      "A": "eksposisi",
+      "B": "ineratif",
+      "C": "deduktif",
+      "D": "induktif",
+      "E": "campuran"
+    },
+    "jawaban": "D",
+    "pembahasan": "Paragraf induktif menempatkan kalimat utama di akhir paragraf.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-026",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Kata Baku",
+    "tingkat": "mudah",
+    "pertanyaan": "Kelompok kata berikut yang seluruhnya baku adalah ...",
+    "opsi": {
+      "A": "apotek, analisis, antre",
+      "B": "apotik, analisa, antri",
+      "C": "apotek, analisis, antri",
+      "D": "apotik, analisis, antri",
+      "E": "apotek, analisa, antre"
+    },
+    "jawaban": "A",
+    "pembahasan": "Bentuk baku: apotek, analisis, antre (juga ajek dan asas).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-027",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Kata Baku",
+    "tingkat": "sedang",
+    "pertanyaan": "Kata baku terdapat pada kalimat ...",
+    "opsi": {
+      "A": "Azas keterbukaan menjadi pedoman pelayanan secara ajek.",
+      "B": "Asas keterbukaan menjadi pedoman pelayanan secara ajeg.",
+      "C": "Azas keterbukaan menjadi pedoman pelayanan.",
+      "D": "Azaz keterbukaan menjadi pedoman pelayanan.",
+      "E": "Asas keterbukaan menjadi pedoman pelayanan."
+    },
+    "jawaban": "E",
+    "pembahasan": "Bentuk baku adalah asas dan ajek; azas dan ajeg tidak baku.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-028",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Kata Baku",
+    "tingkat": "sedang",
+    "pertanyaan": "Kelompok kata berikut yang seluruhnya baku adalah ...",
+    "opsi": {
+      "A": "praktik, resiko, kualitas",
+      "B": "praktik, risiko, kwalitas",
+      "C": "praktik, risiko, kualitas",
+      "D": "praktek, resiko, kwalitas",
+      "E": "praktek, risiko, kwalitas"
+    },
+    "jawaban": "C",
+    "pembahasan": "Bentuk baku menurut KBBI: praktik, risiko, kualitas.",
+    "sumber": "Pengetahuan umum KBBI (di luar rangkuman)",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-indonesia-029",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Kata Baku",
+    "tingkat": "sedang",
+    "pertanyaan": "Kalimat yang menggunakan kata baku adalah ...",
+    "opsi": {
+      "A": "Petugas memberikan izin kunjungan sesuai jadual.",
+      "B": "Petugas memberikan ijin kunjungan sesuai jadual.",
+      "C": "Petugas memberikan ijin kunjungan sesuai jadwal resmi.",
+      "D": "Petugas memberikan izin kunjungan sesuai jadwal.",
+      "E": "Petugas memberikan ijin kunjungan sesuai jadwal."
+    },
+    "jawaban": "D",
+    "pembahasan": "Bentuk baku: izin dan jadwal; ijin dan jadual tidak baku.",
+    "sumber": "Pengetahuan umum KBBI (di luar rangkuman)",
+    "di_luar_materi": true
+  },
+  {
+    "id": "bahasa-indonesia-030",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Makna Kata",
+    "tingkat": "sedang",
+    "pertanyaan": "Kata khusus dari kata umum \"melihat\" adalah ...",
+    "opsi": {
+      "A": "kelihatan",
+      "B": "melirik",
+      "C": "penglihatan",
+      "D": "terlihat",
+      "E": "pandangan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kata umum \"melihat\" memiliki kata khusus seperti melirik, menengok, dan menengadah.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-031",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Penulisan Kata",
+    "tingkat": "sulit",
+    "pertanyaan": "Penulisan imbuhan dan kata depan yang benar terdapat pada kalimat ...",
+    "opsi": {
+      "A": "Surat itu dikirim kekantor wilayah kemarin.",
+      "B": "Surat itu di kirim ke kantor wilayah kemarin.",
+      "C": "Surat itu dikirim ke kantor wilayah kemarin.",
+      "D": "Surat itu di kirim kekantor wilayah kemarin.",
+      "E": "Surat itu di-kirim ke-kantor wilayah kemarin."
+    },
+    "jawaban": "C",
+    "pembahasan": "Awalan di- dirangkai (dikirim), sedangkan kata depan ke dipisah (ke kantor).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "bahasa-indonesia-032",
+    "kategori": "TWK",
+    "topik": "Bahasa Indonesia",
+    "subtopik": "Huruf Kapital",
+    "tingkat": "sulit",
+    "pertanyaan": "Penulisan nama geografi yang tepat adalah ...",
+    "opsi": {
+      "A": "Warga tinggal di tepi Sungai Citarum, sebelah Selatan kota.",
+      "B": "Warga tinggal di tepi sungai Citarum, sebelah Selatan kota.",
+      "C": "Warga tinggal di tepi Sungai citarum, sebelah selatan kota.",
+      "D": "Warga tinggal di tepi Sungai Citarum, sebelah selatan kota.",
+      "E": "Warga tinggal di tepi sungai citarum, sebelah Selatan Kota."
+    },
+    "jawaban": "D",
+    "pembahasan": "Unsur nama geografi yang menjadi nama diri dikapitalkan (Sungai Citarum), sedangkan arah mata angin yang tidak menjadi nama diri tidak.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 (nama geografi); arah mata angin: kaidah PUEBI umum",
+    "di_luar_materi": true
+  }
+]

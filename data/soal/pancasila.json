@@ -1,0 +1,781 @@
+[
+  {
+    "id": "pancasila-001",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Sejarah Perumusan",
+    "tingkat": "mudah",
+    "pertanyaan": "Istilah Pancasila pertama kali disampaikan oleh Ir. Soekarno pada ...",
+    "opsi": {
+      "A": "sidang BPUPKI tanggal 1 Juni 1945",
+      "B": "rapat Panitia Sembilan tanggal 22 Juni 1945",
+      "C": "sidang PPKI tanggal 17 Agustus 1945",
+      "D": "sidang PPKI tanggal 18 Agustus 1945",
+      "E": "sidang BPUPKI tanggal 29 Mei 1945"
+    },
+    "jawaban": "A",
+    "pembahasan": "Soekarno pertama kali menyampaikan istilah Pancasila dalam sidang BPUPKI 1 Juni 1945; PPKI kemudian mengesahkannya pada 18 Agustus 1945.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 Pancasila; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-002",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Sejarah Perumusan",
+    "tingkat": "mudah",
+    "pertanyaan": "Pancasila sebagai dasar negara disahkan oleh PPKI pada tanggal ...",
+    "opsi": {
+      "A": "1 Oktober 1945",
+      "B": "17 Agustus 1945",
+      "C": "1 Juni 1945",
+      "D": "22 Juni 1945",
+      "E": "18 Agustus 1945"
+    },
+    "jawaban": "E",
+    "pembahasan": "PPKI mengesahkan Pancasila (bersama UUD 1945) pada 18 Agustus 1945. Tanggal 1 Juni adalah hari lahir istilah Pancasila.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-003",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Sejarah Perumusan",
+    "tingkat": "mudah",
+    "pertanyaan": "Hari Lahir Pancasila diperingati setiap tanggal ...",
+    "opsi": {
+      "A": "17 Agustus",
+      "B": "1 Juni",
+      "C": "1 Oktober",
+      "D": "18 Agustus",
+      "E": "22 Juni"
+    },
+    "jawaban": "B",
+    "pembahasan": "Hari Pancasila diperingati setiap 1 Juni, sesuai tanggal Soekarno menyampaikan istilah Pancasila di sidang BPUPKI. 1 Oktober adalah Hari Kesaktian Pancasila.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-004",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Sejarah Perumusan",
+    "tingkat": "sedang",
+    "pertanyaan": "Secara etimologis, kata Pancasila berasal dari bahasa Sanskerta, yaitu \"panca\" yang berarti lima dan \"sila\" yang berarti ...",
+    "opsi": {
+      "A": "lambang",
+      "B": "perjanjian",
+      "C": "dasar",
+      "D": "cita-cita",
+      "E": "tujuan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Panca berarti lima dan sila berarti dasar (sendi, asas, peraturan tingkah laku yang baik).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-005",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Sejarah Perumusan",
+    "tingkat": "sedang",
+    "pertanyaan": "Istilah Pancasila sudah dikenal sejak masa kerajaan, antara lain termuat dalam kitab ...",
+    "opsi": {
+      "A": "Pararaton karya Mpu Sedah",
+      "B": "Negarakertagama karya Mpu Prapanca",
+      "C": "Bharatayudha karya Mpu Panuluh",
+      "D": "Sutasoma karya Mpu Tantular",
+      "E": "Arjunawiwaha karya Mpu Kanwa"
+    },
+    "jawaban": "D",
+    "pembahasan": "Kitab Sutasoma karya Mpu Tantular (masa Majapahit) memuat istilah Pancasila sebagai \"berbatu sendi yang lima\".",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-006",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Sejarah Perumusan",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut rangkuman materi, nilai-nilai sila Pancasila sudah dikenal sejak masa kerajaan ...",
+    "opsi": {
+      "A": "Sriwijaya dan Majapahit",
+      "B": "Mataram Kuno dan Demak",
+      "C": "Kutai dan Tarumanegara",
+      "D": "Singasari dan Kediri",
+      "E": "Samudra Pasai dan Banten"
+    },
+    "jawaban": "A",
+    "pembahasan": "Rangkuman menyebut nilai-nilai sila Pancasila sudah dikenal sejak masa Sriwijaya dan Majapahit.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-007",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Pendapat Para Ahli",
+    "tingkat": "sedang",
+    "pertanyaan": "Tokoh yang mengartikan Pancasila dengan \"panca berarti lima dan sila berarti sendi, dasar, atau aturan tingkah laku yang baik\" adalah ...",
+    "opsi": {
+      "A": "Ir. Soekarno",
+      "B": "Notonegoro",
+      "C": "Mohammad Hatta",
+      "D": "Muhammad Yamin",
+      "E": "Soepomo"
+    },
+    "jawaban": "D",
+    "pembahasan": "Rumusan panca = lima dan sila = sendi/dasar/aturan tingkah laku yang baik dikemukakan oleh Muhammad Yamin.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-008",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Pendapat Para Ahli",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut Notonegoro, Pancasila adalah ...",
+    "opsi": {
+      "A": "lima sendi atau aturan tingkah laku yang baik",
+      "B": "isi jiwa bangsa Indonesia yang turun-temurun",
+      "C": "dasar falsafah dan ideologi negara yang diharapkan menjadi pemersatu bangsa",
+      "D": "perjanjian luhur para pendiri negara",
+      "E": "dokumen politik hasil sidang PPKI"
+    },
+    "jawaban": "C",
+    "pembahasan": "Notonegoro memandang Pancasila sebagai dasar falsafah dan ideologi negara serta pemersatu bangsa. \"Isi jiwa bangsa\" adalah pandangan Soekarno; \"sendi/aturan tingkah laku\" adalah Muhammad Yamin.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-009",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Pendapat Para Ahli",
+    "tingkat": "sedang",
+    "pertanyaan": "Ir. Soekarno memandang Pancasila sebagai ...",
+    "opsi": {
+      "A": "hukum dasar tertulis negara",
+      "B": "isi jiwa bangsa Indonesia dan falsafah bangsa",
+      "C": "lima sendi tingkah laku yang baik",
+      "D": "dasar falsafah dan ideologi negara sebagai pemersatu",
+      "E": "ideologi terbuka yang dapat diubah"
+    },
+    "jawaban": "B",
+    "pembahasan": "Soekarno menyebut Pancasila sebagai isi jiwa bangsa dan falsafah bangsa; rumusan \"dasar falsafah dan ideologi negara\" berasal dari Notonegoro.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-010",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Fungsi dan Kedudukan",
+    "tingkat": "mudah",
+    "pertanyaan": "Pancasila sebagai sumber dari segala sumber hukum berarti ...",
+    "opsi": {
+      "A": "Pancasila setara dengan peraturan pemerintah",
+      "B": "Pancasila hanya berlaku bagi aparatur negara",
+      "C": "Pancasila dapat diubah mengikuti undang-undang yang berlaku",
+      "D": "hukum adat lebih tinggi kedudukannya daripada Pancasila",
+      "E": "setiap peraturan perundang-undangan harus bersumber dan tidak boleh bertentangan dengan Pancasila"
+    },
+    "jawaban": "E",
+    "pembahasan": "Salah satu fungsi Pancasila adalah sumber dari segala sumber hukum; karena itu peraturan perundang-undangan harus bersumber padanya.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-011",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Fungsi dan Kedudukan",
+    "tingkat": "sedang",
+    "pertanyaan": "Fungsi Pancasila sebagai jiwa bangsa dikenal juga dengan istilah ...",
+    "opsi": {
+      "A": "grundnorm",
+      "B": "weltanschauung",
+      "C": "staatsfundamentalnorm",
+      "D": "volksgeist",
+      "E": "rechtsstaat"
+    },
+    "jawaban": "D",
+    "pembahasan": "Rangkuman mencantumkan fungsi Pancasila sebagai jiwa bangsa (volksgeist).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-012",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Fungsi dan Kedudukan",
+    "tingkat": "sedang",
+    "pertanyaan": "Rangkuman materi menyebut delapan fungsi Pancasila. Berikut ini yang BUKAN termasuk di dalamnya adalah ...",
+    "opsi": {
+      "A": "pedoman teknis penyusunan anggaran negara",
+      "B": "pandangan hidup",
+      "C": "cita-cita dan tujuan bangsa",
+      "D": "perjanjian luhur",
+      "E": "dasar negara"
+    },
+    "jawaban": "A",
+    "pembahasan": "Delapan fungsi: dasar negara, sumber dari segala sumber hukum, jiwa bangsa, kepribadian bangsa, pandangan hidup, cita-cita dan tujuan bangsa, falsafah bangsa, dan perjanjian luhur.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-013",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Fungsi dan Kedudukan",
+    "tingkat": "sedang",
+    "pertanyaan": "Pancasila sebagai pandangan hidup bangsa dipahami sebagai basic belief system, yaitu ...",
+    "opsi": {
+      "A": "perjanjian luhur para pendiri bangsa",
+      "B": "gagasan politik yang lahir dari kemauan bersama",
+      "C": "sekumpulan nilai yang tersusun sistematis dan menjadi acuan dasar dalam berpikir, bersikap, dan bertingkah laku",
+      "D": "norma dasar yang menjadi pijakan penyelenggaraan negara",
+      "E": "dokumen hukum tertinggi di Indonesia"
+    },
+    "jawaban": "C",
+    "pembahasan": "Slide materi mendefinisikan pandangan hidup sebagai basic belief system: nilai yang terangkai sistematis sebagai acuan berpikir, bersikap, dan bertingkah laku.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-014",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Fungsi dan Kedudukan",
+    "tingkat": "sedang",
+    "pertanyaan": "Pancasila sebagai dasar negara berisi norma dasar yang fundamental. Menurut materi, norma tersebut bersifat ...",
+    "opsi": {
+      "A": "sementara sampai terbentuk konstitusi baru",
+      "B": "fleksibel dan dapat diubah setiap lima tahun oleh MPR",
+      "C": "sama kedudukannya dengan undang-undang",
+      "D": "hanya berlaku dalam keadaan darurat",
+      "E": "tetap dan berkedudukan istimewa sehingga tidak dapat diubah atau diganti"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pancasila berisi norma dasar fundamental yang bersifat tetap dan istimewa sehingga tidak dapat diubah/diganti.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-015",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Fungsi dan Kedudukan",
+    "tingkat": "sulit",
+    "pertanyaan": "Ciri Pancasila sebagai ideologi nasional menurut materi adalah sebagai berikut, KECUALI ...",
+    "opsi": {
+      "A": "sistem nilai yang bulat dan mendasar",
+      "B": "merupakan aturan teknis pelaksanaan undang-undang",
+      "C": "berbentuk kepercayaan politik yang kokoh sebagai hasil kemauan bersama",
+      "D": "pencerminan pandangan hidup dan falsafah hidup bangsa",
+      "E": "gagasan, cita-cita, dan nilai dasar yang membentuk sistem nilai yang utuh"
+    },
+    "jawaban": "B",
+    "pembahasan": "Ideologi nasional: gagasan dan nilai dasar yang utuh, bulat, dan mendasar; pencerminan pandangan hidup; serta kepercayaan politik yang kokoh hasil kemauan bersama. Aturan teknis adalah ranah peraturan pelaksana.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-016",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Fungsi dan Kedudukan",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut materi, Pancasila sebagai dasar negara berarti Pancasila dijadikan ...",
+    "opsi": {
+      "A": "acuan perilaku pribadi semata",
+      "B": "pengganti seluruh undang-undang",
+      "C": "pedoman bagi organisasi kemasyarakatan saja",
+      "D": "alat untuk memilih kepala daerah",
+      "E": "pijakan dan pedoman dalam mengatur dan menyelenggarakan negara dan pemerintahan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pancasila sebagai dasar negara adalah pijakan dan pedoman dalam mengatur dan menyelenggarakan negara dan pemerintahan.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-017",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Fungsi dan Kedudukan",
+    "tingkat": "sedang",
+    "pertanyaan": "Pernyataan \"sila-sila Pancasila saling menjiwai\" mengandung makna bahwa ...",
+    "opsi": {
+      "A": "hanya sila kelima yang menjiwai sila lainnya",
+      "B": "kelima sila merupakan kesatuan yang bulat dan tidak dapat dipisahkan",
+      "C": "urutan sila dapat diubah sesuai kebutuhan",
+      "D": "sila pertama dapat dilaksanakan tanpa sila lainnya",
+      "E": "setiap sila berdiri sendiri dan boleh dipilih"
+    },
+    "jawaban": "B",
+    "pembahasan": "Sila-sila Pancasila merupakan rangkaian kesatuan yang bulat, saling berkaitan, dan saling menjiwai.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-018",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Tujuan Pancasila",
+    "tingkat": "sedang",
+    "pertanyaan": "Rangkuman menyebut tujuan Pancasila adalah membentuk bangsa yang religius, adil secara sosial-ekonomi, menghargai HAM, demokratis, dan ...",
+    "opsi": {
+      "A": "otoriter",
+      "B": "liberal",
+      "C": "nasionalis",
+      "D": "sekuler",
+      "E": "individualis"
+    },
+    "jawaban": "C",
+    "pembahasan": "Tujuan Pancasila: bangsa yang religius, adil sosial-ekonomi, menghargai HAM, demokratis, dan nasionalis.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-019",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Rumusan Sila",
+    "tingkat": "mudah",
+    "pertanyaan": "Bunyi sila keempat Pancasila adalah ...",
+    "opsi": {
+      "A": "Kerakyatan yang Dipimpin oleh Musyawarah dan Mufakat dalam Perwakilan",
+      "B": "Keadilan Sosial bagi Seluruh Rakyat Indonesia",
+      "C": "Kedaulatan Rakyat yang Dipimpin oleh Hikmat Kebijaksanaan",
+      "D": "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan",
+      "E": "Kemanusiaan yang Adil dan Beradab"
+    },
+    "jawaban": "D",
+    "pembahasan": "Sila keempat berbunyi \"Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan\".",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-020",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Rumusan Sila",
+    "tingkat": "mudah",
+    "pertanyaan": "\"Persatuan Indonesia\" merupakan bunyi sila ke- ...",
+    "opsi": {
+      "A": "tiga",
+      "B": "lima",
+      "C": "dua",
+      "D": "empat",
+      "E": "satu"
+    },
+    "jawaban": "A",
+    "pembahasan": "Urutan sila: (1) Ketuhanan Yang Maha Esa, (2) Kemanusiaan yang Adil dan Beradab, (3) Persatuan Indonesia, (4) Kerakyatan..., (5) Keadilan Sosial.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-021",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Rumusan Sila",
+    "tingkat": "mudah",
+    "pertanyaan": "Bunyi sila kedua Pancasila yang tepat adalah ...",
+    "opsi": {
+      "A": "Perikemanusiaan yang Adil dan Beradab",
+      "B": "Kemanusiaan yang Beradab dan Berkeadilan",
+      "C": "Kemanusiaan yang Berdaulat dan Beradab",
+      "D": "Kemanusiaan yang Adil dan Makmur",
+      "E": "Kemanusiaan yang Adil dan Beradab"
+    },
+    "jawaban": "E",
+    "pembahasan": "Sila kedua berbunyi \"Kemanusiaan yang Adil dan Beradab\".",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-022",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Esensi Sila",
+    "tingkat": "sedang",
+    "pertanyaan": "Esensi pengamalan sila keempat Pancasila adalah ...",
+    "opsi": {
+      "A": "humanity (kemanusiaan)",
+      "B": "democracy (demokrasi)",
+      "C": "nationalism (nasionalisme)",
+      "D": "religion (agama)",
+      "E": "justice (keadilan)"
+    },
+    "jawaban": "B",
+    "pembahasan": "Esensi: sila 1 religion, sila 2 humanity, sila 3 nationalism, sila 4 democracy, sila 5 justice.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-023",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Esensi Sila",
+    "tingkat": "sedang",
+    "pertanyaan": "Nationalism (nasionalisme) merupakan esensi pengamalan sila ke- ...",
+    "opsi": {
+      "A": "empat",
+      "B": "dua",
+      "C": "lima",
+      "D": "tiga",
+      "E": "satu"
+    },
+    "jawaban": "D",
+    "pembahasan": "Nasionalisme adalah esensi sila ketiga, Persatuan Indonesia.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-024",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Esensi Sila",
+    "tingkat": "sedang",
+    "pertanyaan": "Humanity (kemanusiaan), termasuk penghormatan terhadap HAM, merupakan esensi sila ke- ...",
+    "opsi": {
+      "A": "empat",
+      "B": "satu",
+      "C": "dua",
+      "D": "lima",
+      "E": "tiga"
+    },
+    "jawaban": "C",
+    "pembahasan": "Humanity adalah esensi sila kedua; slide mengaitkannya dengan HAM dan hubungan manusia dengan manusia.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-025",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Esensi Sila",
+    "tingkat": "sedang",
+    "pertanyaan": "Justice (keadilan), yang menekankan keseimbangan antara hak dan kewajiban, merupakan esensi sila ke- ...",
+    "opsi": {
+      "A": "lima",
+      "B": "empat",
+      "C": "tiga",
+      "D": "dua",
+      "E": "satu"
+    },
+    "jawaban": "A",
+    "pembahasan": "Justice adalah esensi sila kelima; slide menekankan seimbang antara hak dan kewajiban.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-026",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Esensi Sila",
+    "tingkat": "mudah",
+    "pertanyaan": "Religion (agama), yang menyangkut Tuhan, agama, dan kepercayaan, merupakan esensi sila ke- ...",
+    "opsi": {
+      "A": "satu",
+      "B": "dua",
+      "C": "tiga",
+      "D": "lima",
+      "E": "empat"
+    },
+    "jawaban": "A",
+    "pembahasan": "Religion adalah esensi sila pertama, Ketuhanan Yang Maha Esa.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-027",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Pengamalan",
+    "tingkat": "sedang",
+    "pertanyaan": "Dalam rapat kerja Lapas, perbedaan pendapat tentang jadwal kegiatan diselesaikan dengan musyawarah hingga mencapai mufakat. Sikap ini merupakan pengamalan sila ke- ...",
+    "opsi": {
+      "A": "tiga",
+      "B": "empat",
+      "C": "lima",
+      "D": "satu",
+      "E": "dua"
+    },
+    "jawaban": "B",
+    "pembahasan": "Musyawarah mufakat adalah pengamalan nilai demokrasi, esensi sila keempat.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-028",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Pengamalan",
+    "tingkat": "mudah",
+    "pertanyaan": "Petugas menghormati warga binaan yang beribadah sesuai agamanya dan tidak memaksakan agama tertentu kepada orang lain. Sikap ini mencerminkan pengamalan sila ke- ...",
+    "opsi": {
+      "A": "lima",
+      "B": "tiga",
+      "C": "satu",
+      "D": "empat",
+      "E": "dua"
+    },
+    "jawaban": "C",
+    "pembahasan": "Saling menghormati antarumat beragama dan tidak memaksakan agama adalah pengamalan sila pertama (religion).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-029",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Pengamalan",
+    "tingkat": "sedang",
+    "pertanyaan": "Seorang pegawai bersedia ditempatkan di wilayah perbatasan karena cinta tanah air dan rela berkorban demi negara. Sikap ini mencerminkan esensi sila ke- ...",
+    "opsi": {
+      "A": "lima",
+      "B": "dua",
+      "C": "satu",
+      "D": "tiga",
+      "E": "empat"
+    },
+    "jawaban": "D",
+    "pembahasan": "Rela berkorban, cinta tanah air, dan bela negara termasuk nilai nasionalisme, esensi sila ketiga.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-030",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Pengamalan",
+    "tingkat": "sedang",
+    "pertanyaan": "Seorang ASN menuntut haknya atas tunjangan setelah melaksanakan seluruh kewajibannya dengan baik. Keseimbangan hak dan kewajiban ini merupakan wujud pengamalan sila ke- ...",
+    "opsi": {
+      "A": "dua",
+      "B": "tiga",
+      "C": "empat",
+      "D": "satu",
+      "E": "lima"
+    },
+    "jawaban": "E",
+    "pembahasan": "Seimbang antara hak dan kewajiban termasuk esensi keadilan (justice), yaitu sila kelima.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-031",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Pengamalan",
+    "tingkat": "sedang",
+    "pertanyaan": "Partisipasi warga negara dalam pemilihan umum merupakan perwujudan esensi sila ...",
+    "opsi": {
+      "A": "keempat (demokrasi)",
+      "B": "pertama (religion)",
+      "C": "kelima (keadilan)",
+      "D": "kedua (kemanusiaan)",
+      "E": "ketiga (nasionalisme)"
+    },
+    "jawaban": "A",
+    "pembahasan": "Slide mengaitkan pemilu, musyawarah, dan kekeluargaan dengan demokrasi, esensi sila keempat.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-032",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Pengamalan",
+    "tingkat": "sedang",
+    "pertanyaan": "Petugas Lapas tetap memperlakukan warga binaan secara manusiawi dan menghargai hak asasinya meskipun mereka sedang menjalani pidana. Sikap ini paling erat dengan sila ...",
+    "opsi": {
+      "A": "keempat",
+      "B": "ketiga",
+      "C": "pertama",
+      "D": "kelima",
+      "E": "kedua"
+    },
+    "jawaban": "E",
+    "pembahasan": "Penghargaan terhadap HAM dan hubungan manusia dengan manusia merupakan esensi humanity, sila kedua.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-033",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Pengamalan",
+    "tingkat": "sulit",
+    "pertanyaan": "Contoh pengamalan Pancasila berikut tercantum dalam rangkuman, KECUALI ...",
+    "opsi": {
+      "A": "menghargai karya orang lain",
+      "B": "mengutamakan kepentingan golongan dalam pengambilan keputusan",
+      "C": "saling menghormati antarumat beragama",
+      "D": "musyawarah untuk mencapai mufakat",
+      "E": "mengutamakan kepentingan umum"
+    },
+    "jawaban": "B",
+    "pembahasan": "Rangkuman menyebut contoh: menghormati antarumat beragama, tidak memaksakan kehendak, musyawarah mufakat, mengutamakan kepentingan umum, tidak diskriminatif, menghargai karya orang lain, serta hak dan kewajiban seimbang.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-034",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Lambang Negara",
+    "tingkat": "sedang",
+    "pertanyaan": "Jumlah bulu pada sayap Garuda Pancasila adalah ... helai, melambangkan tanggal proklamasi.",
+    "opsi": {
+      "A": "8",
+      "B": "19",
+      "C": "45",
+      "D": "17",
+      "E": "5"
+    },
+    "jawaban": "D",
+    "pembahasan": "Bulu sayap 17, ekor 8, pangkal ekor 19, dan leher 45 helai: melambangkan 17 Agustus 1945.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-035",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Lambang Negara",
+    "tingkat": "sedang",
+    "pertanyaan": "Jumlah bulu di leher dan pada ekor Garuda Pancasila secara berurutan adalah ...",
+    "opsi": {
+      "A": "45 dan 17",
+      "B": "8 dan 19",
+      "C": "45 dan 8",
+      "D": "17 dan 8",
+      "E": "19 dan 45"
+    },
+    "jawaban": "C",
+    "pembahasan": "Bulu leher berjumlah 45 helai dan bulu ekor 8 helai; bersama 17 helai sayap melambangkan 17-8-1945.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-036",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Lambang Negara",
+    "tingkat": "sedang",
+    "pertanyaan": "Jumlah bulu di pangkal ekor Garuda Pancasila adalah ... helai.",
+    "opsi": {
+      "A": "45",
+      "B": "19",
+      "C": "8",
+      "D": "17",
+      "E": "20"
+    },
+    "jawaban": "B",
+    "pembahasan": "Bulu pangkal ekor berjumlah 19 helai (dengan 45 helai leher melambangkan tahun 1945).",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-037",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Lambang Negara",
+    "tingkat": "mudah",
+    "pertanyaan": "Perisai pada lambang Garuda Pancasila melambangkan ...",
+    "opsi": {
+      "A": "perjuangan, pertahanan, dan perlindungan diri",
+      "B": "persatuan dalam keberagaman",
+      "C": "kedaulatan rakyat",
+      "D": "kekayaan alam Indonesia",
+      "E": "kejayaan dan keagungan bangsa"
+    },
+    "jawaban": "A",
+    "pembahasan": "Perisai adalah lambang pertahanan; melambangkan perjuangan, pertahanan, dan perlindungan diri. Warna emas melambangkan kejayaan.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-038",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Lambang Negara",
+    "tingkat": "mudah",
+    "pertanyaan": "Warna emas pada burung Garuda Pancasila melambangkan ...",
+    "opsi": {
+      "A": "keberanian",
+      "B": "perjuangan dan pertahanan",
+      "C": "kejayaan atau keagungan",
+      "D": "kemakmuran rakyat",
+      "E": "kesucian dan ketulusan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Slide materi menyebut warna emas melambangkan kejayaan/keagungan.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-039",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Lambang Negara",
+    "tingkat": "mudah",
+    "pertanyaan": "Semboyan Bhinneka Tunggal Ika pada lambang negara bermakna ...",
+    "opsi": {
+      "A": "rakyat berdaulat di negeri sendiri",
+      "B": "kerja sama untuk kemakmuran",
+      "C": "bersatu kita teguh, bercerai kita runtuh",
+      "D": "berbeda-beda tetapi tetap satu jua",
+      "E": "satu nusa, satu bangsa, satu bahasa"
+    },
+    "jawaban": "D",
+    "pembahasan": "Bhinneka Tunggal Ika artinya berbeda-beda tetapi tetap satu jua.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide P3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-040",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Fungsi dan Kedudukan",
+    "tingkat": "sulit",
+    "pertanyaan": "Pancasila disebut sebagai perjanjian luhur bangsa. Berdasarkan materi, istilah ini termasuk dalam kelompok ...",
+    "opsi": {
+      "A": "esensi sila kelima",
+      "B": "makna alinea keempat Pembukaan",
+      "C": "sumber hukum di bawah UUD",
+      "D": "tujuan Pancasila",
+      "E": "fungsi Pancasila"
+    },
+    "jawaban": "E",
+    "pembahasan": "Perjanjian luhur adalah salah satu dari delapan fungsi Pancasila menurut rangkuman.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "pancasila-041",
+    "kategori": "TWK",
+    "topik": "Pancasila",
+    "subtopik": "Sejarah Pengamalan",
+    "tingkat": "sedang",
+    "pertanyaan": "Pedoman Penghayatan dan Pengamalan Pancasila (P4) merupakan kebijakan bidang politik pada masa ...",
+    "opsi": {
+      "A": "Demokrasi Liberal",
+      "B": "Orde Lama",
+      "C": "Reformasi",
+      "D": "Orde Baru",
+      "E": "Demokrasi Terpimpin"
+    },
+    "jawaban": "D",
+    "pembahasan": "Slide Sejarah mencatat P4 sebagai kebijakan politik Orde Baru, bersama penyederhanaan parpol dan dwifungsi ABRI.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S7",
+    "di_luar_materi": false
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "id": "uud-001",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Sejarah UUD",
+    "tingkat": "mudah",
+    "pertanyaan": "Rancangan Pembukaan UUD yang disusun Panitia Sembilan pada 22 Juni 1945 dikenal sebagai ...",
+    "opsi": {
+      "A": "Naskah Proklamasi",
+      "B": "Manifesto Politik",
+      "C": "Piagam Jakarta",
+      "D": "Dekrit Presiden",
+      "E": "Maklumat X"
+    },
+    "jawaban": "C",
+    "pembahasan": "Panitia Sembilan menyusun rancangan pembukaan yang dikenal sebagai Piagam Jakarta pada 22 Juni 1945.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 UUD 1945",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-002",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Sejarah UUD",
+    "tingkat": "mudah",
+    "pertanyaan": "UUD 1945 disahkan oleh ... pada tanggal 18 Agustus 1945.",
+    "opsi": {
+      "A": "KNIP",
+      "B": "BPUPKI",
+      "C": "MPRS",
+      "D": "PPKI",
+      "E": "Panitia Sembilan"
+    },
+    "jawaban": "D",
+    "pembahasan": "UUD 1945 disahkan PPKI pada 18 Agustus 1945; BPUPKI merumuskan dasar negara.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-003",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Sejarah UUD",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut slide materi, UUD 1945 periode pertama berlaku dari 18 Agustus 1945 sampai ...",
+    "opsi": {
+      "A": "27 Desember 1949, saat berlaku Konstitusi RIS",
+      "B": "5 Juli 1959, saat Dekrit Presiden",
+      "C": "17 Agustus 1950, saat berlaku UUDS 1950",
+      "D": "21 Mei 1998, saat reformasi",
+      "E": "11 Maret 1966, saat Supersemar"
+    },
+    "jawaban": "A",
+    "pembahasan": "UUD 1945 berlaku 18 Agustus 1945–27 Desember 1949, kemudian diganti Konstitusi RIS hasil KMB.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-004",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Amandemen",
+    "tingkat": "mudah",
+    "pertanyaan": "UUD 1945 telah diamandemen sebanyak ... kali oleh MPR.",
+    "opsi": {
+      "A": "6",
+      "B": "4",
+      "C": "5",
+      "D": "3",
+      "E": "2"
+    },
+    "jawaban": "B",
+    "pembahasan": "MPR melakukan amandemen empat kali: 1999, 2000, 2001, dan 2002.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-005",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Amandemen",
+    "tingkat": "sedang",
+    "pertanyaan": "Amandemen pertama UUD 1945 dilaksanakan pada ...",
+    "opsi": {
+      "A": "7–18 Agustus 2000",
+      "B": "1–9 November 2001",
+      "C": "21 Mei 1998",
+      "D": "1–11 Agustus 2002",
+      "E": "14–21 Oktober 1999"
+    },
+    "jawaban": "E",
+    "pembahasan": "Amandemen I: 14–21 Okt 1999; II: 7–18 Agt 2000; III: 1–9 Nov 2001; IV: 1–11 Agt 2002.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-006",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Amandemen",
+    "tingkat": "sedang",
+    "pertanyaan": "Amandemen keempat UUD 1945 dilaksanakan pada ...",
+    "opsi": {
+      "A": "1–9 November 2001",
+      "B": "1–11 Agustus 2003",
+      "C": "14–21 Oktober 1999",
+      "D": "7–18 Agustus 2000",
+      "E": "1–11 Agustus 2002"
+    },
+    "jawaban": "E",
+    "pembahasan": "Amandemen keempat dilaksanakan 1–11 Agustus 2002.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-007",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Amandemen",
+    "tingkat": "sedang",
+    "pertanyaan": "Latar belakang amandemen UUD 1945 menurut rangkuman adalah sebagai berikut, KECUALI ...",
+    "opsi": {
+      "A": "kekuasaan presiden meliputi eksekutif dan legislatif",
+      "B": "kekuasaan presiden terlalu besar",
+      "C": "pasal-pasal terlalu fleksibel dan multitafsir",
+      "D": "Pembukaan UUD 1945 dianggap tidak lagi sesuai sehingga perlu diganti",
+      "E": "Penjelasan diperlakukan seperti pasal"
+    },
+    "jawaban": "D",
+    "pembahasan": "Latar belakang amandemen: kekuasaan presiden terlalu besar, pasal multitafsir, dan Penjelasan diperlakukan seperti pasal. Pembukaan tidak diubah karena merupakan pokok kaidah negara yang fundamental.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-008",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Amandemen",
+    "tingkat": "sedang",
+    "pertanyaan": "Sistematika UUD 1945 hasil amandemen menurut slide materi terdiri atas Pembukaan 4 alinea dan batang tubuh 16 bab, 37 pasal, serta ...",
+    "opsi": {
+      "A": "3 pasal aturan peralihan tanpa aturan tambahan",
+      "B": "4 pasal aturan peralihan dan 2 pasal aturan tambahan",
+      "C": "3 pasal aturan peralihan dan 2 pasal aturan tambahan",
+      "D": "2 pasal aturan peralihan dan 3 pasal aturan tambahan",
+      "E": "Penjelasan umum dan Penjelasan pasal demi pasal"
+    },
+    "jawaban": "C",
+    "pembahasan": "Hasil amandemen: Pembukaan 4 alinea; batang tubuh 16 bab, 37 pasal, 3 pasal aturan peralihan, dan 2 pasal aturan tambahan. Penjelasan tidak lagi menjadi bagian UUD.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U2; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-009",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pembukaan",
+    "tingkat": "sedang",
+    "pertanyaan": "Pembukaan UUD 1945 berkedudukan sebagai ...",
+    "opsi": {
+      "A": "pokok kaidah negara yang fundamental dan lebih tinggi dari batang tubuh",
+      "B": "bagian yang dapat diubah MPR setiap lima tahun",
+      "C": "dokumen sejarah yang tidak mengikat",
+      "D": "bagian yang setara dengan aturan peralihan",
+      "E": "penjelasan resmi atas pasal-pasal UUD"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pembukaan adalah pokok kaidah negara yang fundamental dan sumber hukum tertinggi, lebih tinggi dari batang tubuh.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-010",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pembukaan",
+    "tingkat": "sedang",
+    "pertanyaan": "Alinea pertama Pembukaan UUD 1945 mengungkapkan dalil objektif bahwa ...",
+    "opsi": {
+      "A": "negara Indonesia berbentuk republik",
+      "B": "penjajahan tidak sesuai dengan perikemanusiaan dan perikeadilan",
+      "C": "perjuangan telah sampai di depan pintu gerbang kemerdekaan",
+      "D": "kemerdekaan dicapai atas berkat rahmat Allah",
+      "E": "tujuan negara adalah mencerdaskan kehidupan bangsa"
+    },
+    "jawaban": "B",
+    "pembahasan": "Alinea I memuat dalil objektif (penjajahan tidak sesuai dengan perikemanusiaan dan perikeadilan) dan pernyataan subjektif (aspirasi bangsa membebaskan diri).",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-011",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pembukaan",
+    "tingkat": "sedang",
+    "pertanyaan": "Cita-cita nasional bangsa Indonesia, yaitu negara yang merdeka, bersatu, berdaulat, adil, dan makmur, tercantum dalam alinea ...",
+    "opsi": {
+      "A": "kedua",
+      "B": "keempat",
+      "C": "ketiga",
+      "D": "pertama",
+      "E": "pertama dan ketiga"
+    },
+    "jawaban": "A",
+    "pembahasan": "Alinea II menyebut perjuangan mengantarkan rakyat ke depan pintu gerbang kemerdekaan Negara Indonesia yang merdeka, bersatu, berdaulat, adil dan makmur.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U4; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-012",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pembukaan",
+    "tingkat": "sedang",
+    "pertanyaan": "Motivasi spiritual yang luhur dan pengukuhan atas proklamasi kemerdekaan termuat dalam alinea ...",
+    "opsi": {
+      "A": "keempat",
+      "B": "kedua",
+      "C": "pertama",
+      "D": "ketiga",
+      "E": "kedua dan keempat"
+    },
+    "jawaban": "D",
+    "pembahasan": "Alinea III (\"Atas berkat rahmat Allah Yang Maha Kuasa ...\") memuat motivasi spiritual dan pengukuhan proklamasi.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-013",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pembukaan",
+    "tingkat": "mudah",
+    "pertanyaan": "Tujuan negara (melindungi segenap bangsa, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, ikut melaksanakan ketertiban dunia) tercantum dalam alinea ...",
+    "opsi": {
+      "A": "ketiga",
+      "B": "penutup batang tubuh",
+      "C": "keempat",
+      "D": "pertama",
+      "E": "kedua"
+    },
+    "jawaban": "C",
+    "pembahasan": "Alinea IV memuat tujuan negara, bentuk kedaulatan rakyat, dan dasar negara Pancasila.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-014",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pembukaan",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini yang BUKAN merupakan tujuan negara dalam alinea keempat Pembukaan UUD 1945 adalah ...",
+    "opsi": {
+      "A": "ikut melaksanakan ketertiban dunia",
+      "B": "membentuk pemerintahan yang kuat dan terpusat",
+      "C": "mencerdaskan kehidupan bangsa",
+      "D": "melindungi segenap bangsa dan seluruh tumpah darah Indonesia",
+      "E": "memajukan kesejahteraan umum"
+    },
+    "jawaban": "B",
+    "pembahasan": "Empat tujuan negara pada alinea IV: melindungi, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-015",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pembukaan",
+    "tingkat": "sulit",
+    "pertanyaan": "Menurut slide materi, salah satu makna Pembukaan UUD 1945 adalah ...",
+    "opsi": {
+      "A": "dasar pembentukan pemerintahan daerah",
+      "B": "sumber kewenangan teknis lembaga negara",
+      "C": "pedoman teknis penyusunan anggaran negara",
+      "D": "aturan peralihan ketatanegaraan",
+      "E": "sumber cita hukum dan moral yang ingin ditegakkan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Makna Pembukaan: sumber motivasi dan tekad bangsa mencapai tujuan nasional, sumber cita hukum dan moral, serta mengandung nilai universal dan lestari.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-016",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pembukaan",
+    "tingkat": "sedang",
+    "pertanyaan": "Selain tujuan negara dan dasar negara, alinea keempat Pembukaan menurut rangkuman juga memuat ...",
+    "opsi": {
+      "A": "aturan peralihan",
+      "B": "daftar lembaga tinggi negara",
+      "C": "ketentuan masa jabatan presiden",
+      "D": "nama-nama anggota PPKI",
+      "E": "bentuk kedaulatan rakyat dan politik luar negeri bebas aktif"
+    },
+    "jawaban": "E",
+    "pembahasan": "Rangkuman menyebut alinea IV memuat tujuan negara, bentuk kedaulatan rakyat, dasar Pancasila, dan politik luar negeri bebas aktif.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-017",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "mudah",
+    "pertanyaan": "Bab IV UUD 1945 yang semula mengatur Dewan Pertimbangan Agung kini berstatus ...",
+    "opsi": {
+      "A": "dihapus",
+      "B": "dipindah ke aturan tambahan",
+      "C": "tetap berlaku",
+      "D": "digabung dengan Bab V",
+      "E": "diubah menjadi Bab tentang DPD"
+    },
+    "jawaban": "A",
+    "pembahasan": "Bab IV tentang Dewan Pertimbangan Agung dihapus melalui amandemen.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 tabel bab; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-018",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "mudah",
+    "pertanyaan": "Ketentuan tentang Kementerian Negara dalam UUD 1945 diatur pada ...",
+    "opsi": {
+      "A": "Bab VI Pasal 18",
+      "B": "Bab IV Pasal 16",
+      "C": "Bab III Pasal 4–16",
+      "D": "Bab V Pasal 17",
+      "E": "Bab VII Pasal 19"
+    },
+    "jawaban": "D",
+    "pembahasan": "Bab V Kementerian Negara mencakup Pasal 17.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-019",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "mudah",
+    "pertanyaan": "Bab XA UUD 1945 mengatur tentang ...",
+    "opsi": {
+      "A": "Warga Negara dan Penduduk (Pasal 26–28)",
+      "B": "Hak Asasi Manusia (Pasal 28A–28J)",
+      "C": "Agama (Pasal 29)",
+      "D": "Wilayah Negara (Pasal 25A)",
+      "E": "Pemilihan Umum (Pasal 22E)"
+    },
+    "jawaban": "B",
+    "pembahasan": "Bab XA HAM mencakup Pasal 28A sampai 28J; Bab X tentang Warga Negara dan Penduduk (Pasal 26–28).",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-020",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "sedang",
+    "pertanyaan": "Dewan Perwakilan Daerah (DPD) diatur dalam UUD 1945 pada ...",
+    "opsi": {
+      "A": "Bab VI Pasal 18–18B",
+      "B": "Bab VIIIA Pasal 23E–23G",
+      "C": "Bab VIIA Pasal 22C–22D",
+      "D": "Bab VIIB Pasal 22E",
+      "E": "Bab VII Pasal 19–22B"
+    },
+    "jawaban": "C",
+    "pembahasan": "Bab VIIA DPD mencakup Pasal 22C–22D; Bab VII DPR Pasal 19–22B.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-021",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "sedang",
+    "pertanyaan": "Pemilihan umum diatur dalam UUD 1945 pada ...",
+    "opsi": {
+      "A": "Bab VII Pasal 22B",
+      "B": "Bab VIII Pasal 23",
+      "C": "Bab VIIA Pasal 22C",
+      "D": "Bab VIIB Pasal 22E",
+      "E": "Bab III Pasal 6A"
+    },
+    "jawaban": "D",
+    "pembahasan": "Bab VIIB Pemilihan Umum terdiri atas Pasal 22E.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-022",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "sedang",
+    "pertanyaan": "Badan Pemeriksa Keuangan diatur dalam UUD 1945 pada ...",
+    "opsi": {
+      "A": "Bab XIV Pasal 33–34",
+      "B": "Bab VIIIA Pasal 23E–23G",
+      "C": "Bab VIII Pasal 23–23D",
+      "D": "Bab IX Pasal 24–25",
+      "E": "Bab VIIA Pasal 22C–22D"
+    },
+    "jawaban": "B",
+    "pembahasan": "Bab VIIIA BPK mencakup Pasal 23E–23G; Bab VIII Hal Keuangan Pasal 23–23D.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-023",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "sedang",
+    "pertanyaan": "Bab IXA UUD 1945 mengatur tentang ...",
+    "opsi": {
+      "A": "Pemerintahan Daerah (Pasal 18)",
+      "B": "Kekuasaan Kehakiman (Pasal 24–25)",
+      "C": "Wilayah Negara (Pasal 25A)",
+      "D": "Hal Keuangan (Pasal 23)",
+      "E": "Pertahanan dan Keamanan (Pasal 30)"
+    },
+    "jawaban": "C",
+    "pembahasan": "Bab IXA Wilayah Negara terdiri atas Pasal 25A.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-024",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "mudah",
+    "pertanyaan": "Agama diatur dalam UUD 1945 pada ...",
+    "opsi": {
+      "A": "Bab XII Pasal 30",
+      "B": "Bab XA Pasal 28E",
+      "C": "Bab X Pasal 27",
+      "D": "Bab XIII Pasal 31",
+      "E": "Bab XI Pasal 29"
+    },
+    "jawaban": "E",
+    "pembahasan": "Bab XI Agama terdiri atas Pasal 29.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-025",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "sedang",
+    "pertanyaan": "Perekonomian Nasional dan Kesejahteraan Sosial diatur dalam UUD 1945 pada ...",
+    "opsi": {
+      "A": "Bab XIV Pasal 33–34",
+      "B": "Bab XIII Pasal 31–32",
+      "C": "Bab XV Pasal 35–36C",
+      "D": "Bab XII Pasal 30",
+      "E": "Bab VIII Pasal 23–23D"
+    },
+    "jawaban": "A",
+    "pembahasan": "Bab XIV mencakup Pasal 33–34; Bab XIII Pendidikan dan Kebudayaan Pasal 31–32.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-026",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "sedang",
+    "pertanyaan": "Ketentuan tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan terdapat pada ...",
+    "opsi": {
+      "A": "Bab XIII Pasal 32",
+      "B": "Bab I Pasal 1",
+      "C": "Bab XIV Pasal 33–34",
+      "D": "Bab XVI Pasal 37",
+      "E": "Bab XV Pasal 35–36C"
+    },
+    "jawaban": "E",
+    "pembahasan": "Bab XV mencakup Pasal 35 sampai 36C.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-027",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "mudah",
+    "pertanyaan": "Tata cara perubahan Undang-Undang Dasar diatur pada ...",
+    "opsi": {
+      "A": "Bab XVI Pasal 37",
+      "B": "Aturan Peralihan",
+      "C": "Bab XV Pasal 36",
+      "D": "Aturan Tambahan",
+      "E": "Bab II Pasal 3"
+    },
+    "jawaban": "A",
+    "pembahasan": "Bab XVI Perubahan UUD terdiri atas Pasal 37.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-028",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "sedang",
+    "pertanyaan": "Pemerintahan Daerah diatur dalam UUD 1945 pada ...",
+    "opsi": {
+      "A": "Bab VII Pasal 19–22B",
+      "B": "Bab V Pasal 17",
+      "C": "Bab IXA Pasal 25A",
+      "D": "Bab VI Pasal 18–18B",
+      "E": "Bab X Pasal 26–28"
+    },
+    "jawaban": "D",
+    "pembahasan": "Bab VI Pemerintahan Daerah mencakup Pasal 18, 18A, dan 18B.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-029",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Struktur Bab",
+    "tingkat": "sedang",
+    "pertanyaan": "Kekuasaan Pemerintahan Negara (Presiden) diatur dalam UUD 1945 pada ...",
+    "opsi": {
+      "A": "Bab IV Pasal 16",
+      "B": "Bab V Pasal 17",
+      "C": "Bab III Pasal 4–16",
+      "D": "Bab III Pasal 4–7",
+      "E": "Bab II Pasal 2–3"
+    },
+    "jawaban": "C",
+    "pembahasan": "Bab III Kekuasaan Pemerintahan Negara mencakup Pasal 4 sampai 16.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-030",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "mudah",
+    "pertanyaan": "Pasal 1 ayat (1) UUD 1945 menyatakan bahwa Negara Indonesia ialah ...",
+    "opsi": {
+      "A": "Negara Serikat yang berbentuk Republik",
+      "B": "Negara Kesatuan yang berbentuk Republik",
+      "C": "Negara Kesatuan yang berbentuk Monarki Konstitusional",
+      "D": "Negara Republik yang berbentuk Kesatuan Daerah",
+      "E": "Negara Hukum yang berbentuk Federasi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 1 ayat (1): Negara Indonesia ialah Negara Kesatuan, yang berbentuk Republik.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-031",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut Pasal 1 ayat (2) UUD 1945, kedaulatan berada di tangan rakyat dan dilaksanakan ...",
+    "opsi": {
+      "A": "melalui partai politik",
+      "B": "menurut Undang-Undang Dasar",
+      "C": "oleh Presiden sebagai mandataris",
+      "D": "sepenuhnya oleh MPR",
+      "E": "oleh DPR dan DPD"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 1 ayat (2) hasil amandemen: kedaulatan berada di tangan rakyat dan dilaksanakan menurut UUD.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-032",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "mudah",
+    "pertanyaan": "Pasal 1 ayat (3) UUD 1945 menegaskan bahwa Negara Indonesia adalah ...",
+    "opsi": {
+      "A": "negara kekuasaan",
+      "B": "negara agama",
+      "C": "negara kepulauan",
+      "D": "negara serikat",
+      "E": "negara hukum"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 1 ayat (3): Negara Indonesia adalah negara hukum.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-033",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut Pasal 2 ayat (1) UUD 1945, MPR terdiri atas ...",
+    "opsi": {
+      "A": "anggota DPR yang diangkat Presiden",
+      "B": "anggota DPR dan utusan golongan",
+      "C": "anggota DPR dan anggota DPD yang dipilih melalui pemilihan umum",
+      "D": "anggota DPR, DPD, dan DPRD",
+      "E": "anggota DPD dan utusan daerah"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 2 ayat (1): MPR terdiri atas anggota DPR dan anggota DPD yang dipilih melalui pemilu.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-034",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut Pasal 2 UUD 1945, MPR bersidang ...",
+    "opsi": {
+      "A": "setiap kali diminta Presiden",
+      "B": "sedikitnya sekali setiap tahun di ibu kota negara",
+      "C": "dua kali dalam lima tahun",
+      "D": "sedikitnya sekali dalam lima tahun di ibu kota negara",
+      "E": "hanya ketika akan mengubah UUD"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 2 ayat (2): MPR bersidang sedikitnya sekali dalam lima tahun di ibu kota negara; ayat (3): putusan dengan suara terbanyak.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-035",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "sedang",
+    "pertanyaan": "Salah satu wewenang MPR menurut Pasal 3 UUD 1945 adalah ...",
+    "opsi": {
+      "A": "melantik Presiden dan/atau Wakil Presiden",
+      "B": "memilih Presiden dan Wakil Presiden",
+      "C": "menetapkan APBN setiap tahun",
+      "D": "menguji undang-undang terhadap UUD",
+      "E": "membentuk undang-undang bersama Presiden"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 3: MPR berwenang mengubah dan menetapkan UUD, melantik Presiden/Wapres, dan hanya dapat memberhentikan Presiden/Wapres menurut UUD. Presiden dipilih langsung oleh rakyat; pengujian UU oleh MK.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-036",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut Pasal 4 UUD 1945, dalam melakukan kewajibannya Presiden dibantu oleh ...",
+    "opsi": {
+      "A": "dua orang Wakil Presiden",
+      "B": "satu orang Wakil Presiden",
+      "C": "Dewan Pertimbangan Agung",
+      "D": "para menteri koordinator",
+      "E": "MPR"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 4 ayat (2): Presiden dibantu oleh satu orang Wakil Presiden.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-037",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "sedang",
+    "pertanyaan": "Kewenangan Presiden menetapkan peraturan pemerintah untuk menjalankan undang-undang diatur dalam ...",
+    "opsi": {
+      "A": "Pasal 5 ayat (2)",
+      "B": "Pasal 5 ayat (1)",
+      "C": "Pasal 7",
+      "D": "Pasal 4 ayat (1)",
+      "E": "Pasal 17 ayat (3)"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 5 ayat (1): Presiden berhak mengajukan RUU; ayat (2): Presiden menetapkan PP.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-038",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut Pasal 6 ayat (1) UUD 1945, calon Presiden dan calon Wakil Presiden harus ...",
+    "opsi": {
+      "A": "anggota partai politik paling lama 5 tahun",
+      "B": "WNI yang berusia minimal 40 tahun",
+      "C": "WNI yang pernah menjabat kepala daerah",
+      "D": "WNI yang telah tinggal di Indonesia minimal 10 tahun",
+      "E": "WNI sejak kelahirannya dan tidak pernah menerima kewarganegaraan lain karena kehendaknya sendiri"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 6 ayat (1) mensyaratkan WNI sejak kelahiran, tidak pernah menerima kewarganegaraan lain atas kehendak sendiri, tidak pernah mengkhianati negara, serta mampu jasmani dan rohani.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-039",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "sulit",
+    "pertanyaan": "Menurut Pasal 6A ayat (3), pasangan calon dilantik apabila memperoleh suara ...",
+    "opsi": {
+      "A": "lebih dari 50% di seluruh provinsi",
+      "B": "lebih dari 60% dengan sedikitnya 25% di setiap provinsi",
+      "C": "lebih dari 50% dengan sedikitnya 20% di setiap provinsi yang tersebar di lebih dari setengah jumlah provinsi",
+      "D": "sedikitnya 20% dari jumlah suara nasional",
+      "E": "terbanyak tanpa syarat sebaran provinsi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 6A ayat (3): lebih dari 50% suara dengan sedikitnya 20% di setiap provinsi yang tersebar di lebih dari setengah jumlah provinsi.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-040",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "sedang",
+    "pertanyaan": "Apabila tidak ada pasangan calon presiden yang memenuhi syarat terpilih, menurut Pasal 6A ayat (4) ...",
+    "opsi": {
+      "A": "DPR memilih presiden dari semua pasangan",
+      "B": "pemilu diulang dengan pasangan calon baru",
+      "C": "pasangan dengan suara terbanyak langsung dilantik",
+      "D": "dua pasangan dengan suara terbanyak pertama dan kedua dipilih langsung kembali oleh rakyat",
+      "E": "MPR memilih salah satu dari dua pasangan teratas"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pasal 6A ayat (4): dua pasangan suara terbanyak pertama dan kedua dipilih oleh rakyat secara langsung; pemenang dilantik.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-041",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "mudah",
+    "pertanyaan": "Pasangan calon Presiden dan Wakil Presiden menurut Pasal 6A ayat (2) diusulkan oleh ...",
+    "opsi": {
+      "A": "partai politik atau gabungan partai politik peserta pemilu",
+      "B": "Komisi Pemilihan Umum",
+      "C": "MPR",
+      "D": "perseorangan dengan dukungan KTP",
+      "E": "DPR dan DPD"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pasal 6A ayat (2): diusulkan oleh partai politik atau gabungan partai politik peserta pemilu sebelum pelaksanaan pemilu.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-042",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "mudah",
+    "pertanyaan": "Menurut Pasal 7 UUD 1945, Presiden dan Wakil Presiden memegang jabatan selama ...",
+    "opsi": {
+      "A": "tujuh tahun tanpa dapat dipilih kembali",
+      "B": "lima tahun dan dapat dipilih kembali dua kali masa jabatan",
+      "C": "lima tahun dan dapat dipilih kembali dalam jabatan yang sama hanya untuk satu kali masa jabatan",
+      "D": "empat tahun dan dapat dipilih kembali dua kali",
+      "E": "lima tahun dan dapat dipilih kembali tanpa batas"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pasal 7: masa jabatan lima tahun dan sesudahnya dapat dipilih kembali hanya untuk satu kali masa jabatan.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-043",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "sedang",
+    "pertanyaan": "Alasan pemberhentian Presiden menurut Pasal 7A UUD 1945 adalah sebagai berikut, KECUALI ...",
+    "opsi": {
+      "A": "pengkhianatan terhadap negara",
+      "B": "tindak pidana berat lainnya atau perbuatan tercela",
+      "C": "korupsi atau penyuapan",
+      "D": "tidak lagi memenuhi syarat sebagai Presiden",
+      "E": "kalah dalam pemilihan kepala daerah yang diikuti keluarganya"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 7A: pengkhianatan terhadap negara, korupsi, penyuapan, tindak pidana berat lainnya, perbuatan tercela, atau tidak lagi memenuhi syarat.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-044",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "sedang",
+    "pertanyaan": "Menurut Pasal 7B, sebelum mengajukan usul pemberhentian Presiden kepada MPR, DPR harus terlebih dahulu mengajukan permintaan kepada ...",
+    "opsi": {
+      "A": "Komisi Yudisial",
+      "B": "Mahkamah Konstitusi",
+      "C": "Badan Pemeriksa Keuangan",
+      "D": "Dewan Perwakilan Daerah",
+      "E": "Mahkamah Agung"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pasal 7B ayat (1): usul DPR diajukan dengan terlebih dahulu meminta MK memeriksa, mengadili, dan memutus pendapat DPR.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-045",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "sulit",
+    "pertanyaan": "Menurut Pasal 7B ayat (7), keputusan MPR atas usul pemberhentian Presiden diambil dalam rapat paripurna yang ...",
+    "opsi": {
+      "A": "dihadiri sekurang-kurangnya 2/3 anggota dan disetujui 2/3 anggota yang hadir",
+      "B": "dihadiri sekurang-kurangnya 1/2 anggota dan disetujui 3/4 anggota yang hadir",
+      "C": "dihadiri sekurang-kurangnya 2/3 anggota dan disetujui 1/2 anggota yang hadir",
+      "D": "dihadiri sekurang-kurangnya 3/4 anggota dan disetujui sekurang-kurangnya 2/3 anggota yang hadir",
+      "E": "dihadiri seluruh anggota dan disetujui suara terbanyak"
+    },
+    "jawaban": "D",
+    "pembahasan": "Slide materi merangkum ayat (7) dengan kata kunci \"dihadiri 3/4, disetujui 2/3\". Kuorum 2/3 hadir dan 2/3 setuju berlaku pada tahap DPR (ayat 3).",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-046",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Pasal-Pasal",
+    "tingkat": "sulit",
+    "pertanyaan": "Pendapat DPR bahwa Presiden telah melanggar hukum, menurut Pasal 7B ayat (2), merupakan pelaksanaan fungsi DPR di bidang ...",
+    "opsi": {
+      "A": "legislasi",
+      "B": "yudikasi",
+      "C": "anggaran",
+      "D": "representasi",
+      "E": "pengawasan"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pasal 7B ayat (2): pendapat DPR itu dalam rangka pelaksanaan fungsi pengawasan DPR.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-047",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Lembaga Negara",
+    "tingkat": "sedang",
+    "pertanyaan": "Sebelum amandemen UUD 1945, lembaga yang berkedudukan sebagai lembaga tertinggi negara adalah ...",
+    "opsi": {
+      "A": "DPR",
+      "B": "MPR",
+      "C": "Dewan Pertimbangan Agung",
+      "D": "Mahkamah Agung",
+      "E": "Presiden"
+    },
+    "jawaban": "B",
+    "pembahasan": "Sebelum amandemen, MPR adalah lembaga tertinggi; lembaga tinggi lain: DPR, Presiden, DPA, MA, BPK.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-048",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Lembaga Negara",
+    "tingkat": "sedang",
+    "pertanyaan": "Setelah amandemen UUD 1945, lembaga yang termasuk kekuasaan yudikatif adalah ...",
+    "opsi": {
+      "A": "Presiden dan Wakil Presiden",
+      "B": "MPR, DPR, dan DPD",
+      "C": "MK, BPK, dan DPD",
+      "D": "MA, MK, dan KY",
+      "E": "BPK dan MA"
+    },
+    "jawaban": "D",
+    "pembahasan": "Setelah amandemen: legislatif MPR/DPR/DPD; eksekutif Presiden; yudikatif MA, MK, KY; eksaminatif BPK.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-049",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Lembaga Negara",
+    "tingkat": "sedang",
+    "pertanyaan": "Setelah amandemen, BPK dikelompokkan sebagai lembaga negara di bidang ...",
+    "opsi": {
+      "A": "eksaminatif",
+      "B": "legislatif",
+      "C": "eksekutif",
+      "D": "yudikatif",
+      "E": "konsultatif"
+    },
+    "jawaban": "A",
+    "pembahasan": "Rangkuman mengelompokkan BPK sebagai lembaga eksaminatif.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "uud-050",
+    "kategori": "TWK",
+    "topik": "UUD 1945",
+    "subtopik": "Lembaga Negara",
+    "tingkat": "sulit",
+    "pertanyaan": "Lembaga negara berikut diatur dalam UUD 1945 hasil amandemen, KECUALI ...",
+    "opsi": {
+      "A": "Dewan Perwakilan Daerah",
+      "B": "Komisi Yudisial",
+      "C": "Dewan Pertimbangan Agung",
+      "D": "Mahkamah Konstitusi",
+      "E": "Badan Pemeriksa Keuangan"
+    },
+    "jawaban": "C",
+    "pembahasan": "DPA telah dihapus (Bab IV). Lembaga yang diatur: MPR, Presiden/Wapres, DPR, DPD, BPK, MA, MK, KY.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide U1; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1",
+    "di_luar_materi": false
+  }
+]

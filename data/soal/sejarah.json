@@ -1,0 +1,591 @@
+[
+  {
+    "id": "sejarah-001",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Pergerakan Nasional",
+    "tingkat": "mudah",
+    "pertanyaan": "Boedi Oetomo yang berdiri pada 20 Mei 1908 dipelopori oleh ...",
+    "opsi": {
+      "A": "Tjipto Mangoenkusumo",
+      "B": "Douwes Dekker",
+      "C": "H. Samanhudi",
+      "D": "dr. Wahidin Sudirohusodo",
+      "E": "Suwardi Suryaningrat"
+    },
+    "jawaban": "D",
+    "pembahasan": "Boedi Oetomo (20 Mei 1908) adalah organisasi sosial, ekonomi, dan budaya yang dipelopori dr. Wahidin Sudirohusodo.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-002",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Pergerakan Nasional",
+    "tingkat": "sedang",
+    "pertanyaan": "Organisasi yang disebut sebagai organisasi politik pertama di Indonesia dan didirikan oleh Douwes Dekker, Tjipto Mangoenkusumo, dan Suwardi Suryaningrat adalah ...",
+    "opsi": {
+      "A": "Partai Nasional Indonesia",
+      "B": "Indische Partij",
+      "C": "Sarekat Islam",
+      "D": "Perhimpunan Indonesia",
+      "E": "Boedi Oetomo"
+    },
+    "jawaban": "B",
+    "pembahasan": "Indische Partij (25 Desember 1912) adalah organisasi politik pertama, didirikan Tiga Serangkai.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S1",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-003",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Mempertahankan Kemerdekaan",
+    "tingkat": "sedang",
+    "pertanyaan": "Latar belakang pertempuran mempertahankan kemerdekaan setelah proklamasi adalah ...",
+    "opsi": {
+      "A": "Jepang menolak menyerah kepada Sekutu",
+      "B": "Belanda menyerahkan kedaulatan melalui KMB",
+      "C": "Sekutu akan mengambil alih wilayah bekas jajahan Jepang, termasuk Indonesia",
+      "D": "pembubaran Konstituante oleh Presiden",
+      "E": "PKI melakukan pemberontakan di Madiun"
+    },
+    "jawaban": "C",
+    "pembahasan": "Setelah Jepang menyerah terjadi vacuum of power, dan Sekutu berupaya mengambil alih wilayah bekas jajahan Jepang termasuk Indonesia.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-004",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Mempertahankan Kemerdekaan",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini yang BUKAN termasuk perundingan atau jalur diplomasi pada masa mempertahankan kemerdekaan adalah ...",
+    "opsi": {
+      "A": "Konferensi Meja Bundar",
+      "B": "Perundingan Linggarjati",
+      "C": "Perjanjian Roem-Royen",
+      "D": "Perundingan Renville",
+      "E": "Puputan Margarana"
+    },
+    "jawaban": "E",
+    "pembahasan": "Linggarjati, Renville, Roem-Royen, dan KMB adalah jalur diplomasi. Puputan Margarana adalah pertempuran fisik.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S1, S2",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-005",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Mempertahankan Kemerdekaan",
+    "tingkat": "sedang",
+    "pertanyaan": "Hasil Konferensi Meja Bundar (KMB) menjadikan Indonesia berbentuk ...",
+    "opsi": {
+      "A": "Republik Indonesia Serikat dengan sistem kabinet parlementer",
+      "B": "negara kesatuan dengan sistem presidensial",
+      "C": "negara persemakmuran Belanda",
+      "D": "negara kesatuan dengan UUDS 1950",
+      "E": "negara serikat dengan sistem presidensial"
+    },
+    "jawaban": "A",
+    "pembahasan": "Hasil KMB: Indonesia menjadi RIS dengan Konstitusi RIS dan sistem kabinet parlementer.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-006",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Konstitusi",
+    "tingkat": "sedang",
+    "pertanyaan": "Pada 17 Agustus 1950 Indonesia kembali menjadi negara kesatuan dan konstitusinya berubah menjadi ...",
+    "opsi": {
+      "A": "UUD 1945",
+      "B": "UUDS 1950",
+      "C": "Konstitusi RIS",
+      "D": "Dekrit Presiden",
+      "E": "Piagam Jakarta"
+    },
+    "jawaban": "B",
+    "pembahasan": "17 Agustus 1950: kembali menjadi negara kesatuan; konstitusi berubah dari Konstitusi RIS menjadi UUDS 1950.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S3",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-007",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Lama",
+    "tingkat": "sedang",
+    "pertanyaan": "Isi Dekrit Presiden 5 Juli 1959 adalah sebagai berikut, KECUALI ...",
+    "opsi": {
+      "A": "berlakunya kembali UUD 1945",
+      "B": "pembubaran Konstituante",
+      "C": "pembubaran Partai Komunis Indonesia",
+      "D": "tidak berlakunya UUDS 1950",
+      "E": "pembentukan MPRS dan DPAS"
+    },
+    "jawaban": "C",
+    "pembahasan": "Dekrit 5 Juli 1959: pembubaran Konstituante, tidak berlakunya UUDS 1950, berlakunya kembali UUD 1945, serta pembentukan MPRS dan DPAS. Pembubaran PKI terjadi 1966.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-008",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Lama",
+    "tingkat": "sedang",
+    "pertanyaan": "Masa Demokrasi Liberal (1950–1959) ditandai dengan ...",
+    "opsi": {
+      "A": "Dekrit Presiden dan Demokrasi Terpimpin",
+      "B": "berlakunya UUD 1945 dan sistem presidensial murni",
+      "C": "Repelita dan swasembada beras",
+      "D": "berlakunya UUDS 1950, sistem kabinet parlementer, dan tujuh kali pergantian kabinet",
+      "E": "dwifungsi ABRI dan penyederhanaan partai"
+    },
+    "jawaban": "D",
+    "pembahasan": "Demokrasi Liberal: UUDS 1950, kabinet parlementer, multipartai, konflik antarpartai, dan tujuh kali pergantian kabinet.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-009",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Lama",
+    "tingkat": "sulit",
+    "pertanyaan": "Kabinet pertama dan terakhir pada masa Demokrasi Liberal secara berurutan adalah ...",
+    "opsi": {
+      "A": "Kabinet Natsir dan Kabinet Djuanda",
+      "B": "Kabinet Wilopo dan Kabinet Burhanuddin Harahap",
+      "C": "Kabinet Sukiman dan Kabinet Ali Sastroamidjojo II",
+      "D": "Kabinet Natsir dan Kabinet Ali Sastroamidjojo II",
+      "E": "Kabinet Djuanda dan Kabinet Natsir"
+    },
+    "jawaban": "A",
+    "pembahasan": "Urutan: Natsir, Sukiman, Wilopo, Ali Sastroamidjojo I, Burhanuddin Harahap, Ali Sastroamidjojo II, dan Djuanda (Mar 1957–Jul 1959).",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S4",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-010",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Lama",
+    "tingkat": "sedang",
+    "pertanyaan": "Tri Komando Rakyat (Trikora) yang dikumandangkan Soekarno pada 19 Desember 1961 berkaitan dengan ...",
+    "opsi": {
+      "A": "penumpasan PKI Madiun",
+      "B": "pembubaran Konstituante",
+      "C": "pengembalian kedaulatan dari Belanda melalui KMB",
+      "D": "konfrontasi dengan Malaysia",
+      "E": "pembebasan Irian Barat (Papua Barat)"
+    },
+    "jawaban": "E",
+    "pembahasan": "Trikora berisi: gagalkan pembentukan negara Papua, kibarkan Merah Putih di Irian Barat, dan bersiap mobilisasi umum.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S4, S5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-011",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Lama",
+    "tingkat": "mudah",
+    "pertanyaan": "Nasakom sebagai upaya Soekarno menyatukan perbedaan ideologi politik merupakan singkatan dari ...",
+    "opsi": {
+      "A": "Nasional, Agama, Kemerdekaan",
+      "B": "Nasionalisme, Adat, Komunisme",
+      "C": "Nasionalisme, Agama, Komunisme",
+      "D": "Nasional, Sosialis, Komunis",
+      "E": "Nasionalisme, Agama, Kerakyatan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Nasakom adalah singkatan Nasionalisme, Agama, Komunisme.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-012",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Lama",
+    "tingkat": "sedang",
+    "pertanyaan": "Manipol USDEK merupakan doktrin politik pada masa Demokrasi Terpimpin. USDEK adalah singkatan dari ...",
+    "opsi": {
+      "A": "Undang-Undang, Sosialisme, Demokrasi, Ekonomi, Kebudayaan",
+      "B": "UUD Sementara, Sosialisme, Demokrasi Liberal, Ekonomi Terbuka, Kepribadian",
+      "C": "UUD 1945, Swasembada, Demokrasi Pancasila, Ekonomi Terpimpin, Kesatuan",
+      "D": "UUD 1945, Sosialisme Indonesia, Demokrasi Terpimpin, Ekonomi Terpimpin, Kepribadian Indonesia",
+      "E": "UUD 1945, Sosialisme Indonesia, Dekrit Presiden, Ekonomi Kerakyatan, Kedaulatan Indonesia"
+    },
+    "jawaban": "D",
+    "pembahasan": "USDEK: UUD 1945, Sosialisme Indonesia, Demokrasi Terpimpin, Ekonomi Terpimpin, dan Kepribadian Indonesia.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-013",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Lama",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini yang termasuk proyek mercusuar pada masa Orde Lama adalah ...",
+    "opsi": {
+      "A": "Taman Mini Indonesia Indah",
+      "B": "Jalan Tol Jagorawi",
+      "C": "Gedung Sate",
+      "D": "Bendungan Jatiluhur",
+      "E": "Monumen Nasional (Monas)"
+    },
+    "jawaban": "E",
+    "pembahasan": "Enam proyek mercusuar: Stadion GBK, Hotel Indonesia, Jembatan Semanggi, Monumen Selamat Datang, Monas, dan Gedung DPR/MPR.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S5",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-014",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Baru",
+    "tingkat": "mudah",
+    "pertanyaan": "Peristiwa yang menandai lahirnya Orde Baru adalah ...",
+    "opsi": {
+      "A": "Surat Perintah Sebelas Maret (11 Maret 1966)",
+      "B": "Peristiwa 30 September 1965",
+      "C": "Dekrit Presiden 5 Juli 1959",
+      "D": "Pemilu pertama tahun 1955",
+      "E": "Sidang Umum MPRS Maret 1968"
+    },
+    "jawaban": "A",
+    "pembahasan": "Supersemar 11 Maret 1966 berisi mandat Soekarno kepada Letjen Soeharto untuk memulihkan keadaan dan menandai lahirnya Orde Baru.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-015",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Baru",
+    "tingkat": "sedang",
+    "pertanyaan": "Isi Tritura (Tiga Tuntutan Rakyat) adalah ...",
+    "opsi": {
+      "A": "pembubaran PKI, pembebasan Irian Barat, dan nasionalisasi perusahaan asing",
+      "B": "pembubaran PKI, perombakan Kabinet Dwikora, dan penurunan harga",
+      "C": "pembubaran Konstituante, kembali ke UUD 1945, dan pembentukan MPRS",
+      "D": "turunkan harga sembako, hapus KKN, dan Soeharto mundur",
+      "E": "pencabutan dwifungsi ABRI, otonomi daerah, dan supremasi hukum"
+    },
+    "jawaban": "B",
+    "pembahasan": "Tritura: pembubaran PKI, perombakan Kabinet Dwikora, dan penurunan harga. Tuntutan \"hapus KKN\" adalah tuntutan reformasi 1998.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-016",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Baru",
+    "tingkat": "sedang",
+    "pertanyaan": "Sidang Umum MPRS yang mengukuhkan Letjen Soeharto sebagai Presiden RI berlangsung pada ...",
+    "opsi": {
+      "A": "11 Maret 1966",
+      "B": "21 Mei 1998",
+      "C": "1 Oktober 1965",
+      "D": "21–30 Maret 1968",
+      "E": "5 Juli 1959"
+    },
+    "jawaban": "D",
+    "pembahasan": "Sidang Umum MPRS 21–30 Maret 1968 mengukuhkan Soeharto menjadi Presiden.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-017",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Baru",
+    "tingkat": "sedang",
+    "pertanyaan": "Kebijakan bidang politik pada masa Orde Baru menurut materi adalah sebagai berikut, KECUALI ...",
+    "opsi": {
+      "A": "pemilihan presiden secara langsung oleh rakyat",
+      "B": "dwifungsi ABRI",
+      "C": "pembubaran PKI",
+      "D": "Pedoman Penghayatan dan Pengamalan Pancasila (P4)",
+      "E": "penyederhanaan partai politik"
+    },
+    "jawaban": "A",
+    "pembahasan": "Bidang politik Orde Baru: pembubaran PKI, penyederhanaan parpol, dwifungsi ABRI, dan P4. Pilpres langsung baru dimulai Pemilu 2004.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S7; Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 Sejarah",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-018",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Baru",
+    "tingkat": "mudah",
+    "pertanyaan": "Program pembangunan ekonomi utama masa Orde Baru yang disusun per lima tahun dikenal sebagai ...",
+    "opsi": {
+      "A": "Asta Cita",
+      "B": "Repelita",
+      "C": "Manipol",
+      "D": "Trikora",
+      "E": "Nawacita"
+    },
+    "jawaban": "B",
+    "pembahasan": "Orde Baru merancang Pembangunan Lima Tahun (Repelita) dan swasembada beras melalui Kabinet Pembangunan.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-019",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Baru",
+    "tingkat": "sedang",
+    "pertanyaan": "Hari Kesaktian Pancasila diperingati setiap tanggal ...",
+    "opsi": {
+      "A": "30 September",
+      "B": "11 Maret",
+      "C": "1 Juni",
+      "D": "18 Agustus",
+      "E": "1 Oktober"
+    },
+    "jawaban": "E",
+    "pembahasan": "Setelah peristiwa G30S/PKI, 1 Oktober diperingati sebagai Hari Kesaktian Pancasila.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S6",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-020",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Orde Baru",
+    "tingkat": "sedang",
+    "pertanyaan": "Rangkaian peristiwa yang mengakhiri pemerintahan Orde Baru diawali oleh ...",
+    "opsi": {
+      "A": "referendum Timor Timur tahun 1999",
+      "B": "Dekrit Presiden yang membubarkan DPR",
+      "C": "krisis ekonomi 1997 yang memicu hilangnya kepercayaan dan demonstrasi mahasiswa menuntut pemberantasan KKN",
+      "D": "pemberontakan PKI di Madiun",
+      "E": "kekalahan dalam Pemilu 1997"
+    },
+    "jawaban": "C",
+    "pembahasan": "Krisis ekonomi 1997 menyulitkan masyarakat, menghilangkan kepercayaan kepada pemerintah, dan memicu demonstrasi mahasiswa menuntut pemberantasan KKN.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S7",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-021",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Reformasi",
+    "tingkat": "mudah",
+    "pertanyaan": "Presiden Soeharto menyatakan berhenti dan digantikan B.J. Habibie pada tanggal ...",
+    "opsi": {
+      "A": "19 Mei 1998",
+      "B": "17 Mei 1998",
+      "C": "14 Mei 1998",
+      "D": "21 Mei 1998",
+      "E": "12 Mei 1998"
+    },
+    "jawaban": "D",
+    "pembahasan": "12 Mei Trisakti, 14–15 Mei kerusuhan, 17–19 Mei pendudukan DPR/MPR, 21 Mei 1998 Soeharto mundur.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 Sejarah; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-022",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Reformasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Peristiwa Trisakti, yaitu bentrokan mahasiswa dengan aparat yang menewaskan mahasiswa, terjadi pada ...",
+    "opsi": {
+      "A": "21 Mei 1998",
+      "B": "14 Mei 1998",
+      "C": "12 Mei 1998",
+      "D": "1 Mei 1998",
+      "E": "17 Mei 1998"
+    },
+    "jawaban": "C",
+    "pembahasan": "Peristiwa Trisakti terjadi 12 Mei 1998, disusul kerusuhan massal 14–15 Mei.",
+    "sumber": "Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-023",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Reformasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Pendudukan Gedung DPR/MPR oleh mahasiswa menjelang reformasi berlangsung pada ...",
+    "opsi": {
+      "A": "20–21 Mei 1998",
+      "B": "14–15 Mei 1998",
+      "C": "12–13 Mei 1998",
+      "D": "1–5 Juni 1998",
+      "E": "17–19 Mei 1998"
+    },
+    "jawaban": "E",
+    "pembahasan": "Mahasiswa menduduki Gedung DPR/MPR pada 17–19 Mei 1998.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-024",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Reformasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini yang BUKAN tuntutan gerakan reformasi 1998 menurut materi adalah ...",
+    "opsi": {
+      "A": "pembentukan negara federal",
+      "B": "pencabutan dwifungsi ABRI",
+      "C": "otonomi daerah",
+      "D": "penghapusan KKN",
+      "E": "penegakan supremasi hukum"
+    },
+    "jawaban": "A",
+    "pembahasan": "Tuntutan reformasi: turunkan harga sembako, hapus KKN, Soeharto mundur, pencabutan dwifungsi ABRI, otonomi daerah, dan supremasi hukum.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1; Transkrip slide materi (sumber/Materi_Slide_Drive.md) Slide S8",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-025",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Reformasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Kebijakan pada masa Presiden B.J. Habibie antara lain ...",
+    "opsi": {
+      "A": "program makan bergizi gratis",
+      "B": "referendum Timor Timur dan UU 40/1999 tentang Pers",
+      "C": "kebebasan perayaan Imlek dan pengakuan Konghucu",
+      "D": "pemilihan presiden langsung pertama",
+      "E": "pelunasan utang IMF"
+    },
+    "jawaban": "B",
+    "pembahasan": "Habibie (Kabinet Reformasi Pembangunan): referendum Timor Timur, UU 40/1999 tentang Pers, UU 9/1999 kebebasan berpendapat.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 Sejarah",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-026",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Reformasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Kebebasan merayakan Imlek dan kesetaraan agama Konghucu merupakan kebijakan pada masa pemerintahan ...",
+    "opsi": {
+      "A": "B.J. Habibie",
+      "B": "Abdurrahman Wahid",
+      "C": "Megawati Soekarnoputri",
+      "D": "Joko Widodo",
+      "E": "Susilo Bambang Yudhoyono"
+    },
+    "jawaban": "B",
+    "pembahasan": "Abdurrahman Wahid (Kabinet Persatuan Nasional) membuka kebebasan perayaan Imlek dan kesetaraan Konghucu.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 Sejarah",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-027",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Reformasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Kabinet pada masa Presiden Megawati Soekarnoputri adalah ...",
+    "opsi": {
+      "A": "Kabinet Gotong Royong",
+      "B": "Kabinet Reformasi Pembangunan",
+      "C": "Kabinet Persatuan Nasional",
+      "D": "Kabinet Kerja",
+      "E": "Kabinet Indonesia Bersatu"
+    },
+    "jawaban": "A",
+    "pembahasan": "Megawati: Kabinet Gotong Royong, amandemen UUD, dan pilpres langsung mulai Pemilu 2004.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 Sejarah",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-028",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Reformasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Pada masa Presiden Susilo Bambang Yudhoyono, Indonesia antara lain ...",
+    "opsi": {
+      "A": "melaksanakan referendum Timor Timur",
+      "B": "membentuk Kabinet Gotong Royong",
+      "C": "memulai Repelita",
+      "D": "meluncurkan program makan bergizi gratis",
+      "E": "masuk G-20, melunasi utang IMF, dan mengakhiri konflik Aceh"
+    },
+    "jawaban": "E",
+    "pembahasan": "SBY (2004–2014): Kabinet Indonesia Bersatu, masuk G-20, melunasi utang IMF, mengakhiri konflik Aceh, revitalisasi KPK, UU BPJS 24/2011.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 Sejarah",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-029",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Reformasi",
+    "tingkat": "mudah",
+    "pertanyaan": "Kabinet pada masa Presiden Prabowo Subianto (2024–2029) dinamakan ...",
+    "opsi": {
+      "A": "Kabinet Kerja",
+      "B": "Kabinet Indonesia Bersatu II",
+      "C": "Kabinet Merah Putih",
+      "D": "Kabinet Indonesia Maju",
+      "E": "Kabinet Persatuan Nasional"
+    },
+    "jawaban": "C",
+    "pembahasan": "Prabowo Subianto: Kabinet Merah Putih dengan program antara lain makan bergizi gratis.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 Sejarah",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-030",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Reformasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Undang-undang tentang BPJS (UU 24/2011) disahkan pada masa pemerintahan ...",
+    "opsi": {
+      "A": "Abdurrahman Wahid",
+      "B": "B.J. Habibie",
+      "C": "Joko Widodo",
+      "D": "Susilo Bambang Yudhoyono",
+      "E": "Megawati Soekarnoputri"
+    },
+    "jawaban": "D",
+    "pembahasan": "Rangkuman mencantumkan UU BPJS 24/2011 sebagai capaian masa SBY.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 Sejarah",
+    "di_luar_materi": false
+  },
+  {
+    "id": "sejarah-031",
+    "kategori": "TWK",
+    "topik": "Sejarah Indonesia",
+    "subtopik": "Reformasi",
+    "tingkat": "sedang",
+    "pertanyaan": "Pemilihan presiden secara langsung oleh rakyat untuk pertama kalinya dilaksanakan pada Pemilu ...",
+    "opsi": {
+      "A": "2009",
+      "B": "2004",
+      "C": "1998",
+      "D": "1999",
+      "E": "2014"
+    },
+    "jawaban": "B",
+    "pembahasan": "Rangkuman: pada masa Megawati, pilpres langsung mulai diberlakukan pada Pemilu 2004.",
+    "sumber": "Rangkuman Ujian Dinas & UPKP (sumber/Rangkuman_Ujian_Dinas_UPKP_dan_ORTALA_Kemenimipas.md) §B.1 Sejarah",
+    "di_luar_materi": false
+  }
+]
