@@ -84,8 +84,8 @@
     "pertanyaan": "Menurut Bab V Renstra, Renstra Kemenimipas 2025–2029 disusun sesuai ketentuan ...",
     "opsi": {
       "A": "Perpres Nomor 157 Tahun 2024",
-      "B": "UU Nomor 59 Tahun 2024 tentang RPJPN",
-      "C": "Permen PANRB Nomor 89 Tahun 2021",
+      "B": "UU Nomor 59 Tahun 2024 tentang RPJPN 2025–2045",
+      "C": "Permen PANRB Nomor 89 Tahun 2021 tentang Penjenjangan Kinerja",
       "D": "PP Nomor 17 Tahun 2020",
       "E": "Perpres Nomor 80 Tahun 2025 tentang Penyusunan Renstra dan Renja K/L"
     },
@@ -159,10 +159,10 @@
     "tingkat": "sulit",
     "pertanyaan": "Berdasarkan misi pembangunan Indonesia Emas 2045, Kemenimipas mendapat mandat mendukung ...",
     "opsi": {
-      "A": "Misi 5 Ketahanan Sosial Budaya dan Misi 7 Pembangunan Kewilayahan",
+      "A": "Misi 5 Ketahanan Sosial Budaya dan Ekologi serta Misi 7 Pembangunan Kewilayahan",
       "B": "Misi 1 Transformasi Sosial dan Misi 2 Transformasi Ekonomi",
       "C": "Misi 3 Transformasi Tata Kelola dan Misi 4 Supremasi Hukum, Stabilitas, dan Kepemimpinan Indonesia",
-      "D": "Misi 2 Transformasi Ekonomi dan Misi 3 Transformasi Tata Kelola",
+      "D": "Misi 2 Transformasi Ekonomi dan Misi 3 Transformasi Tata Kelola Pemerintahan",
       "E": "Misi 4 Supremasi Hukum dan Misi 5 Ketahanan Sosial Budaya"
     },
     "jawaban": "C",
@@ -180,9 +180,9 @@
     "opsi": {
       "A": "fokus pelaksanaan RPJPN tahap I pada lima tahun pertama",
       "B": "dokumen evaluasi akhir RPJPN",
-      "C": "rencana strategis Bappenas",
+      "C": "rencana strategis Bappenas untuk mengevaluasi seluruh kementerian",
       "D": "rencana kerja tahunan pemerintah",
-      "E": "dokumen pengganti RPJPN untuk lima tahun"
+      "E": "dokumen pengganti RPJPN yang berlaku selama lima tahun pertama"
     },
     "jawaban": "A",
     "pembahasan": "Arahan RPJPN diturunkan melalui RPJMN 2025–2029 yang menjadi fokus pelaksanaan RPJPN Tahap I (lima tahun pertama).",
@@ -235,9 +235,9 @@
     "tingkat": "mudah",
     "pertanyaan": "Asta Cita 7 yang menjadi pijakan Misi 2 Kemenimipas berisi ...",
     "opsi": {
-      "A": "memperkuat pembangunan SDM, sains, teknologi, dan pendidikan",
+      "A": "memperkuat pembangunan SDM, sains, teknologi, pendidikan, kesehatan, dan prestasi olahraga",
       "B": "memperkokoh ideologi Pancasila, demokrasi, dan HAM",
-      "C": "membangun dari desa dan dari bawah untuk pemerataan ekonomi",
+      "C": "membangun dari desa dan dari bawah untuk pemerataan ekonomi dan pemberantasan kemiskinan",
       "D": "memperkuat reformasi politik, hukum, dan birokrasi, serta pencegahan dan pemberantasan korupsi dan narkoba",
       "E": "melanjutkan hilirisasi dan industrialisasi"
     },
@@ -388,10 +388,10 @@
     "pertanyaan": "Dalam penjabaran visi, Kemenimipas berorientasi menjadi institusi berkelas dunia (world-class institution). Orientasi ini diwujudkan melalui ...",
     "opsi": {
       "A": "penambahan jumlah UPT di seluruh kabupaten/kota",
-      "B": "peningkatan PNBP dan efisiensi belanja pegawai",
+      "B": "peningkatan PNBP keimigrasian dan efisiensi belanja pegawai di seluruh unit pelaksana teknis",
       "C": "penggabungan kembali dengan Kementerian Hukum",
       "D": "transformasi kelembagaan, digitalisasi layanan, penguatan SDM, serta kolaborasi lintas sektor dan internasional",
-      "E": "pembentukan perwakilan imigrasi di seluruh negara"
+      "E": "pembentukan kantor perwakilan imigrasi di seluruh negara dan penambahan UPT di setiap kabupaten"
     },
     "jawaban": "D",
     "pembahasan": "Renstra §2.1 menyebut orientasi menjadi institusi terbaik di kawasan diwujudkan melalui transformasi kelembagaan, digitalisasi layanan, penguatan SDM, dan kolaborasi lintas sektor dan internasional.",
@@ -445,9 +445,9 @@
     "pertanyaan": "Dalam konteks keimigrasian, Misi 1 diwujudkan antara lain melalui fungsi penegakan hukum yang meliputi ...",
     "opsi": {
       "A": "pemberian dan penolakan izin masuk dan izin tinggal, penyelesaian pelanggaran, tindakan administratif/pro justitia, penyidikan hingga deportasi",
-      "B": "pembinaan kepribadian dan kemandirian warga binaan",
+      "B": "pembinaan kepribadian dan kemandirian warga binaan serta pembimbingan klien pemasyarakatan di Bapas",
       "C": "penelitian kemasyarakatan pada tahap praadjudikasi",
-      "D": "penyusunan laporan keuangan Ditjen Imigrasi",
+      "D": "penyusunan laporan keuangan, pengelolaan PNBP, dan penatausahaan barang milik negara Ditjen Imigrasi",
       "E": "pengembangan kurikulum diklat teknis keimigrasian"
     },
     "jawaban": "A",
@@ -521,10 +521,10 @@
     "pertanyaan": "Tujuan 1 Kemenimipas adalah meningkatkan kualitas penegakan dan pelayanan hukum bidang keimigrasian dan pemasyarakatan dalam rangka ...",
     "opsi": {
       "A": "mempercepat pembentukan UPT baru",
-      "B": "menurunkan jumlah penghuni Lapas dan Rutan",
+      "B": "menurunkan jumlah penghuni Lapas dan Rutan serta mempercepat pembangunan UPT baru",
       "C": "membangun institusi pendidikan kedinasan",
       "D": "menjaga tegaknya kedaulatan negara serta mewujudkan reintegrasi sosial",
-      "E": "meningkatkan penerimaan negara bukan pajak"
+      "E": "meningkatkan penerimaan negara bukan pajak dari layanan keimigrasian dan pemasyarakatan"
     },
     "jawaban": "D",
     "pembahasan": "Tujuan 1: meningkatkan kualitas penegakan dan pelayanan hukum ... dalam rangka menjaga tegaknya kedaulatan negara serta mewujudkan reintegrasi sosial.",
@@ -578,10 +578,10 @@
     "pertanyaan": "Dua sasaran strategis Kemenimipas dipetakan dalam balanced scorecard (BSC). Empat perspektif BSC yang dipakai adalah ...",
     "opsi": {
       "A": "ekonomi; sosial; politik; budaya",
-      "B": "input; proses; output; outcome",
+      "B": "input; proses; output; outcome; dan dampak bagi masyarakat",
       "C": "keuangan; pemangku kepentingan dan layanan; proses bisnis internal; pembelajaran dan perkembangan",
       "D": "kualitas; kuantitas; waktu; biaya",
-      "E": "perencanaan; pelaksanaan; pengawasan; evaluasi"
+      "E": "perencanaan; pelaksanaan; pengawasan; dan evaluasi program kerja"
     },
     "jawaban": "C",
     "pembahasan": "Renstra §2.4.1 memetakan SS dalam empat perspektif BSC: keuangan, pemangku kepentingan dan layanan, proses bisnis internal, serta pembelajaran dan perkembangan.",
@@ -635,9 +635,9 @@
     "pertanyaan": "Menurut Renstra, Ditjen Pemasyarakatan berupaya meningkatkan PNBP potensial yang berasal dari ...",
     "opsi": {
       "A": "pelayanan kesehatan rumah sakit dan sumber penerimaan potensial lainnya",
-      "B": "biaya kunjungan keluarga warga binaan",
+      "B": "biaya kunjungan keluarga warga binaan dan penjualan hasil karya di Lapas",
       "C": "penjualan Golden Visa",
-      "D": "denda overstay warga negara asing",
+      "D": "denda overstay warga negara asing dan biaya penerbitan izin tinggal",
       "E": "penerbitan paspor elektronik"
     },
     "jawaban": "A",
@@ -672,11 +672,11 @@
     "tingkat": "sulit",
     "pertanyaan": "Kinerja strategis sektor pertama (penegakan hukum dan pelayanan) pada pohon kinerja Kemenimipas diturunkan menjadi tiga kinerja strategis subsektor. Salah satunya adalah ...",
     "opsi": {
-      "A": "meningkatnya pembinaan dan pemberian dukungan administrasi",
+      "A": "meningkatnya pembinaan dan pemberian dukungan administrasi kepada seluruh unit organisasi kementerian",
       "B": "meningkatnya kompetensi SDM imigrasi dan pemasyarakatan",
       "C": "terwujudnya pemenuhan hak bagi tahanan, anak, dan warga binaan guna terciptanya warga binaan yang siap bermasyarakat",
       "D": "meningkatnya kualitas pengawasan intern",
-      "E": "meningkatnya penerapan reformasi birokrasi di lingkungan Ditjen"
+      "E": "meningkatnya penerapan reformasi birokrasi di lingkungan Direktorat Jenderal Imigrasi dan Pemasyarakatan"
     },
     "jawaban": "C",
     "pembahasan": "Tiga subsektor pohon kinerja 1: penegakan hukum keimigrasian, kualitas layanan keimigrasian, dan pemenuhan hak tahanan/anak/warga binaan. Opsi lain termasuk ranah tata kelola (pohon kinerja 2).",
@@ -712,9 +712,9 @@
     "opsi": {
       "A": "kasus peredaran narkoba di dalam Lapas, Rutan, dan LPKA",
       "B": "bencana alam di wilayah perbatasan",
-      "C": "rendahnya PNBP keimigrasian",
+      "C": "rendahnya PNBP keimigrasian akibat turunnya jumlah pemohon paspor",
       "D": "keterlambatan pembayaran gaji pegawai",
-      "E": "kebocoran data paspor"
+      "E": "kebocoran data paspor dan izin tinggal pada sistem informasi keimigrasian"
     },
     "jawaban": "A",
     "pembahasan": "Indikasi risiko SS1 berjumlah 13, dimulai dari kasus peredaran narkoba di Lapas, Rutan, dan LPKA.",
@@ -748,9 +748,9 @@
     "tingkat": "sedang",
     "pertanyaan": "Untuk mengatasi risiko rendahnya kualitas layanan kesehatan di Lapas/Rutan, Renstra merencanakan ...",
     "opsi": {
-      "A": "pengalihan seluruh layanan kesehatan ke BPJS",
+      "A": "pengalihan seluruh layanan kesehatan warga binaan kepada BPJS Kesehatan dan puskesmas",
       "B": "revitalisasi poliklinik Lapas/Rutan menjadi Klinik Pratama beserta akreditasinya",
-      "C": "pembangunan rumah sakit di setiap kabupaten",
+      "C": "pembangunan rumah sakit pengayoman baru di setiap kabupaten/kota seluruh Indonesia",
       "D": "penghapusan tenaga medis internal",
       "E": "pembebasan bersyarat bagi seluruh narapidana sakit"
     },
@@ -825,10 +825,10 @@
     "pertanyaan": "Arah Kebijakan 3 Kemenimipas adalah pengembangan SDM yang ...",
     "opsi": {
       "A": "sehat, cerdas, dan berdaya saing",
-      "B": "berakhlak, harmonis, dan kolaboratif",
+      "B": "berakhlak, harmonis, kolaboratif, dan berorientasi pada pelayanan",
       "C": "kompeten, loyal, dan adaptif",
       "D": "berintegritas, profesional, humanis, dan berwawasan global",
-      "E": "modern, terintegrasi, dan akuntabel"
+      "E": "modern, terintegrasi, akuntabel, dan berbasis teknologi informasi"
     },
     "jawaban": "D",
     "pembahasan": "AK3: Pengembangan SDM yang berintegritas, profesional, humanis dan berwawasan global.",
@@ -900,10 +900,10 @@
     "tingkat": "sedang",
     "pertanyaan": "Strategi \"memperkuat kualitas kebijakan dan produk hukum imigrasi dan pemasyarakatan berbasis bukti (evidence-based policy)\" termasuk dalam ...",
     "opsi": {
-      "A": "Arah Kebijakan 3 (pengembangan SDM)",
+      "A": "Arah Kebijakan 3 (pengembangan SDM yang berintegritas dan profesional)",
       "B": "Arah Kebijakan 4 (tata kelola yang akuntabel, transparan, dan berkeadilan)",
       "C": "Misi 1",
-      "D": "Arah Kebijakan 1 (penegakan hukum)",
+      "D": "Arah Kebijakan 1 (peningkatan kualitas penegakan hukum yang berkeadilan)",
       "E": "Arah Kebijakan 2 (pelayanan publik)"
     },
     "jawaban": "B",
@@ -920,10 +920,10 @@
     "pertanyaan": "Strategi pembinaan kemandirian warga binaan dalam Arah Kebijakan 1 diarahkan agar ...",
     "opsi": {
       "A": "seluruh warga binaan bekerja di luar Lapas",
-      "B": "menggantikan pembinaan kepribadian sepenuhnya",
+      "B": "menggantikan pembinaan kepribadian sepenuhnya dengan kegiatan kerja produktif yang menghasilkan PNBP",
       "C": "menghasilkan PNBP terbesar bagi Kementerian",
       "D": "tersertifikasi dan berbasis kreativitas melalui kerja produktif, mendukung ekonomi hijau, dan membentuk warga binaan siap kerja",
-      "E": "diserahkan seluruhnya kepada pihak swasta"
+      "E": "diserahkan seluruhnya kepada pihak swasta melalui kerja sama tanpa pendampingan petugas pemasyarakatan"
     },
     "jawaban": "D",
     "pembahasan": "Strategi ke-8 AK1: pembinaan kemandirian yang tersertifikasi dan berbasis kreativitas melalui kerja produktif, mendukung ekonomi hijau, dan membentuk warga binaan siap kerja.",
@@ -938,9 +938,9 @@
     "tingkat": "sedang",
     "pertanyaan": "Unit yang menjadi pengampu Arah Kebijakan 1 (penegakan hukum) dan Arah Kebijakan 4 (tata kelola) menurut Gambar 3.5 Renstra adalah ...",
     "opsi": {
-      "A": "Setjen dan Itjen",
+      "A": "Sekretariat Jenderal dan Inspektorat Jenderal",
       "B": "seluruh unit Eselon I",
-      "C": "Itjen dan BPSDM",
+      "C": "Inspektorat Jenderal dan BPSDM saja",
       "D": "BPSDM dan Setjen",
       "E": "Ditjen Imigrasi dan Ditjen Pemasyarakatan"
     },
@@ -1014,8 +1014,8 @@
     "tingkat": "sedang",
     "pertanyaan": "Sasaran program BPSDM dalam Renstra 2025–2029 adalah ...",
     "opsi": {
-      "A": "Meningkatnya Kualitas Pengawasan Intern",
-      "B": "Meningkatnya Pembinaan dan Pemberian Dukungan Administrasi",
+      "A": "Meningkatnya Kualitas Pengawasan Intern Kementerian Imigrasi dan Pemasyarakatan",
+      "B": "Meningkatnya Pembinaan dan Pemberian Dukungan Administrasi Kementerian",
       "C": "Terwujudnya Pemenuhan Hak Warga Binaan",
       "D": "Meningkatnya Kompetensi Sumber Daya Manusia Bidang Imigrasi dan Pemasyarakatan",
       "E": "Meningkatnya Kualitas Layanan Keimigrasian"
@@ -1033,9 +1033,9 @@
     "tingkat": "sedang",
     "pertanyaan": "Sasaran program Ditjen Pemasyarakatan pada Program Penegakan dan Pelayanan Hukum adalah ...",
     "opsi": {
-      "A": "Terwujudnya Penegakan Hukum Keimigrasian",
+      "A": "Terwujudnya Penegakan Hukum Keimigrasian dan Meningkatnya Kualitas Layanan Keimigrasian",
       "B": "Meningkatnya PNBP Pemasyarakatan",
-      "C": "Menurunnya Tingkat Hunian Lapas dan Rutan",
+      "C": "Menurunnya Tingkat Hunian Lapas dan Rutan melalui Pembangunan UPT Pemasyarakatan Baru",
       "D": "Meningkatnya Kualitas Layanan Keimigrasian",
       "E": "Terwujudnya Pemenuhan Hak Tahanan, Anak, dan Warga Binaan guna Terciptanya Warga Binaan yang Siap Bermasyarakat"
     },
@@ -1242,10 +1242,10 @@
     "tingkat": "sulit",
     "pertanyaan": "Dalam kerangka kelembagaan Renstra, penguatan Inspektorat Jenderal direncanakan melalui pembentukan ...",
     "opsi": {
-      "A": "Inspektorat Wilayah V untuk wilayah timur",
+      "A": "Inspektorat Wilayah V yang khusus mengawasi kanwil dan UPT di wilayah timur",
       "B": "Direktorat Jenderal Pengawasan",
       "C": "Badan Pengawas Internal Pemasyarakatan",
-      "D": "Biro Investigasi di Sekretariat Jenderal",
+      "D": "Biro Investigasi pada Sekretariat Jenderal yang menangani pengaduan masyarakat",
       "E": "Inspektorat Khusus yang menangani investigasi serta penelitian dan pengembangan"
     },
     "jawaban": "E",
@@ -1357,8 +1357,8 @@
     "pertanyaan": "Renstra menilai periode 2025–2029 bagi Kemenimipas sebagai fase ...",
     "opsi": {
       "A": "konsolidasi dan penguatan kelembagaan",
-      "B": "ekspansi ke luar negeri",
-      "C": "pembubaran dan penggabungan",
+      "B": "ekspansi layanan ke luar negeri dan pembukaan perwakilan baru",
+      "C": "pembubaran unit lama dan penggabungan kembali dengan kementerian induk",
       "D": "stabilisasi anggaran",
       "E": "privatisasi layanan"
     },
@@ -1376,9 +1376,9 @@
     "pertanyaan": "Faktor eksternal yang disebut Renstra menuntut transformasi besar di bidang pemasyarakatan adalah ...",
     "opsi": {
       "A": "berakhirnya RPJPN 2005–2025 tanpa pengganti",
-      "B": "pembentukan Kemenko baru tahun 2026",
+      "B": "pembentukan kementerian koordinator baru yang membawahi pemasyarakatan tahun 2026",
       "C": "berlakunya KUHP baru (UU 1/2023) secara efektif pada 2026",
-      "D": "perubahan UUD 1945 tahun 2025",
+      "D": "perubahan kelima UUD 1945 tahun 2025 tentang kekuasaan kehakiman",
       "E": "penghapusan Lapas oleh pemerintah daerah"
     },
     "jawaban": "C",
@@ -1413,11 +1413,11 @@
     "tingkat": "sedang",
     "pertanyaan": "Peluang yang dicatat Renstra dari bergabungnya imigrasi dan pemasyarakatan dalam satu kementerian adalah ...",
     "opsi": {
-      "A": "peningkatan jumlah UPT secara otomatis",
+      "A": "peningkatan jumlah UPT imigrasi dan pemasyarakatan secara otomatis di setiap provinsi",
       "B": "penghapusan kebutuhan koordinasi dengan Polri",
       "C": "pembebasan narapidana asing tanpa proses hukum",
       "D": "kemudahan penyusunan kebijakan ekstradisi, deportasi, dan pemindahan narapidana antarnegara",
-      "E": "pengalihan kewenangan visa kepada Kemenlu"
+      "E": "pengalihan seluruh kewenangan penerbitan visa kepada Kementerian Luar Negeri"
     },
     "jawaban": "D",
     "pembahasan": "Satu kementerian memudahkan kebijakan ekstradisi, deportasi, dan pemindahan narapidana antarnegara, serta sinergi pengawasan narapidana asing.",
@@ -1433,10 +1433,10 @@
     "pertanyaan": "Masalah SDM yang dicatat Renstra pada masa transisi adalah ...",
     "opsi": {
       "A": "tidak ada pegawai di Kanwil",
-      "B": "seluruh pegawai belum memiliki NIP",
+      "B": "seluruh pegawai belum memiliki NIP karena berpindah dari Kementerian Hukum dan HAM",
       "C": "distribusi pegawai tidak merata: kekurangan di TPI dan Lapas, kelebihan di unit lain tanpa kebutuhan fungsional",
       "D": "jumlah pegawai Itjen melebihi Ditjen PAS",
-      "E": "kelebihan pegawai di seluruh Lapas"
+      "E": "kelebihan pegawai di seluruh Lapas, sedangkan TPI dan kantor imigrasi kelebihan anggaran"
     },
     "jawaban": "C",
     "pembahasan": "Renstra mencatat distribusi pegawai tidak merata dan aplikasi SIMPEG, SRIKANDI, dan STAR-ASN belum optimal pada masa transisi.",

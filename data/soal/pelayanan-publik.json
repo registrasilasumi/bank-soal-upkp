@@ -28,9 +28,9 @@
     "opsi": {
       "A": "bantuan sosial tunai",
       "B": "barang, jasa, dan/atau pelayanan administratif",
-      "C": "pelayanan administratif saja",
+      "C": "pelayanan administratif saja, tidak termasuk barang",
       "D": "pelayanan politik dan keamanan",
-      "E": "barang dan jasa komersial saja"
+      "E": "barang dan jasa komersial yang dijual pemerintah"
     },
     "jawaban": "B",
     "pembahasan": "Pelayanan publik adalah kegiatan pemenuhan kebutuhan pelayanan sesuai peraturan atas barang, jasa, dan/atau pelayanan administratif.",
@@ -83,9 +83,9 @@
     "tingkat": "sedang",
     "pertanyaan": "Pembina dan perumus kebijakan pelayanan publik secara nasional adalah ...",
     "opsi": {
-      "A": "Kepala Badan Pemeriksa Keuangan",
+      "A": "Kepala Badan Pemeriksa Keuangan sebagai pemeriksa eksternal",
       "B": "Menteri Dalam Negeri",
-      "C": "Ketua Ombudsman RI",
+      "C": "Ketua Ombudsman RI sebagai pengawas pelayanan publik",
       "D": "menteri yang bertanggung jawab di bidang pendayagunaan aparatur negara",
       "E": "Kepala BKN"
     },
@@ -102,8 +102,8 @@
     "tingkat": "sedang",
     "pertanyaan": "Berikut ini yang termasuk penyelenggara pelayanan publik menurut rangkuman adalah ...",
     "opsi": {
-      "A": "Ombudsman dan BPK",
-      "B": "partai politik dan ormas",
+      "A": "Ombudsman RI dan Badan Pemeriksa Keuangan sebagai pengawas",
+      "B": "partai politik, organisasi kemasyarakatan, dan media massa",
       "C": "organisasi internasional",
       "D": "pimpinan kementerian/lembaga, gubernur, bupati, dan wali kota",
       "E": "DPR dan DPD"
@@ -161,8 +161,8 @@
     "opsi": {
       "A": "akuntabilitas",
       "B": "kepentingan umum",
-      "C": "kesamaan hak",
-      "D": "keprofesionalan",
+      "C": "kesamaan hak bagi seluruh penerima layanan",
+      "D": "keprofesionalan petugas pelaksana layanan",
       "E": "fasilitas dan perlakuan khusus bagi kelompok rentan"
     },
     "jawaban": "E",
@@ -180,7 +180,7 @@
     "opsi": {
       "A": "persamaan perlakuan/tidak diskriminatif",
       "B": "ketepatan waktu",
-      "C": "keterbukaan",
+      "C": "keterbukaan informasi pelayanan",
       "D": "partisipatif",
       "E": "keseimbangan hak dan kewajiban"
     },
@@ -314,8 +314,8 @@
       "A": "kepentingan umum",
       "B": "kecepatan, kemudahan, dan keterjangkauan",
       "C": "keprofesionalan",
-      "D": "keseimbangan hak dan kewajiban",
-      "E": "kepastian hukum"
+      "D": "keseimbangan hak dan kewajiban penerima layanan",
+      "E": "kepastian hukum dalam penyelenggaraan layanan"
     },
     "jawaban": "B",
     "pembahasan": "Asas kecepatan, kemudahan, dan keterjangkauan menekankan pelayanan yang cepat, mudah, dan terjangkau.",
@@ -388,10 +388,10 @@
     "pertanyaan": "Menurut UU 20/2023, nilai dasar \"berorientasi pelayanan\" dijabarkan antara lain dengan ...",
     "opsi": {
       "A": "bekerja hanya sesuai jam kerja",
-      "B": "menghindari perubahan prosedur",
+      "B": "menghindari perubahan prosedur agar layanan selalu sama dari tahun ke tahun",
       "C": "memahami dan memenuhi kebutuhan masyarakat serta ramah, cekatan, solutif, dan dapat diandalkan",
       "D": "menolak keluhan yang tidak tertulis",
-      "E": "mengutamakan kepentingan atasan"
+      "E": "mengutamakan kepentingan atasan dibandingkan kebutuhan masyarakat pengguna"
     },
     "jawaban": "C",
     "pembahasan": "Pasal 4 UU 20/2023: berorientasi pelayanan berarti komitmen memberi pelayanan prima, memahami kebutuhan masyarakat, ramah, cekatan, solutif, dapat diandalkan, dan melakukan perbaikan tiada henti.",
@@ -425,8 +425,8 @@
     "tingkat": "sedang",
     "pertanyaan": "Contoh layanan berbasis teknologi informasi di bidang pemasyarakatan yang disebut Renstra adalah ...",
     "opsi": {
-      "A": "Visa on Arrival dan one day service",
-      "B": "Eazy Passport dan Golden Visa",
+      "A": "Visa on Arrival untuk wisata dan percepatan paspor (one day service)",
+      "B": "Eazy Passport dan Golden Visa bagi investor perseorangan maupun perusahaan",
       "C": "autogate di bandara",
       "D": "kunjungan online bagi keluarga warga binaan dan layanan informasi mandiri di Lapas/Rutan",
       "E": "e-Visa untuk investor"
@@ -445,9 +445,9 @@
     "pertanyaan": "Upaya peningkatan layanan paspor yang disebut Renstra untuk mendorong PNBP dan kepuasan masyarakat adalah ...",
     "opsi": {
       "A": "penghapusan biaya paspor",
-      "B": "pembatasan kuota paspor per tahun",
+      "B": "pembatasan kuota paspor per tahun di setiap kantor imigrasi agar antrean berkurang",
       "C": "pemberian remisi bagi pemohon paspor",
-      "D": "pengalihan layanan paspor ke pemerintah daerah",
+      "D": "pengalihan seluruh layanan paspor kepada pemerintah daerah provinsi dan kabupaten/kota",
       "E": "peningkatan layanan Eazy Passport dan percepatan pembuatan paspor (one day service)"
     },
     "jawaban": "E",

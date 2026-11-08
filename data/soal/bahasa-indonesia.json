@@ -425,10 +425,10 @@
     "tingkat": "sulit",
     "pertanyaan": "Kalimat \"Dalam rapat itu membahas jadwal ujian.\" tidak efektif karena ...",
     "opsi": {
-      "A": "tidak memiliki objek",
+      "A": "kalimat tersebut tidak memiliki objek sehingga maknanya menggantung",
       "B": "terlalu panjang",
       "C": "subjeknya didahului preposisi sehingga kalimat tidak bersubjek",
-      "D": "menggunakan kata tidak baku",
+      "D": "kalimat tersebut menggunakan kata tidak baku pada bagian keterangannya",
       "E": "memiliki dua predikat"
     },
     "jawaban": "C",
@@ -518,7 +518,7 @@
     "topik": "Bahasa Indonesia",
     "subtopik": "Kata Baku",
     "tingkat": "sedang",
-    "pertanyaan": "Kelompok kata berikut yang seluruhnya baku adalah ...",
+    "pertanyaan": "Menurut KBBI, deretan kata yang seluruhnya baku adalah ...",
     "opsi": {
       "A": "praktik, resiko, kualitas",
       "B": "praktik, risiko, kwalitas",

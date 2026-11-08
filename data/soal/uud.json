@@ -121,9 +121,9 @@
     "tingkat": "sedang",
     "pertanyaan": "Latar belakang amandemen UUD 1945 menurut rangkuman adalah sebagai berikut, KECUALI ...",
     "opsi": {
-      "A": "kekuasaan presiden meliputi eksekutif dan legislatif",
+      "A": "kekuasaan presiden meliputi kekuasaan eksekutif dan legislatif sekaligus",
       "B": "kekuasaan presiden terlalu besar",
-      "C": "pasal-pasal terlalu fleksibel dan multitafsir",
+      "C": "pasal-pasal UUD terlalu fleksibel sehingga menimbulkan multitafsir",
       "D": "Pembukaan UUD 1945 dianggap tidak lagi sesuai sehingga perlu diganti",
       "E": "Penjelasan diperlakukan seperti pasal"
     },
@@ -160,10 +160,10 @@
     "pertanyaan": "Pembukaan UUD 1945 berkedudukan sebagai ...",
     "opsi": {
       "A": "pokok kaidah negara yang fundamental dan lebih tinggi dari batang tubuh",
-      "B": "bagian yang dapat diubah MPR setiap lima tahun",
+      "B": "bagian UUD yang dapat diubah MPR setiap lima tahun sesuai kebutuhan",
       "C": "dokumen sejarah yang tidak mengikat",
       "D": "bagian yang setara dengan aturan peralihan",
-      "E": "penjelasan resmi atas pasal-pasal UUD"
+      "E": "penjelasan resmi atas pasal-pasal UUD yang setara dengan batang tubuh"
     },
     "jawaban": "A",
     "pembahasan": "Pembukaan adalah pokok kaidah negara yang fundamental dan sumber hukum tertinggi, lebih tinggi dari batang tubuh.",
@@ -293,8 +293,8 @@
     "pertanyaan": "Selain tujuan negara dan dasar negara, alinea keempat Pembukaan menurut rangkuman juga memuat ...",
     "opsi": {
       "A": "aturan peralihan",
-      "B": "daftar lembaga tinggi negara",
-      "C": "ketentuan masa jabatan presiden",
+      "B": "daftar lembaga tinggi negara beserta kewenangannya masing-masing",
+      "C": "ketentuan masa jabatan presiden dan tata cara pemilihannya",
       "D": "nama-nama anggota PPKI",
       "E": "bentuk kedaulatan rakyat dan politik luar negeri bebas aktif"
     },
@@ -616,9 +616,9 @@
     "pertanyaan": "Menurut Pasal 2 ayat (1) UUD 1945, MPR terdiri atas ...",
     "opsi": {
       "A": "anggota DPR yang diangkat Presiden",
-      "B": "anggota DPR dan utusan golongan",
+      "B": "anggota DPR dan utusan golongan yang diangkat oleh Presiden",
       "C": "anggota DPR dan anggota DPD yang dipilih melalui pemilihan umum",
-      "D": "anggota DPR, DPD, dan DPRD",
+      "D": "anggota DPR, anggota DPD, dan anggota DPRD hasil pemilu",
       "E": "anggota DPD dan utusan daerah"
     },
     "jawaban": "C",
@@ -711,9 +711,9 @@
     "pertanyaan": "Menurut Pasal 6 ayat (1) UUD 1945, calon Presiden dan calon Wakil Presiden harus ...",
     "opsi": {
       "A": "anggota partai politik paling lama 5 tahun",
-      "B": "WNI yang berusia minimal 40 tahun",
+      "B": "WNI yang berusia minimal 40 tahun dan pernah menjabat sebagai kepala daerah",
       "C": "WNI yang pernah menjabat kepala daerah",
-      "D": "WNI yang telah tinggal di Indonesia minimal 10 tahun",
+      "D": "WNI yang telah tinggal di Indonesia minimal 10 tahun berturut-turut sebelum pemilihan",
       "E": "WNI sejak kelahirannya dan tidak pernah menerima kewarganegaraan lain karena kehendaknya sendiri"
     },
     "jawaban": "E",
@@ -730,10 +730,10 @@
     "pertanyaan": "Menurut Pasal 6A ayat (3), pasangan calon dilantik apabila memperoleh suara ...",
     "opsi": {
       "A": "lebih dari 50% di seluruh provinsi",
-      "B": "lebih dari 60% dengan sedikitnya 25% di setiap provinsi",
+      "B": "lebih dari 60% dengan sedikitnya 25% suara di setiap provinsi di seluruh Indonesia",
       "C": "lebih dari 50% dengan sedikitnya 20% di setiap provinsi yang tersebar di lebih dari setengah jumlah provinsi",
       "D": "sedikitnya 20% dari jumlah suara nasional",
-      "E": "terbanyak tanpa syarat sebaran provinsi"
+      "E": "terbanyak di antara seluruh pasangan tanpa syarat persebaran suara di provinsi"
     },
     "jawaban": "C",
     "pembahasan": "Pasal 6A ayat (3): lebih dari 50% suara dengan sedikitnya 20% di setiap provinsi yang tersebar di lebih dari setengah jumlah provinsi.",
@@ -749,10 +749,10 @@
     "pertanyaan": "Apabila tidak ada pasangan calon presiden yang memenuhi syarat terpilih, menurut Pasal 6A ayat (4) ...",
     "opsi": {
       "A": "DPR memilih presiden dari semua pasangan",
-      "B": "pemilu diulang dengan pasangan calon baru",
+      "B": "pemilu diulang dengan pasangan calon baru yang diusulkan kembali oleh partai politik",
       "C": "pasangan dengan suara terbanyak langsung dilantik",
       "D": "dua pasangan dengan suara terbanyak pertama dan kedua dipilih langsung kembali oleh rakyat",
-      "E": "MPR memilih salah satu dari dua pasangan teratas"
+      "E": "MPR memilih salah satu dari dua pasangan teratas melalui sidang paripurna"
     },
     "jawaban": "D",
     "pembahasan": "Pasal 6A ayat (4): dua pasangan suara terbanyak pertama dan kedua dipilih oleh rakyat secara langsung; pemenang dilantik.",
@@ -770,8 +770,8 @@
       "A": "partai politik atau gabungan partai politik peserta pemilu",
       "B": "Komisi Pemilihan Umum",
       "C": "MPR",
-      "D": "perseorangan dengan dukungan KTP",
-      "E": "DPR dan DPD"
+      "D": "perseorangan dengan dukungan KTP sebagai calon independen",
+      "E": "DPR dan DPD melalui sidang gabungan"
     },
     "jawaban": "A",
     "pembahasan": "Pasal 6A ayat (2): diusulkan oleh partai politik atau gabungan partai politik peserta pemilu sebelum pelaksanaan pemilu.",
@@ -787,10 +787,10 @@
     "pertanyaan": "Menurut Pasal 7 UUD 1945, Presiden dan Wakil Presiden memegang jabatan selama ...",
     "opsi": {
       "A": "tujuh tahun tanpa dapat dipilih kembali",
-      "B": "lima tahun dan dapat dipilih kembali dua kali masa jabatan",
+      "B": "lima tahun dan sesudahnya dapat dipilih kembali dalam jabatan yang sama untuk dua kali masa jabatan",
       "C": "lima tahun dan dapat dipilih kembali dalam jabatan yang sama hanya untuk satu kali masa jabatan",
       "D": "empat tahun dan dapat dipilih kembali dua kali",
-      "E": "lima tahun dan dapat dipilih kembali tanpa batas"
+      "E": "lima tahun dan sesudahnya dapat dipilih kembali dalam jabatan yang sama tanpa batasan periode"
     },
     "jawaban": "C",
     "pembahasan": "Pasal 7: masa jabatan lima tahun dan sesudahnya dapat dipilih kembali hanya untuk satu kali masa jabatan.",

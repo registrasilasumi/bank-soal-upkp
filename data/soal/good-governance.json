@@ -83,10 +83,10 @@
     "tingkat": "sedang",
     "pertanyaan": "Masyarakat sebagai aktor good governance berperan ...",
     "opsi": {
-      "A": "menyusun APBN",
+      "A": "menyusun dan menetapkan APBN bersama pemerintah",
       "B": "mewadahi interaksi sosial, ekonomi, dan politik",
       "C": "mengangkat pejabat pemerintah",
-      "D": "menciptakan lingkungan hukum",
+      "D": "menciptakan lingkungan politik dan hukum yang kondusif",
       "E": "mengelola perusahaan negara"
     },
     "jawaban": "B",
@@ -293,9 +293,9 @@
     "pertanyaan": "Dalam Misi 2 Renstra, penyelenggaraan birokrasi yang modern, profesional, dan berintegritas disebut sebagai bagian dari komitmen terhadap prinsip ...",
     "opsi": {
       "A": "desentralisasi fiskal",
-      "B": "efisiensi anggaran semata",
+      "B": "efisiensi anggaran semata tanpa memperhatikan kualitas layanan",
       "C": "privatisasi layanan publik",
-      "D": "sentralisasi kewenangan",
+      "D": "sentralisasi kewenangan pada pimpinan tertinggi kementerian",
       "E": "tata kelola pemerintahan yang baik (good governance)"
     },
     "jawaban": "E",
@@ -408,9 +408,9 @@
     "opsi": {
       "A": "pengurangan jumlah prosedur layanan",
       "B": "penyampaian laporan hanya kepada atasan",
-      "C": "kebebasan setiap pegawai mengakses seluruh dokumen rahasia",
+      "C": "kebebasan setiap pegawai untuk mengakses dan menyebarkan seluruh dokumen rahasia negara",
       "D": "keterbukaan dalam proses pengambilan keputusan serta penyampaian informasi yang bersifat material dan relevan",
-      "E": "pengumuman seluruh data pribadi warga binaan"
+      "E": "kewajiban mengumumkan seluruh data pribadi warga binaan kepada masyarakat luas tanpa batas"
     },
     "jawaban": "D",
     "pembahasan": "Renstra §2.1 mendefinisikan transparan sebagai keterbukaan pengambilan keputusan dan penyampaian informasi material dan relevan, merujuk UU 14/2008 tentang KIP.",
@@ -426,8 +426,8 @@
     "pertanyaan": "Dalam kerangka akuntabilitas Kemenimipas, Inspektorat Wilayah memantau tindak lanjut hasil pengawasan dari ...",
     "opsi": {
       "A": "Itjen, BPKP, Ombudsman RI, dan hasil pemeriksaan BPK",
-      "B": "KPK, Kejaksaan, dan Polri",
-      "C": "BKN, LAN, dan KemenPANRB",
+      "B": "KPK, Kejaksaan Agung, dan Kepolisian Negara RI",
+      "C": "BKN, LAN, dan Kementerian PANRB secara bersama",
       "D": "Bappenas dan Kementerian Keuangan",
       "E": "DPR, DPD, dan MPR"
     },
@@ -444,8 +444,8 @@
     "tingkat": "sedang",
     "pertanyaan": "Dalam perspektif proses bisnis internal BSC Renstra, efisiensi dan efektivitas harus mencakup penerapan ...",
     "opsi": {
-      "A": "penghapusan standar operasional prosedur",
-      "B": "sentralisasi seluruh keputusan",
+      "A": "penghapusan seluruh standar operasional prosedur yang dianggap lambat",
+      "B": "sentralisasi seluruh keputusan pada pimpinan unit Eselon I",
       "C": "pengurangan jumlah pegawai",
       "D": "outsourcing layanan inti",
       "E": "tata kelola yang baik dan bersih (good corporate governance)"

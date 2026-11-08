@@ -235,10 +235,10 @@
     "tingkat": "sedang",
     "pertanyaan": "Tugas Wakil Menteri dalam membantu Menteri meliputi perumusan dan/atau pelaksanaan kebijakan serta ...",
     "opsi": {
-      "A": "pengelolaan anggaran seluruh Kementerian",
+      "A": "pengelolaan anggaran seluruh unit Eselon I di lingkungan Kementerian",
       "B": "penetapan pejabat pimpinan tinggi madya",
       "C": "penandatanganan peraturan menteri",
-      "D": "pengawasan intern atas seluruh unit Eselon I",
+      "D": "pengawasan intern atas kinerja dan keuangan seluruh unit Eselon I",
       "E": "koordinasi pencapaian kebijakan strategis dalam dan/atau lintas unit Eselon I"
     },
     "jawaban": "E",
@@ -465,9 +465,9 @@
     "opsi": {
       "A": "menyelenggarakan pengembangan SDM bidang keimigrasian dan pemasyarakatan",
       "B": "memberikan rekomendasi isu strategis kepada Menteri",
-      "C": "menyelenggarakan pengawasan intern di lingkungan Kementerian",
+      "C": "menyelenggarakan pengawasan intern atas kinerja dan keuangan di lingkungan Kementerian",
       "D": "menyelenggarakan koordinasi pelaksanaan tugas, pembinaan, dan pemberian dukungan administrasi kepada seluruh unit organisasi",
-      "E": "merumuskan dan melaksanakan kebijakan di bidang keimigrasian"
+      "E": "merumuskan dan melaksanakan kebijakan di bidang keimigrasian dan pemasyarakatan"
     },
     "jawaban": "D",
     "pembahasan": "Pasal 10: Setjen menyelenggarakan koordinasi pelaksanaan tugas, pembinaan, dan dukungan administrasi kepada seluruh unit organisasi. Pengawasan intern adalah tugas Itjen.",
@@ -541,9 +541,9 @@
     "opsi": {
       "A": "Sekretaris Ditjen Pemasyarakatan dan Sekretaris Ditjen Imigrasi",
       "B": "Kepala Biro Perencanaan dan Keuangan",
-      "C": "Inspektur Jenderal dan Inspektur Wilayah",
+      "C": "Inspektur Jenderal dan Inspektur Wilayah sesuai wilayah kerjanya",
       "D": "Kepala BPSDM",
-      "E": "Kepala Kanwil masing-masing provinsi"
+      "E": "Kepala Kantor Wilayah masing-masing provinsi tempat UPT berada"
     },
     "jawaban": "A",
     "pembahasan": "Pengadaan pada Kanwil dan UPT berkoordinasi dengan Sekretaris Ditjen Pemasyarakatan dan Sekretaris Ditjen Imigrasi, karena kedua Ditjen itulah yang membawahi Kanwil dan UPT.",
@@ -561,7 +561,7 @@
       "A": "Bagian Keuangan pada Biro Perencanaan dan Keuangan",
       "B": "Bagian Organisasi dan Ketatalaksanaan",
       "C": "Bagian Penyusunan Program dan Anggaran pada Biro Perencanaan dan Keuangan",
-      "D": "Bagian Pengelolaan dan Evaluasi Kinerja",
+      "D": "Bagian Pengelolaan dan Evaluasi Kinerja pada Biro Perencanaan dan Keuangan",
       "E": "Bagian Perencanaan Kebutuhan BMN"
     },
     "jawaban": "C",
@@ -881,10 +881,10 @@
     "tingkat": "sedang",
     "pertanyaan": "Bagian pada Sekretariat Inspektorat Jenderal yang menyusun laporan berkala hasil pengawasan Itjen, BPK, BPKP, dan Ombudsman RI adalah ...",
     "opsi": {
-      "A": "Bagian Keuangan Sekretariat Itjen",
+      "A": "Bagian Keuangan pada Sekretariat Inspektorat Jenderal",
       "B": "Bagian Perencanaan dan Tindak Lanjut Hasil Pengawasan",
       "C": "Bagian Sumber Daya Manusia",
-      "D": "Bagian Data dan Sistem Informasi",
+      "D": "Bagian Data dan Sistem Informasi Pengawasan",
       "E": "Bagian Organisasi dan Ketatalaksanaan"
     },
     "jawaban": "B",
@@ -1280,11 +1280,11 @@
     "tingkat": "sedang",
     "pertanyaan": "Koordinasi penanganan pencari suaka, pengungsi, dan imigran ilegal menjadi fungsi ...",
     "opsi": {
-      "A": "Subdirektorat Kerja Sama Antarnegara",
+      "A": "Subdirektorat Kerja Sama Antarnegara pada Direktorat Kerja Sama Keimigrasian",
       "B": "Subdirektorat Penentuan Status Keimigrasian",
       "C": "Subdirektorat Bina Perwakilan",
       "D": "Subdirektorat Penanganan Deteni dan Koordinasi Penanganan Pengungsi",
-      "E": "Subdirektorat Pengawasan Keimigrasian"
+      "E": "Subdirektorat Pengawasan Keimigrasian pada Direktorat Pengawasan dan Penindakan"
     },
     "jawaban": "D",
     "pembahasan": "Subdit Penanganan Deteni dan Koordinasi Penanganan Pengungsi (Dit. Pengawasan dan Penindakan) mengoordinasikan penanganan pencari suaka, pengungsi, dan imigran ilegal.",
@@ -1603,11 +1603,11 @@
     "tingkat": "sedang",
     "pertanyaan": "Penyusunan rencana kontinjensi, pengelolaan kerawanan, dan penanggulangan bencana di Lapas/Rutan menjadi fungsi ...",
     "opsi": {
-      "A": "Subdirektorat Intelijen Pemasyarakatan",
+      "A": "Subdirektorat Intelijen Pemasyarakatan pada Direktorat Pengamanan dan Intelijen",
       "B": "Subbagian Pengamanan Biro Umum",
       "C": "Subdirektorat Pencegahan Gangguan Keamanan dan Pemeliharaan Keamanan",
       "D": "Subdirektorat Strategi dan Transformasi Organisasi",
-      "E": "Subdirektorat Penindakan dan Pemulihan"
+      "E": "Subdirektorat Penindakan dan Pemulihan pada Direktorat Pengamanan dan Intelijen"
     },
     "jawaban": "C",
     "pembahasan": "Subdit Pencegahan Gangguan Keamanan dan Pemeliharaan Keamanan menangani pengelolaan kerawanan, strategi pengamanan, rencana kontinjensi, dan penanggulangan bencana.",
@@ -1660,10 +1660,10 @@
     "tingkat": "sedang",
     "pertanyaan": "Strategi kerangka pendanaan Ditjen PAS dari APBN atau sumber lain yang sah ditangani oleh ...",
     "opsi": {
-      "A": "Bagian Keuangan Sekretariat Ditjen PAS",
+      "A": "Bagian Keuangan pada Sekretariat Direktorat Jenderal Pemasyarakatan",
       "B": "Subdirektorat Kerja Sama Pemasyarakatan",
       "C": "Bagian Perencanaan Anggaran",
-      "D": "Subdirektorat Strategi dan Transformasi Organisasi",
+      "D": "Subdirektorat Strategi dan Transformasi Organisasi Pemasyarakatan",
       "E": "Subdirektorat Strategi Program Pemasyarakatan dan Kerangka Pendanaan"
     },
     "jawaban": "E",
@@ -1681,8 +1681,8 @@
     "opsi": {
       "A": "Pengendalian Gratifikasi; Pemeriksaan Internal",
       "B": "Pencegahan dan Pengendalian; Fasilitasi Advokasi dan Investigasi Internal",
-      "C": "Pembinaan Mental; Investigasi dan Penegakan Disiplin",
-      "D": "Pencegahan dan Penindakan; Advokasi dan Pengawasan",
+      "C": "Pembinaan Mental Pegawai; Investigasi dan Penegakan Disiplin Pegawai",
+      "D": "Pencegahan dan Penindakan; Advokasi Hukum dan Pengawasan Internal",
       "E": "Kepatuhan Pegawai; Advokasi Hukum"
     },
     "jawaban": "B",
@@ -2042,9 +2042,9 @@
     "opsi": {
       "A": "Kepala Kantor Wilayah atas persetujuan Direktur Jenderal",
       "B": "Menteri setelah mendapat persetujuan tertulis dari menteri yang menyelenggarakan urusan pemerintahan di bidang aparatur negara",
-      "C": "Direktur Jenderal setelah berkoordinasi dengan Sekretaris Jenderal",
+      "C": "Direktur Jenderal setelah berkoordinasi dengan Sekretaris Jenderal dan Kepala Kantor Wilayah setempat",
       "D": "Menteri Keuangan atas usul Menteri",
-      "E": "Presiden atas usul Menteri"
+      "E": "Presiden atas usul Menteri setelah mendapat pertimbangan dari Menteri Keuangan"
     },
     "jawaban": "B",
     "pembahasan": "Pasal 391: UPT ditetapkan oleh Menteri setelah mendapat persetujuan tertulis dari menteri yang menyelenggarakan urusan pemerintahan di bidang aparatur negara.",
@@ -2135,10 +2135,10 @@
     "tingkat": "sedang",
     "pertanyaan": "Perubahan atas susunan organisasi dan tata kerja dalam Permen Imipas 1/2024 diatur oleh Menteri setelah ...",
     "opsi": {
-      "A": "mendapat persetujuan DPR",
+      "A": "mendapat persetujuan Dewan Perwakilan Rakyat melalui komisi yang membidangi hukum",
       "B": "dikonsultasikan dengan Kepala BKN",
       "C": "mendapat rekomendasi BPK",
-      "D": "ditetapkan dengan Keputusan Presiden",
+      "D": "ditetapkan dengan Keputusan Presiden atas usul Menteri Sekretaris Negara",
       "E": "mendapat persetujuan tertulis dari menteri yang menyelenggarakan urusan pemerintahan di bidang aparatur negara"
     },
     "jawaban": "E",
@@ -2288,9 +2288,9 @@
     "pertanyaan": "Menurut Pasal 401 Permen Imipas 1/2024, pejabat administrasi atau pejabat struktural eselon III ke bawah diangkat dan diberhentikan oleh ...",
     "opsi": {
       "A": "Presiden atas usul Menteri",
-      "B": "Sekretaris Jenderal untuk seluruh unit",
+      "B": "Sekretaris Jenderal untuk seluruh unit organisasi di lingkungan Kementerian",
       "C": "Pimpinan Tinggi Madya masing-masing unit Eselon I yang diberi pelimpahan wewenang oleh Menteri",
-      "D": "Menteri atas usul Direktur Jenderal",
+      "D": "Menteri atas usul Direktur Jenderal setelah mendapat persetujuan Presiden",
       "E": "Kepala Kantor Wilayah"
     },
     "jawaban": "C",
@@ -2307,8 +2307,8 @@
     "pertanyaan": "Selain APBN, pelaksanaan tugas dan fungsi keimigrasian dapat dibebankan kepada ...",
     "opsi": {
       "A": "penerimaan pajak daerah",
-      "B": "iuran wajib pemohon paspor di luar PNBP",
-      "C": "dana hibah luar negeri yang mengikat",
+      "B": "iuran wajib pemohon paspor yang dipungut di luar ketentuan PNBP",
+      "C": "dana hibah luar negeri yang bersifat mengikat sesuai perjanjian",
       "D": "sumber lain yang sah dan tidak mengikat sesuai peraturan perundang-undangan",
       "E": "APBD provinsi tempat kantor imigrasi berada"
     },

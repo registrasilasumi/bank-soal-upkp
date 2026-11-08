@@ -9,9 +9,9 @@
     "opsi": {
       "A": "membaca, menulis, berhitung, dan berbicara",
       "B": "akses, adopsi, adaptasi, dan inovasi",
-      "C": "informasi, komunikasi, kolaborasi, dan kreasi",
+      "C": "informasi digital, komunikasi digital, kolaborasi digital, dan kreasi digital",
       "D": "keterampilan digital, budaya digital, etika digital, dan keamanan digital",
-      "E": "perangkat keras, perangkat lunak, jaringan, dan data"
+      "E": "perangkat keras, perangkat lunak, jaringan internet, dan pusat data"
     },
     "jawaban": "D",
     "pembahasan": "Rangkuman menyebut empat pilar: keterampilan digital, budaya digital, etika digital, dan keamanan digital.",
@@ -199,9 +199,9 @@
     "opsi": {
       "A": "data dapat disadap oleh pihak lain di jaringan yang sama",
       "B": "layar perangkat menjadi rusak",
-      "C": "akun otomatis terhapus",
+      "C": "akun dinas otomatis terhapus setelah terhubung ke jaringan publik",
       "D": "perangkat otomatis diperbarui",
-      "E": "baterai perangkat cepat habis"
+      "E": "baterai perangkat cepat habis karena sinyal Wi-Fi publik lemah"
     },
     "jawaban": "A",
     "pembahasan": "Wi-Fi publik tanpa pengamanan memungkinkan penyadapan data.",
@@ -238,8 +238,8 @@
       "A": "alamat diakhiri .exe",
       "B": "https:// (biasanya disertai ikon gembok)",
       "C": "www tanpa awalan",
-      "D": "ftp://",
-      "E": "http://"
+      "D": "ftp:// (protokol pertukaran berkas)",
+      "E": "http:// (tanpa huruf s di akhir)"
     },
     "jawaban": "B",
     "pembahasan": "HTTPS menandakan koneksi terenkripsi antara peramban dan situs.",
@@ -255,9 +255,9 @@
     "pertanyaan": "Teknik penipuan yang memanipulasi psikologis korban, misalnya pelaku berpura-pura menjadi atasan dan meminta data rahasia lewat telepon, disebut ...",
     "opsi": {
       "A": "pemadatan data",
-      "B": "peretasan perangkat keras",
+      "B": "peretasan perangkat keras (hardware hacking)",
       "C": "rekayasa sosial (social engineering)",
-      "D": "serangan DDoS",
+      "D": "serangan penolakan layanan (DDoS)",
       "E": "pemrograman ganda"
     },
     "jawaban": "C",
@@ -311,9 +311,9 @@
     "tingkat": "sedang",
     "pertanyaan": "Seorang pegawai mengunggah foto dokumen warga binaan lengkap dengan nama dan nomor registrasi ke media sosial pribadinya. Tindakan ini melanggar ...",
     "opsi": {
-      "A": "etika digital hanya bila foto diberi filter",
+      "A": "etika digital hanya apabila foto tersebut diberi filter atau efek",
       "B": "keterampilan digital karena foto kurang jelas",
-      "C": "budaya digital karena tidak memakai bahasa daerah",
+      "C": "budaya digital karena unggahan tidak memakai bahasa daerah setempat",
       "D": "etika dan keamanan digital karena menyebarkan data pribadi orang lain",
       "E": "tidak ada pelanggaran karena akun pribadi"
     },
@@ -331,9 +331,9 @@
     "pertanyaan": "Mengirim pesan berulang-ulang yang menghina dan mempermalukan seseorang di media sosial disebut ...",
     "opsi": {
       "A": "perundungan siber (cyberbullying)",
-      "B": "netiket",
+      "B": "netiket (etika berkomunikasi di internet)",
       "C": "kolaborasi daring",
-      "D": "literasi informasi",
+      "D": "literasi informasi (penelusuran sumber)",
       "E": "verifikasi fakta"
     },
     "jawaban": "A",
@@ -350,9 +350,9 @@
     "pertanyaan": "Jejak digital (digital footprint) adalah ...",
     "opsi": {
       "A": "kode akses aplikasi",
-      "B": "sidik jari pada layar sentuh",
+      "B": "sidik jari pengguna yang tertinggal pada layar sentuh perangkat",
       "C": "alamat IP kantor",
-      "D": "tanda tangan elektronik resmi",
+      "D": "tanda tangan elektronik resmi yang tersertifikasi oleh lembaga",
       "E": "rekam data aktivitas seseorang di internet yang dapat tersimpan dan dilacak"
     },
     "jawaban": "E",
@@ -368,10 +368,10 @@
     "tingkat": "sedang",
     "pertanyaan": "Ciri hoaks yang perlu diwaspadai adalah ...",
     "opsi": {
-      "A": "memiliki tautan ke situs resmi pemerintah",
+      "A": "memiliki tautan ke situs resmi pemerintah dan mencantumkan nomor kontak",
       "B": "mencantumkan data yang dapat dicek",
       "C": "judul provokatif, sumber tidak jelas, dan ajakan untuk segera menyebarkan",
-      "D": "ditulis wartawan media terverifikasi",
+      "D": "ditulis oleh wartawan media terverifikasi dengan nama penulis yang jelas",
       "E": "diterbitkan oleh lembaga resmi"
     },
     "jawaban": "C",
@@ -389,9 +389,9 @@
     "opsi": {
       "A": "menonaktifkan antivirus",
       "B": "menutup celah keamanan yang ditemukan pada versi lama",
-      "C": "menghapus seluruh data pengguna",
+      "C": "menghapus seluruh data pengguna agar perangkat kembali seperti baru",
       "D": "mengganti kata sandi otomatis",
-      "E": "memperlambat kinerja perangkat"
+      "E": "memperlambat kinerja perangkat agar baterai menjadi lebih awet"
     },
     "jawaban": "B",
     "pembahasan": "Pembaruan perangkat lunak biasanya memuat perbaikan keamanan.",

@@ -45,11 +45,11 @@
     "tingkat": "sedang",
     "pertanyaan": "Latar belakang pertempuran mempertahankan kemerdekaan setelah proklamasi adalah ...",
     "opsi": {
-      "A": "Jepang menolak menyerah kepada Sekutu",
+      "A": "Jepang menolak menyerah kepada Sekutu dan tetap menduduki wilayah Indonesia",
       "B": "Belanda menyerahkan kedaulatan melalui KMB",
       "C": "Sekutu akan mengambil alih wilayah bekas jajahan Jepang, termasuk Indonesia",
       "D": "pembubaran Konstituante oleh Presiden",
-      "E": "PKI melakukan pemberontakan di Madiun"
+      "E": "PKI melakukan pemberontakan di Madiun untuk mendirikan negara sendiri"
     },
     "jawaban": "C",
     "pembahasan": "Setelah Jepang menyerah terjadi vacuum of power, dan Sekutu berupaya mengambil alih wilayah bekas jajahan Jepang termasuk Indonesia.",
@@ -84,9 +84,9 @@
     "pertanyaan": "Hasil Konferensi Meja Bundar (KMB) menjadikan Indonesia berbentuk ...",
     "opsi": {
       "A": "Republik Indonesia Serikat dengan sistem kabinet parlementer",
-      "B": "negara kesatuan dengan sistem presidensial",
+      "B": "negara kesatuan dengan sistem pemerintahan presidensial",
       "C": "negara persemakmuran Belanda",
-      "D": "negara kesatuan dengan UUDS 1950",
+      "D": "negara kesatuan dengan UUDS 1950 sebagai konstitusinya",
       "E": "negara serikat dengan sistem presidensial"
     },
     "jawaban": "A",
@@ -141,10 +141,10 @@
     "pertanyaan": "Masa Demokrasi Liberal (1950–1959) ditandai dengan ...",
     "opsi": {
       "A": "Dekrit Presiden dan Demokrasi Terpimpin",
-      "B": "berlakunya UUD 1945 dan sistem presidensial murni",
+      "B": "berlakunya UUD 1945, sistem presidensial murni, dan Dekrit Presiden",
       "C": "Repelita dan swasembada beras",
       "D": "berlakunya UUDS 1950, sistem kabinet parlementer, dan tujuh kali pergantian kabinet",
-      "E": "dwifungsi ABRI dan penyederhanaan partai"
+      "E": "dwifungsi ABRI, penyederhanaan partai politik, dan Repelita"
     },
     "jawaban": "D",
     "pembahasan": "Demokrasi Liberal: UUDS 1950, kabinet parlementer, multipartai, konflik antarpartai, dan tujuh kali pergantian kabinet.",
@@ -255,10 +255,10 @@
     "pertanyaan": "Peristiwa yang menandai lahirnya Orde Baru adalah ...",
     "opsi": {
       "A": "Surat Perintah Sebelas Maret (11 Maret 1966)",
-      "B": "Peristiwa 30 September 1965",
+      "B": "Peristiwa 30 September 1965 di Jakarta",
       "C": "Dekrit Presiden 5 Juli 1959",
       "D": "Pemilu pertama tahun 1955",
-      "E": "Sidang Umum MPRS Maret 1968"
+      "E": "Sidang Umum MPRS pada 21–30 Maret 1968"
     },
     "jawaban": "A",
     "pembahasan": "Supersemar 11 Maret 1966 berisi mandat Soekarno kepada Letjen Soeharto untuk memulihkan keadaan dan menandai lahirnya Orde Baru.",
@@ -368,11 +368,11 @@
     "tingkat": "sedang",
     "pertanyaan": "Rangkaian peristiwa yang mengakhiri pemerintahan Orde Baru diawali oleh ...",
     "opsi": {
-      "A": "referendum Timor Timur tahun 1999",
+      "A": "referendum Timor Timur tahun 1999 yang memicu konflik dan kerusuhan di berbagai daerah",
       "B": "Dekrit Presiden yang membubarkan DPR",
       "C": "krisis ekonomi 1997 yang memicu hilangnya kepercayaan dan demonstrasi mahasiswa menuntut pemberantasan KKN",
       "D": "pemberontakan PKI di Madiun",
-      "E": "kekalahan dalam Pemilu 1997"
+      "E": "kekalahan Golkar dalam Pemilu 1997 yang membuat Soeharto kehilangan dukungan DPR"
     },
     "jawaban": "C",
     "pembahasan": "Krisis ekonomi 1997 menyulitkan masyarakat, menghilangkan kepercayaan kepada pemerintah, dan memicu demonstrasi mahasiswa menuntut pemberantasan KKN.",
@@ -520,10 +520,10 @@
     "tingkat": "sedang",
     "pertanyaan": "Pada masa Presiden Susilo Bambang Yudhoyono, Indonesia antara lain ...",
     "opsi": {
-      "A": "melaksanakan referendum Timor Timur",
+      "A": "melaksanakan referendum Timor Timur dan mengesahkan UU Pers",
       "B": "membentuk Kabinet Gotong Royong",
       "C": "memulai Repelita",
-      "D": "meluncurkan program makan bergizi gratis",
+      "D": "meluncurkan program makan bergizi gratis dan Kabinet Merah Putih",
       "E": "masuk G-20, melunasi utang IMF, dan mengakhiri konflik Aceh"
     },
     "jawaban": "E",

@@ -45,9 +45,9 @@
     "tingkat": "mudah",
     "pertanyaan": "Perbedaan utama PNS dan PPPK adalah ...",
     "opsi": {
-      "A": "PNS tunduk pada UU ASN, sedangkan PPPK tunduk pada UU Ketenagakerjaan",
+      "A": "PNS tunduk pada UU ASN, sedangkan PPPK tunduk pada UU Ketenagakerjaan dan tidak memiliki NIP",
       "B": "PNS bekerja di pusat, sedangkan PPPK hanya di daerah",
-      "C": "PPPK diangkat Presiden, sedangkan PNS diangkat PPK",
+      "C": "PPPK diangkat oleh Presiden untuk jangka waktu tertentu, sedangkan PNS diangkat oleh PPK secara tetap",
       "D": "PNS diangkat secara tetap, sedangkan PPPK diangkat berdasarkan perjanjian kerja untuk jangka waktu tertentu",
       "E": "PNS memiliki NIP, sedangkan PPPK tidak"
     },
@@ -313,9 +313,9 @@
     "opsi": {
       "A": "hak dipilih menjadi anggota partai politik",
       "B": "bantuan hukum",
-      "C": "pengembangan diri",
+      "C": "pengembangan diri melalui pengembangan talenta dan karier",
       "D": "penghasilan",
-      "E": "jaminan sosial"
+      "E": "jaminan sosial berupa jaminan kesehatan, pensiun, dan hari tua"
     },
     "jawaban": "A",
     "pembahasan": "Komponen: penghasilan, penghargaan yang bersifat motivasi, tunjangan dan fasilitas, jaminan sosial, lingkungan kerja, pengembangan diri, dan bantuan hukum.",
@@ -369,10 +369,10 @@
     "pertanyaan": "Kewajiban Pegawai ASN menurut Pasal 24 UU 20/2023 antara lain ...",
     "opsi": {
       "A": "memiliki usaha sampingan",
-      "B": "menjadi anggota organisasi profesi tertentu",
+      "B": "menjadi anggota organisasi profesi tertentu dan aktif dalam kegiatan partai politik",
       "C": "tinggal di rumah dinas",
       "D": "menjaga netralitas dan bersedia ditempatkan di seluruh wilayah NKRI serta perwakilan di luar negeri",
-      "E": "mengikuti pemilihan kepala daerah"
+      "E": "mengikuti pemilihan kepala daerah sebagai calon tanpa harus mengundurkan diri sebagai ASN"
     },
     "jawaban": "D",
     "pembahasan": "Pasal 24 ayat (1): setia pada Pancasila/UUD/NKRI/pemerintah yang sah, menaati peraturan, melaksanakan nilai dasar dan kode etik, menjaga netralitas, serta bersedia ditempatkan di seluruh wilayah NKRI dan perwakilan.",
@@ -446,8 +446,8 @@
     "opsi": {
       "A": "kementerian dan BUMN",
       "B": "kementerian, TNI, dan Polri",
-      "C": "lembaga negara dan perangkat daerah kabupaten/kota",
-      "D": "kementerian dan perangkat daerah provinsi",
+      "C": "lembaga negara, perangkat daerah provinsi, dan perangkat daerah kabupaten/kota",
+      "D": "kementerian, lembaga pemerintah nonkementerian, BUMN, dan perangkat daerah provinsi",
       "E": "kementerian, lembaga pemerintah nonkementerian, kesekretariatan lembaga negara, dan kesekretariatan lembaga nonstruktural"
     },
     "jawaban": "E",
@@ -484,8 +484,8 @@
     "opsi": {
       "A": "kewajiban PNS mengikuti apel pagi",
       "B": "kesanggupan PNS untuk menaati kewajiban dan menghindari larangan dalam peraturan perundang-undangan",
-      "C": "kepatuhan PNS terhadap jam kerja saja",
-      "D": "hukuman yang dijatuhkan atasan kepada PNS",
+      "C": "kepatuhan PNS terhadap ketentuan jam kerja dan kewajiban mengikuti apel pagi",
+      "D": "hukuman yang dijatuhkan atasan langsung kepada PNS yang melanggar kewajiban",
       "E": "penilaian kinerja PNS setiap tahun"
     },
     "jawaban": "B",
@@ -520,9 +520,9 @@
     "tingkat": "mudah",
     "pertanyaan": "Jenis hukuman disiplin ringan menurut PP 94/2021 adalah ...",
     "opsi": {
-      "A": "penundaan kenaikan gaji berkala selama 1 tahun",
+      "A": "penundaan kenaikan gaji berkala selama 1 tahun dan penundaan kenaikan pangkat selama 1 tahun",
       "B": "pemotongan tunjangan kinerja 25% selama 6 bulan",
-      "C": "teguran lisan dan penundaan kenaikan pangkat",
+      "C": "teguran lisan, penundaan kenaikan pangkat, dan pemotongan tunjangan kinerja 25% selama 6 bulan",
       "D": "teguran lisan, teguran tertulis, dan pernyataan tidak puas secara tertulis",
       "E": "pembebasan dari jabatan menjadi pelaksana"
     },
@@ -653,8 +653,8 @@
     "tingkat": "sedang",
     "pertanyaan": "Ketidakhadiran PNS tanpa alasan sah secara kumulatif yang mengakibatkan pemberhentian dengan hormat tidak atas permintaan sendiri menurut PP 94/2021 adalah ...",
     "opsi": {
-      "A": "15 hari kerja dalam 1 tahun",
-      "B": "21 hari kerja dalam 1 tahun",
+      "A": "15 hari kerja secara kumulatif dalam 1 tahun",
+      "B": "21 hari kerja atau lebih secara kumulatif dalam 1 tahun",
       "C": "10 hari kerja dalam 1 tahun",
       "D": "46 hari kerja dalam 1 tahun",
       "E": "28 hari kerja atau lebih dalam 1 tahun"
@@ -710,8 +710,8 @@
     "tingkat": "sulit",
     "pertanyaan": "Untuk kelancaran pemeriksaan, PNS yang diduga melanggar disiplin dan kemungkinan dijatuhi hukuman berat dapat ...",
     "opsi": {
-      "A": "dipindahkan ke instansi lain",
-      "B": "langsung diberhentikan sementara sebagai PNS",
+      "A": "dipindahkan ke instansi lain sampai pemeriksaan selesai dan putusan hukuman ditetapkan",
+      "B": "langsung diberhentikan sementara sebagai PNS dan tidak menerima penghasilan apa pun",
       "C": "ditahan oleh tim pemeriksa",
       "D": "dikenai pemotongan gaji 50%",
       "E": "dibebaskan sementara dari tugas jabatannya oleh atasan langsung, dan diangkat pejabat pelaksana harian"
@@ -729,10 +729,10 @@
     "tingkat": "sedang",
     "pertanyaan": "Kewajiban PNS menurut Pasal 4 PP 94/2021 antara lain ...",
     "opsi": {
-      "A": "menerima hadiah dari pengguna layanan",
+      "A": "menerima hadiah dari pengguna layanan sebagai bentuk apresiasi atas pelayanan yang baik",
       "B": "melaporkan harta kekayaan dan menolak segala bentuk pemberian yang berkaitan dengan tugas dan fungsi",
       "C": "mengikuti kegiatan partai politik",
-      "D": "bekerja pada lembaga internasional tanpa izin",
+      "D": "bekerja pada lembaga atau organisasi internasional tanpa izin atau penugasan dari PPK",
       "E": "menjadi anggota koperasi pegawai"
     },
     "jawaban": "B",
@@ -939,10 +939,10 @@
     "pertanyaan": "Menurut SE Kepala BKN 10/2024, UPKP adalah ujian bagi PNS yang ...",
     "opsi": {
       "A": "akan pindah antarinstansi",
-      "B": "akan naik dari golongan III/d ke IV/a",
+      "B": "berpangkat Penata Tingkat I (III/d) yang akan naik ke pangkat Pembina (IV/a)",
       "C": "telah memperoleh ijazah lebih tinggi agar pangkat dan golongannya disesuaikan dengan ijazah terakhir",
       "D": "akan diangkat dalam jabatan pimpinan tinggi",
-      "E": "akan naik dari golongan II/d ke III/a"
+      "E": "berpangkat Pengatur Tingkat I (II/d) yang akan naik ke pangkat Penata Muda (III/a)"
     },
     "jawaban": "C",
     "pembahasan": "UPKP untuk PNS yang memperoleh ijazah lebih tinggi; Ujian Dinas Tk. I untuk II/d ke III/a, Tk. II untuk III/d ke IV/a.",
@@ -1036,8 +1036,8 @@
       "A": "Panitia seleksi nasional",
       "B": "PPK instansi pemerintah penyelenggara UPKP",
       "C": "Kepala LAN",
-      "D": "Kepala BKN",
-      "E": "Menteri PANRB"
+      "D": "Kepala BKN melalui Kantor Regional BKN",
+      "E": "Menteri PANRB untuk seluruh instansi"
     },
     "jawaban": "B",
     "pembahasan": "SE BKN 10/2024: nilai ambang batas UPKP ditetapkan PPK instansi penyelenggara dan disampaikan sebelum ujian.",
@@ -1129,9 +1129,9 @@
     "pertanyaan": "Salah satu aspek penilaian makalah Ujian Dinas Tingkat II (bobot 40%) menurut SE Kepala BKN 10/2024 adalah ...",
     "opsi": {
       "A": "ketajaman analisis dan rekomendasi yang diajukan",
-      "B": "kecepatan penyerahan makalah",
+      "B": "kecepatan penyerahan makalah sebelum batas waktu",
       "C": "jabatan pembimbing makalah",
-      "D": "jumlah halaman dan referensi minimal",
+      "D": "jumlah halaman dan jumlah referensi minimal makalah",
       "E": "jumlah peraturan yang dikutip"
     },
     "jawaban": "A",
@@ -1147,11 +1147,11 @@
     "tingkat": "sedang",
     "pertanyaan": "Peserta UPKP yang tidak memenuhi nilai ambang batas dapat mengikuti ujian ulang dengan metode CAT BKN setelah ...",
     "opsi": {
-      "A": "mendapat rekomendasi Menteri PANRB",
+      "A": "mendapat rekomendasi tertulis dari Menteri PANRB",
       "B": "PPK instansi pemerintah mengajukan permohonan tertulis kepada BKN",
       "C": "mengikuti diklat prajabatan ulang",
       "D": "menunggu lima tahun",
-      "E": "peserta mengajukan permohonan langsung kepada BKN"
+      "E": "peserta mengajukan permohonan sendiri langsung kepada BKN"
     },
     "jawaban": "B",
     "pembahasan": "SE BKN 10/2024 angka 5.g: ujian ulang dilaksanakan setelah PPK mengajukan permohonan tertulis kepada BKN.",
@@ -1205,10 +1205,10 @@
     "pertanyaan": "SE Kepala BKN 10/2024 mencabut dan menyatakan tidak berlaku ...",
     "opsi": {
       "A": "SE Kepala BKN Nomor 22 Tahun 2022 dan SE Bersama Kepala BAKN–Ketua LAN tahun 1981 tentang Ujian Dinas",
-      "B": "UU Nomor 5 Tahun 2014",
+      "B": "UU Nomor 5 Tahun 2014 tentang Aparatur Sipil Negara",
       "C": "PP Nomor 17 Tahun 2020",
       "D": "Perpres Nomor 58 Tahun 2013",
-      "E": "Peraturan Kepala BKN Nomor 33 Tahun 2011"
+      "E": "Peraturan Kepala BKN Nomor 33 Tahun 2011 tentang kenaikan pangkat PNS yang memperoleh ijazah"
     },
     "jawaban": "A",
     "pembahasan": "Penutup SE: SE Bersama Kepala BAKN dan Ketua LAN 1981 serta SE Kepala BKN 22/2022 dicabut.",

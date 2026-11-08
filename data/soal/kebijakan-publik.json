@@ -8,8 +8,8 @@
     "pertanyaan": "Menurut rangkuman, kebijakan publik adalah ...",
     "opsi": {
       "A": "pendapat masyarakat yang dimuat di media",
-      "B": "keputusan pengusaha untuk kepentingan perusahaan",
-      "C": "program partai politik saat kampanye",
+      "B": "keputusan pengusaha dalam menjalankan usahanya demi kepentingan perusahaan",
+      "C": "program partai politik yang disampaikan kepada pemilih saat masa kampanye",
       "D": "tindakan pemerintah dalam menjalankan tugas dan fungsinya demi kepentingan publik",
       "E": "aturan internal organisasi kemasyarakatan"
     },
@@ -332,8 +332,8 @@
     "opsi": {
       "A": "masyarakat melalui petisi",
       "B": "pimpinan Korpri",
-      "C": "partai politik pemenang pemilu",
-      "D": "organisasi profesi",
+      "C": "partai politik pemenang pemilihan umum di tingkat nasional",
+      "D": "organisasi profesi tempat pegawai yang bersangkutan terdaftar",
       "E": "Pejabat Pembina Kepegawaian sesuai ketentuan peraturan perundang-undangan"
     },
     "jawaban": "E",
@@ -428,8 +428,8 @@
       "A": "pelaksanaan audit keuangan dan penyidikan",
       "B": "pembentukan undang-undang dan peraturan pemerintah",
       "C": "penyiapan perumusan dan pelaksanaan kebijakan, bimbingan teknis dan supervisi, serta pemantauan, analisis, evaluasi, dan pelaporan",
-      "D": "penetapan kebijakan nasional dan pengawasan eksternal",
-      "E": "penyusunan APBN dan pengelolaan PNBP"
+      "D": "penetapan kebijakan nasional di bidang hukum serta pengawasan eksternal atas kementerian dan lembaga lain",
+      "E": "penyusunan APBN, pengelolaan PNBP, dan pelaksanaan audit keuangan atas seluruh satuan kerja di wilayah"
     },
     "jawaban": "C",
     "pembahasan": "Pola tugas direktorat: penyiapan perumusan dan pelaksanaan kebijakan, bimbingan teknis dan supervisi, serta pemantauan, analisis, evaluasi, dan pelaporan; subdirektorat: penyiapan bahan.",
@@ -447,8 +447,8 @@
       "A": "menjabarkan arah kebijakan dan strategi nasional dalam RPJMN dengan mempertimbangkan keterlibatan daerah dan swasta",
       "B": "meniru kebijakan negara lain secara utuh",
       "C": "menyalin seluruh program kementerian lain",
-      "D": "mengikuti usulan setiap UPT tanpa penyaringan",
-      "E": "menetapkan kebijakan tanpa mengacu RPJMN"
+      "D": "mengikuti seluruh usulan setiap UPT tanpa penyaringan dan tanpa mengacu pada dokumen perencanaan nasional",
+      "E": "menetapkan kebijakan secara mandiri tanpa mengacu RPJMN agar sesuai dengan kebutuhan internal kementerian"
     },
     "jawaban": "A",
     "pembahasan": "Renstra §3.2: arah kebijakan Kemenimipas menjabarkan arah kebijakan dan strategi nasional dengan mempertimbangkan keterlibatan daerah dan swasta, untuk mencapai sasaran RPJMN.",

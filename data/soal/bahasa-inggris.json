@@ -710,9 +710,9 @@
     "tingkat": "sedang",
     "pertanyaan": "Read the text: \"Online visiting services allow families to meet inmates through video calls. The service reduces queues at the gate and helps families who live far away.\" What is the main idea of the text?",
     "opsi": {
-      "A": "Queues at the gate cannot be reduced.",
+      "A": "Queues at the gate cannot be reduced by any new service at all.",
       "B": "Inmates prefer letters to video calls.",
-      "C": "Families must visit inmates in person.",
+      "C": "Families must still visit inmates in person to use video calls.",
       "D": "Online visiting services benefit both the institution and families.",
       "E": "Video calls are too expensive for families."
     },
@@ -748,10 +748,10 @@
     "tingkat": "sulit",
     "pertanyaan": "Read the text: \"Overcrowding remains a serious challenge. When cells hold more people than their capacity, health risks increase and rehabilitation programs become less effective.\" The word \"capacity\" refers to ...",
     "opsi": {
-      "A": "the number of rehabilitation programs",
+      "A": "the number of rehabilitation programs offered in each cell block",
       "B": "the maximum number of people a cell is designed to hold",
       "C": "the length of a prison sentence",
-      "D": "the cost of building a new cell",
+      "D": "the total cost of building and maintaining a new prison cell",
       "E": "the number of officers on duty"
     },
     "jawaban": "B",
@@ -767,9 +767,9 @@
     "tingkat": "sulit",
     "pertanyaan": "Read the text: \"Overcrowding remains a serious challenge. When cells hold more people than their capacity, health risks increase and rehabilitation programs become less effective.\" It can be inferred from the text that reducing overcrowding would ...",
     "opsi": {
-      "A": "stop all rehabilitation programs",
+      "A": "stop all rehabilitation programs until capacity is increased",
       "B": "reduce the capacity of cells",
-      "C": "increase health risks",
+      "C": "increase health risks for inmates and officers in every cell",
       "D": "make rehabilitation programs more effective",
       "E": "eliminate the need for officers"
     },

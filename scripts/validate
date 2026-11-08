@@ -1,0 +1,150 @@
+#!/usr/bin/env python3
+"""Validasi bank soal. Keluar dengan kode 1 bila ada kesalahan.
+
+Gagal bila:
+  - field wajib kosong / tipe salah, tingkat bukan mudah|sedang|sulit
+  - jawaban bukan A-E, opsi kurang dari 5 (A-E) atau ada opsi kembar
+  - id duplikat, pertanyaan duplikat (setelah dinormalkan)
+  - sumber kosong untuk soal yang bukan di_luar_materi
+  - topik/kategori tidak cocok dengan data/kisi.json
+  - jumlah soal per topik kurang dari target_minimal
+  - satu huruf kunci jawaban > 25% dalam satu file
+  - docs/data/bank-soal.json tidak sinkron (jalankan scripts/build.py)
+Peringatan (tidak menggagalkan):
+  - opsi benar >= 30% lebih panjang dari opsi lain pada > 15% soal satu file
+
+Pemakaian: python3 scripts/validate
+"""
+import collections
+import json
+import os
+import re
+import sys
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+HURUF = ["A", "B", "C", "D", "E"]
+TINGKAT = {"mudah", "sedang", "sulit"}
+WAJIB_TEKS = ["id", "kategori", "topik", "subtopik", "tingkat", "pertanyaan", "jawaban", "pembahasan"]
+
+galat = []
+peringatan = []
+
+
+def norm(s):
+    s = s.lower()
+    s = re.sub(r"[^0-9a-z]+", " ", s)
+    return " ".join(s.split())
+
+
+def main():
+    kisi = json.load(open(os.path.join(ROOT, "data", "kisi.json"), encoding="utf-8"))
+    peta = {t["file"]: t for t in kisi["topik"]}
+    folder = os.path.join(ROOT, "data", "soal")
+    file_ada = sorted(f for f in os.listdir(folder) if f.endswith(".json"))
+    for f in file_ada:
+        if f not in peta:
+            galat.append(f"{f}: file tidak terdaftar di data/kisi.json")
+    for f in peta:
+        if f not in file_ada:
+            galat.append(f"{f}: terdaftar di data/kisi.json tetapi filenya tidak ada")
+
+    semua_id = {}
+    semua_tanya = {}
+    gabungan = []
+    for f in file_ada:
+        if f not in peta:
+            continue
+        t = peta[f]
+        try:
+            data = json.load(open(os.path.join(folder, f), encoding="utf-8"))
+        except json.JSONDecodeError as e:
+            galat.append(f"{f}: JSON tidak valid ({e})")
+            continue
+        if not isinstance(data, list):
+            galat.append(f"{f}: isi harus berupa array soal")
+            continue
+        kunci = collections.Counter()
+        terpanjang = 0
+        for i, s in enumerate(data):
+            lok = f"{f}#{i + 1} ({s.get('id', '?')})"
+            for k in WAJIB_TEKS:
+                if not isinstance(s.get(k), str) or not s.get(k).strip():
+                    galat.append(f"{lok}: field '{k}' kosong atau bukan teks")
+            if not isinstance(s.get("di_luar_materi"), bool):
+                galat.append(f"{lok}: field 'di_luar_materi' harus true/false")
+            if not isinstance(s.get("sumber"), str):
+                galat.append(f"{lok}: field 'sumber' harus teks")
+            elif not s.get("di_luar_materi") and not s["sumber"].strip():
+                galat.append(f"{lok}: 'sumber' kosong padahal di_luar_materi = false")
+            if s.get("tingkat") not in TINGKAT:
+                galat.append(f"{lok}: tingkat '{s.get('tingkat')}' bukan mudah/sedang/sulit")
+            if s.get("topik") != t["topik"] or s.get("kategori") != t["kategori"]:
+                galat.append(f"{lok}: topik/kategori harus '{t['topik']}'/'{t['kategori']}'")
+            opsi = s.get("opsi")
+            if not isinstance(opsi, dict) or sorted(opsi.keys()) != HURUF:
+                galat.append(f"{lok}: opsi harus tepat 5 (A-E)")
+            else:
+                isi = [opsi[h].strip() if isinstance(opsi[h], str) else "" for h in HURUF]
+                if any(not x for x in isi):
+                    galat.append(f"{lok}: ada opsi kosong")
+                if len(set(isi)) < 5:
+                    galat.append(f"{lok}: ada opsi kembar")
+                if s.get("jawaban") in HURUF:
+                    pj = sorted(((len(opsi[h].strip()), h) for h in HURUF), reverse=True)
+                    if pj[0][1] == s["jawaban"] and pj[0][0] >= 1.3 * pj[1][0]:
+                        terpanjang += 1
+            if s.get("jawaban") not in HURUF:
+                galat.append(f"{lok}: jawaban '{s.get('jawaban')}' bukan A-E")
+            else:
+                kunci[s["jawaban"]] += 1
+            sid = s.get("id")
+            if sid in semua_id:
+                galat.append(f"{lok}: id duplikat (juga di {semua_id[sid]})")
+            else:
+                semua_id[sid] = lok
+            q = norm(s.get("pertanyaan", ""))
+            if q in semua_tanya:
+                galat.append(f"{lok}: pertanyaan duplikat dengan {semua_tanya[q]}")
+            else:
+                semua_tanya[q] = lok
+            gabungan.append(s)
+        n = len(data)
+        if n < t["target_minimal"]:
+            galat.append(f"{f}: {n} soal, kurang dari target minimal {t['target_minimal']}")
+        if n:
+            for h, c in kunci.items():
+                if c / n > 0.25:
+                    galat.append(f"{f}: kunci '{h}' dominan ({c}/{n} = {c / n:.0%} > 25%)")
+            if terpanjang / n > 0.15:
+                peringatan.append(f"{f}: opsi benar mencolok paling panjang pada {terpanjang}/{n} soal ({terpanjang / n:.0%})")
+        print(f"  {f:<24} {n:>4} soal  kunci {dict(sorted(kunci.items()))}  benar-mencolok-panjang {terpanjang}")
+
+    bundel = os.path.join(ROOT, "docs", "data", "bank-soal.json")
+    if os.path.exists(bundel):
+        try:
+            b = json.load(open(bundel, encoding="utf-8"))
+            urut = []
+            for t in kisi["topik"]:
+                p = os.path.join(folder, t["file"])
+                if os.path.exists(p):
+                    urut.extend(json.load(open(p, encoding="utf-8")))
+            if b.get("soal") != urut:
+                galat.append("docs/data/bank-soal.json tidak sinkron dengan data/soal/ — jalankan: python3 scripts/build.py")
+        except Exception as e:  # noqa: BLE001
+            galat.append(f"docs/data/bank-soal.json tidak terbaca ({e})")
+    else:
+        galat.append("docs/data/bank-soal.json belum ada — jalankan: python3 scripts/build.py")
+
+    print(f"Total: {len(gabungan)} soal")
+    for p in peringatan:
+        print("PERINGATAN:", p)
+    if galat:
+        print(f"\nGAGAL: {len(galat)} masalah")
+        for g in galat:
+            print(" -", g)
+        sys.exit(1)
+    print("LOLOS: semua pemeriksaan terpenuhi.")
+
+
+if __name__ == "__main__":
+    main()

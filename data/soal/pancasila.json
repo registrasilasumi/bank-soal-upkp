@@ -140,8 +140,8 @@
     "tingkat": "sedang",
     "pertanyaan": "Menurut Notonegoro, Pancasila adalah ...",
     "opsi": {
-      "A": "lima sendi atau aturan tingkah laku yang baik",
-      "B": "isi jiwa bangsa Indonesia yang turun-temurun",
+      "A": "lima sendi atau aturan tingkah laku yang baik bagi seluruh rakyat",
+      "B": "isi jiwa bangsa Indonesia yang telah ada secara turun-temurun",
       "C": "dasar falsafah dan ideologi negara yang diharapkan menjadi pemersatu bangsa",
       "D": "perjanjian luhur para pendiri negara",
       "E": "dokumen politik hasil sidang PPKI"
@@ -178,9 +178,9 @@
     "tingkat": "mudah",
     "pertanyaan": "Pancasila sebagai sumber dari segala sumber hukum berarti ...",
     "opsi": {
-      "A": "Pancasila setara dengan peraturan pemerintah",
+      "A": "Pancasila memiliki kedudukan yang setara dengan peraturan pemerintah",
       "B": "Pancasila hanya berlaku bagi aparatur negara",
-      "C": "Pancasila dapat diubah mengikuti undang-undang yang berlaku",
+      "C": "Pancasila dapat diubah sewaktu-waktu mengikuti undang-undang yang berlaku",
       "D": "hukum adat lebih tinggi kedudukannya daripada Pancasila",
       "E": "setiap peraturan perundang-undangan harus bersumber dan tidak boleh bertentangan dengan Pancasila"
     },
@@ -217,8 +217,8 @@
     "pertanyaan": "Rangkuman materi menyebut delapan fungsi Pancasila. Berikut ini yang BUKAN termasuk di dalamnya adalah ...",
     "opsi": {
       "A": "pedoman teknis penyusunan anggaran negara",
-      "B": "pandangan hidup",
-      "C": "cita-cita dan tujuan bangsa",
+      "B": "pandangan hidup bangsa Indonesia",
+      "C": "cita-cita dan tujuan bangsa Indonesia",
       "D": "perjanjian luhur",
       "E": "dasar negara"
     },
@@ -236,9 +236,9 @@
     "pertanyaan": "Pancasila sebagai pandangan hidup bangsa dipahami sebagai basic belief system, yaitu ...",
     "opsi": {
       "A": "perjanjian luhur para pendiri bangsa",
-      "B": "gagasan politik yang lahir dari kemauan bersama",
+      "B": "gagasan politik yang lahir dari kemauan bersama sebagai kepercayaan politik yang kokoh",
       "C": "sekumpulan nilai yang tersusun sistematis dan menjadi acuan dasar dalam berpikir, bersikap, dan bertingkah laku",
-      "D": "norma dasar yang menjadi pijakan penyelenggaraan negara",
+      "D": "norma dasar yang menjadi pijakan dalam mengatur dan menyelenggarakan pemerintahan",
       "E": "dokumen hukum tertinggi di Indonesia"
     },
     "jawaban": "C",
@@ -255,8 +255,8 @@
     "pertanyaan": "Pancasila sebagai dasar negara berisi norma dasar yang fundamental. Menurut materi, norma tersebut bersifat ...",
     "opsi": {
       "A": "sementara sampai terbentuk konstitusi baru",
-      "B": "fleksibel dan dapat diubah setiap lima tahun oleh MPR",
-      "C": "sama kedudukannya dengan undang-undang",
+      "B": "fleksibel dan dapat diubah setiap lima tahun oleh MPR sesuai kebutuhan zaman",
+      "C": "sama kedudukannya dengan undang-undang sehingga dapat diuji oleh MK",
       "D": "hanya berlaku dalam keadaan darurat",
       "E": "tetap dan berkedudukan istimewa sehingga tidak dapat diubah atau diganti"
     },
@@ -292,9 +292,9 @@
     "tingkat": "sedang",
     "pertanyaan": "Menurut materi, Pancasila sebagai dasar negara berarti Pancasila dijadikan ...",
     "opsi": {
-      "A": "acuan perilaku pribadi semata",
+      "A": "acuan perilaku pribadi semata tanpa kaitan dengan penyelenggaraan negara",
       "B": "pengganti seluruh undang-undang",
-      "C": "pedoman bagi organisasi kemasyarakatan saja",
+      "C": "pedoman bagi organisasi kemasyarakatan saja, bukan bagi pemerintah",
       "D": "alat untuk memilih kepala daerah",
       "E": "pijakan dan pedoman dalam mengatur dan menyelenggarakan negara dan pemerintahan"
     },
@@ -311,10 +311,10 @@
     "tingkat": "sedang",
     "pertanyaan": "Pernyataan \"sila-sila Pancasila saling menjiwai\" mengandung makna bahwa ...",
     "opsi": {
-      "A": "hanya sila kelima yang menjiwai sila lainnya",
+      "A": "hanya sila kelima yang menjiwai sila-sila lainnya dalam Pancasila",
       "B": "kelima sila merupakan kesatuan yang bulat dan tidak dapat dipisahkan",
       "C": "urutan sila dapat diubah sesuai kebutuhan",
-      "D": "sila pertama dapat dilaksanakan tanpa sila lainnya",
+      "D": "sila pertama dapat dilaksanakan secara terpisah tanpa sila lainnya",
       "E": "setiap sila berdiri sendiri dan boleh dipilih"
     },
     "jawaban": "B",
@@ -615,11 +615,11 @@
     "tingkat": "sulit",
     "pertanyaan": "Contoh pengamalan Pancasila berikut tercantum dalam rangkuman, KECUALI ...",
     "opsi": {
-      "A": "menghargai karya orang lain",
+      "A": "menghargai hasil karya orang lain",
       "B": "mengutamakan kepentingan golongan dalam pengambilan keputusan",
       "C": "saling menghormati antarumat beragama",
       "D": "musyawarah untuk mencapai mufakat",
-      "E": "mengutamakan kepentingan umum"
+      "E": "mengutamakan kepentingan umum di atas kepentingan pribadi"
     },
     "jawaban": "B",
     "pembahasan": "Rangkuman menyebut contoh: menghormati antarumat beragama, tidak memaksakan kehendak, musyawarah mufakat, mengutamakan kepentingan umum, tidak diskriminatif, menghargai karya orang lain, serta hak dan kewajiban seimbang.",
@@ -692,10 +692,10 @@
     "pertanyaan": "Perisai pada lambang Garuda Pancasila melambangkan ...",
     "opsi": {
       "A": "perjuangan, pertahanan, dan perlindungan diri",
-      "B": "persatuan dalam keberagaman",
+      "B": "persatuan dalam keberagaman suku bangsa",
       "C": "kedaulatan rakyat",
       "D": "kekayaan alam Indonesia",
-      "E": "kejayaan dan keagungan bangsa"
+      "E": "kejayaan dan keagungan bangsa Indonesia"
     },
     "jawaban": "A",
     "pembahasan": "Perisai adalah lambang pertahanan; melambangkan perjuangan, pertahanan, dan perlindungan diri. Warna emas melambangkan kejayaan.",
